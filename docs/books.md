@@ -1,5 +1,3 @@
-_Created on 03 Nov 2018. Updated on 13 Dec 2020._
-
 Here are my readings. *Work in progress: still merging with some older lists of books read.*
 
 ## Documentary
@@ -146,3 +144,6 @@ Creative selection | Ken Kocienda | Great book about the Apple darwinian process
 Ogilvy on advertising | David Ogilvy | Clear tale about one of the most successful advertisers of all times. Ogilvy explains how ad agencies, executives, creatives have and copy writers work. Many gold nuggets. | - | 5️⃣
 The Elements Of Style | W. Strunk Jr. & E.B. White | Useful booklet about how to write better english. Many good do's and don'ts. | 2019-03 | 4️⃣
 The 100 Greatest Advertisements | Julian W. Watkins | Must read for anyone who writes about products and services. Some ads and lessons seem out of fashion (way too much copy). Favs: “Wanted: Volunteers For the South Pole”; Eastman Kodak - “You press the button, we do the rest”; Steinway - “The Instrument of the Immortals”; Ford Air Transport - “lift up your eyes”; Listerine - “often a Bridesmaid, But never a Bride”; Big Ben - “First he whispers, then he shouts”; Young & Rubicam - “Impact”; Rolls-Royce - “to a man who is afraid to let his dream come true”; Boston & Maine - “That’s a hell of a way to run a railroad”; Webb Young - “hand woven by the mountain people of New Mexico”; Merrill Lynch - “Too long?”; Bruggners - “White Elephant Sale”; Warner & Swasey - “Wonder what a Frenchman thinks about”. | 2019-04 | 4️⃣
+
+-  
+_Created on 03 Nov 2018. Updated on 13 Dec 2020._
