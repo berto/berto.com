@@ -1,5 +1,5 @@
-### Books
-_Created on 03 Nov 2018. Updated on 13 Dec 2020._
+# Books
+Created on 03 Nov 2018. Updated on 13 Dec 2020.
 
 Here are my readings. *Work in progress: still merging with some older lists of books read.*
 
