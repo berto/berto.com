@@ -1,3 +1,5 @@
+_Created on 05 May 2015. Updated on 06 Jun 2021._
+
 This is the website of Humberto Bento Ayres Pereira.
 
 My experiences
@@ -13,6 +15,3 @@ My experiences
 I have some Advisor & Investment experiences, which you can check at [Portotype](https://portotype.com).w
 
 I cycle (casually) and run.
-
---- 
-_Last updated 2021-06-06_
