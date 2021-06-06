@@ -11,6 +11,7 @@ Operational experience
 — 2002-2007: EE+CS Engineering at the University of Porto.  
 
 Advisor & Investment experience
+
 — 2021-xxxx: Scout for investments at Accel Starter program (Accel.com).
 — 2020-xxxx: Angel investor (pre-seed) at XXXXXXXXXXXX.
 — 2020-xxxx: Independent Board Member at SalesLayer.
@@ -20,4 +21,4 @@ Advisor & Investment experience
 I cycle (casually) and run.
 
 --- 
-Last updated 2021-06-06
+_Last updated 2021-06-06_
