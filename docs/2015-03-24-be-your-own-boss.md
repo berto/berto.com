@@ -1,3 +1,5 @@
+# Be your own boss
+
 I have heard many times from colleagues and friends that "life's just about enough". I've never truly believed in this. Everyone feels special. Everyone is special. And very likely everyone wants to continue special.
 
 And so in my view there's not one person who is not ambitious, it just happens that there are many kinds of ambition. Some want to be artists, other politicians, some want to be great lovers, others rock stars.

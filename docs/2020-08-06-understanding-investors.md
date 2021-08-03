@@ -1,3 +1,5 @@
+# Understanding Investors
+
 Some thoughts on investors collected from my experience and conversations with other founders!
 
 Most investors:

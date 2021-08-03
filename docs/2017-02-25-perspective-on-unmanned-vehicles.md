@@ -1,3 +1,5 @@
+# Perspectives on unmanned vehicles
+
 In the middle of 2016, me and my partner Torben decided to study a few business spaces. The criteria was to pick the idea we loved the most out of those where our competences and resources combined could result in a differentiated offering.
 
 We both loved the potential to tackle the software stack fragmentation in the unmanned vehicles market. Unmanned vehicles in this context includes air, ground, surface and the underwater kind. We developed a strategic document with two main references for strategic positioning. I have included them here for your reference, click the links to download!

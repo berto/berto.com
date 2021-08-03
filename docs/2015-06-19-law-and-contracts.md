@@ -1,3 +1,5 @@
+# Law and contracts
+
 Whenever you are about to enter in a contract, hire a lawyer. 
 
 * Ask all the questions, both stupid and smart, about the contract. 

@@ -1,5 +1,4 @@
-# Communicating 
-Created on 04 Mar 2015.
+# Communication principles
 
 The first necessary skill for being in business is communicating well.
  

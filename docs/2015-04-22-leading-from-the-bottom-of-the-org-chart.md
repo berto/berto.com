@@ -1,3 +1,5 @@
+# Leading from the bottom of the org chart
+
 HR-wise, the place of a great leader is at the bottom of an org-chart. A corner stone on top of which a team can be built.
 
 A great leader at the bottom:

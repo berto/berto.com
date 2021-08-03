@@ -1,3 +1,5 @@
+# Leading and lagging indicators
+
 The first part of being smart is to be aware. Aware of what's going well and what's wrong, and how you are evolving. I'll try to go over the most basic element of indicators, and how you can structure them.
 
 > Take a car manufacturer. For the business person, it's important to know sales numbers, revenue, and overall customer loyalty. But those numbers can be meaningless and even counterproductive for a factory worker who is actually building the car. Yes, the quality of the cars affects the satisfaction of a customer, and thus impacts sales and consequently revenue. However, tracking that for the worker has little value in daily operations. Each car will take at least a few days to be finished and sold, and at least a month to show up on sales reports. Also, there are many other people involved in selling a car and providing assistance besides the worker. It will be hard, then, for the factory worker to know how he's doing based on customer loyalty - also because there are many more variables at play. It's much more important to know how fast he finished his tasks, or how many faults his work contained.

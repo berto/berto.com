@@ -1,5 +1,4 @@
-# Analytics - and Cohorts
-Created on 08 Apr 2015. Updated on 17 Feb 2021.
+# Measuring success with cohorts
 
 Whenever you launch a new marketing campaign, or a new product line, or get some good old PR, you want to see what’s the effect of that action. Cause and effect. The easiest way of doing it is to track cohorts.
 

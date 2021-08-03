@@ -1,16 +1,16 @@
-</br>
-</br>
+<br/>
+<br/>
 
 (╯ಠ ಠ)╯︵ ┻━┻
 
-</br>
-</br>
-</br>
-</br>
+<br/>
+<br/>
+<br/>
+<br/>
 
 Posts (most recent at the top).
 
-- [understanding investors](docs/2020-08-06-investors.md) ⭑
+- [understanding investors](docs/2020-08-06-understanding-investors.md) ⭑
 - [online retail positioning](docs/2020-04-29-online-retail-positioning.md)
 - [marketing messages](docs/2019-03-12-marketing-messages.md) ⭑
 - [teams](docs/2018-05-06-teams.md) ⭑

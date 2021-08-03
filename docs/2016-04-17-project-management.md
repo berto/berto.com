@@ -1,5 +1,4 @@
 # Project Management
-Created on 17 Apr 2016. Updated on 28 Aug 2020.
 
 People use to-do lists, calendar plans and more to organize projects.
 

@@ -1,3 +1,5 @@
+# Marketing messages
+
 It's easy to write a slogan, but its hard to write a great one.
 
 To aid me in the initial exploration, I first decide what I want to communicate:

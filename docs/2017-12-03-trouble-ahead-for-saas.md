@@ -1,3 +1,5 @@
+# Trouble ahead for SaaS
+
 From a user demand angle, the SaaS business model is built on a **simplification** advantage: A SaaS tool gives you the functionality you need to do your job, ready to use and hassle-free. In return, they charge a monthly (or yearly) fee. The per person logic is a favorite, but other tiered pricing models exist that scale with usage or features.
 
 From a supply angle, it seems like SaaS proliferated because of how easy and inexpensive it has become to create them:

@@ -1,4 +1,5 @@
-# Thinking with MECE
+# The MECE framework for thinking
+
 Created on 16 Apr 2016. Updated on 07 Aug 2020.
 
 There are many ways to organize your thoughts. My favorite go-to framework is MECE.

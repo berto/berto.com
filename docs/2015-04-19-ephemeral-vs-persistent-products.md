@@ -1,3 +1,5 @@
+# Ephemeral vs. persistent products
+
 We can draw a line that goes from Ephemeral to Persistent, and in this line we can place the internet services according to what they give users.
 
 *   Ephemeral platforms favor instant nuggets of information, like News. Facebook is the best example. Slack, Skype, Gmail, Instagram, Twitter, Linkedin too. The main characteristics of these platforms are: providing exclusive, recent data; being faster; favouring the subjective; wanting as many opinions as possible; acting as the rule maker for filtering and sorting information.

@@ -1,3 +1,5 @@
+# The must-have complex 
+
 In a startup, at times you'll feel more confident about your product, at times less confident. Don't let that create a must-have complex in you. What is this complex? It's when you receive advice from a VC, a colleague, someone in the industry or an employee on things your business is missing to conquer the world, a task list to success. There is generally the wishful thinking that a combination of this or that trick or tool will solve your problems.
 
 I've heard plenty of this before, in a variety of arguments.

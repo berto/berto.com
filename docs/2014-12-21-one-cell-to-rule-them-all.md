@@ -1,3 +1,5 @@
+# One cell to rule them all
+
 I'm fascinated[*](https://web.archive.org/web/20141221112029/http://www.patife.com/) with the potential of spreadsheets cells as the building blocks of programs. They could open General Purpose Computing to the next 1 billion application builders.
 
 ~~~ 
@@ -22,7 +24,7 @@ Why? Because they are very simple to use[*](https://en.m.wikipedia.org/wiki/Spre
 
 This makes them great **to build custom tools that are easy to maintain**. Non-techies find programming hard; maintaining applications is even harder. Spreadsheets provide the benefits without those problems.
 
-<details><summary>In fact, if we abstract them, they are already close to a generic program or a computer.</summary>
+In fact, if we abstract them, they are already close to a generic program or a computer.
 
 <table border=1>
 <tr><td><b>Spreadsheet</b></td><td><b>Program</b></td><td><b>Computer</b></td></tr>
@@ -31,8 +33,6 @@ This makes them great **to build custom tools that are easy to maintain**. Non-t
 <tr><td>Values (displayed)</td><td>UI</td><td>I/O</td></tr>
 <tr><td>Values (stored)</td><td>Database/ persistence</td><td>Storage</td></tr>
 </table>
-
-</details>
 
 Classic spreadsheets are still behind on things like UI, automation or APIs. They are needlessly ugly and static for today's day and age. 
 

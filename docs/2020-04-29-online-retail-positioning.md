@@ -1,3 +1,5 @@
+# Online retail positioning 
+
 As people move their purchases online, people wonder what opportunities for online businesses are out there. 
 
 I believe there's 3 positions, a number of opportunities, and a few extra points worth mentioning: 
