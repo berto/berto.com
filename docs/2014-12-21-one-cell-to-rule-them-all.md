@@ -39,4 +39,4 @@ I have started a company to do fix this with others who feel the same pains. We 
 * we generate slick shareable web apps giving creators a wider audience for their spreadsheets;
 * we connect creators to catalyze and expand a community of a billion strong spreadsheet users.
 
-[Follow us on twitter](https://twitter.com/rowsHQ)
+You can follow Rows on twitter. ([link](https://twitter.com/rowsHQ)).
