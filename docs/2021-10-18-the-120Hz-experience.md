@@ -1,3 +1,5 @@
+_This article was first posted on our Rows.com "tech" channel on Slack messaging on 2021-10-19._
+
 Today apple is announcing their next-gen laptops and chips. 
 
 We will see, as it's expected, new Apple silicon with many important improvements over what was gen1 (Apple m1). We will also see other improvements: I think mostly focused on screens (ProMotion/ 120Hz?) and cameras, with at least 1080p with better FOV, head tracking, better light handling with ML. Battery bumps can be there or not, depending on how much power vs. weight they want - these are Pro machines anyway. A big question is how powerful will gpus be, and if apple will continue the tradition of custom sw (Metal etc) or if they'll get on the "standards" (DirectX OpenGL etc etc).
@@ -10,5 +12,3 @@ I recently read a terrific article that aligns with this view, [Local-first Soft
 
 At the same time, the more FE evolves, the more innovation will come to the BE too. Already on ARM architectures, novel Infrastructure providers such as Cloudflare are being joined by traditional ones (AWS, GCP) to offer computation that is closer to the FE (edge), faster/ more cost efficient (ARM), more powerful (ML), scalable (lambdas) and literally any kind of pre-built component you could wish for (state, realtime comms, cms, queues, DBs, etc etc). Separating and using future-proof components is critical, because as we know any tools we use tend to perpetuate and become that beautiful monster called "technical debt".
 Some might think i'm relying too much on Apple. Quite the contrary. Apple rarely predicts the future. But more frequently than anyone else, though, they are the creator of the conditions for that future. Mac guis, the mouse, ethernet, wifi, iPod, iTunes, iPhone, App Stores, iPads, Apple Watches are apple creations that unleashed most of what's the basis of today's Sw economy. As an example, we can trace ourselves to the iPhone: iPhone => Massive-scale Apps => AWS => SaaS => SaaS VCs => Rows. We will find those new roots and be ourselves the basis for a future economy.
-
-This article was first posted on our Rows.com "tech" channel on Slack messaging.
