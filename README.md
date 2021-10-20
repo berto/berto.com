@@ -10,7 +10,7 @@
 
 Posts (most recent at the top).
 
-- [120Hz experiences](docs/2021-10-18-the-120Hz-experience.md)
+- [the 120Hz experience](docs/2021-10-18-the-120Hz-experience.md)
 - [understanding investors](docs/2020-08-06-understanding-investors.md) ⭑
 - [online retail positioning](docs/2020-04-29-online-retail-positioning.md)
 - [marketing messages](docs/2019-03-12-marketing-messages.md) ⭑
