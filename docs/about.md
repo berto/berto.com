@@ -10,6 +10,6 @@ Operational experience
 — 2006-2007: Research intern at Caltech, building road vision software for the DARPA race.  
 — 2002-2007: EE+CS Engineering at the University of Porto.  
 
-I'm also an advisor and angel investorm check it at [Portotype](https://portotype.com).
+I'm also an advisor and angel investor. Check it at [Portotype](https://portotype.com).
 
 I cycle (casually) and run.
