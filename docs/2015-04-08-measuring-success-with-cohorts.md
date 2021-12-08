@@ -2,19 +2,25 @@
 
 Whenever you launch a new marketing campaign, or a new product line, or get some good old PR, you want to see what’s the effect of that action. Cause and effect. The easiest way of doing it is to track cohorts.
 
-Cohorts are just groups of people that share a common characteristic. As your business progresses with time, the easiest and broader cohorts to track are time cohorts. In this case, a cohort would be defined as the group of people who first bought during a certain period: day or week or month. How many customers did we acquire this week vs. last week? How good of a customer is a customer who bought on christmas vs. one which bought on valentines? All these questions are answered if you track your cohorts.
+Cohorts are just groups of people that share a common characteristic. As your business progresses with time, the easiest and broader cohorts to track are time-based cohorts. You can do them weekly or monthly, and i'll mention different examples below. In this case, a cohort would be defined as the group of people who first bought during a certain period: day or week or month. All these questions are answered if you track these time-based cohorts:
+- How many customers did we acquire this week vs. last week? 
+- How good is a customer who first purchased during Christmas vs. one which we acquired for Valentines? 
 
-The simplest time cohort has two axis. On one axis you have the date of FIRST purchase of the customer. On the other, you have the date of ANY order. Just like in the picture above, you see that the diagonal is the first time a customer purchased — customers who first purchased in march who also purchase in march are first time customers. Also, for each group of customers who FIRST bought on a specific date, ANY purchase with date bigger than REAL date is a return purchase. Simple.
+The simplest cohort table has two axis, and can be rendered in two separate ways:
+- time elapsed. On the vertical axis you list the cohorts: the months of first puchases. On the horizontal axis you list months elapsed: 0 (month of first purchase), 1 (the month after), 2, etc.
+- real time. The vertical axis is the same as above. On the horizontal axis you list real months, Jan 2022, Feb 2022, etc.
 
-How to build such cohorts?
+# How to build cohorts?
 
-1. you start with a list of all orders. The minimum information is a customer id and date of purchase. Believe me, with that you can already build something super powerful. If you want to do other things, you can include spend, number of items on the basket and other information.
-2. then you need to mark, for each order, the date of that customers’ first purchase on a new column. For first purchases, the date of that order and the date of customer’s first purchase will be the same. All you need is a vlookup.
-3. then you can build a model yourself (eheheh) or just throw it all under a pivot to crunch.
+The following examples are all hosted in Rows, the spreadsheet platform my team and I are building. You can (should!) clone my spreadsheet and play around with it, by clicking the + icon. That will create your own copy on your own account!
 
-You can check and download the following file with the individual steps here: [my first cohort table](https://docs.google.com/spreadsheets/d/1hKCg9rCBnUvA5FUjoFXzVpaywCUBNePSF0WutNWAUaY). You won’t have permissions to change anything, but you can download the model by going File/ Download/ Excel.
+## Introduction to cohorts 
 
-On this particular example, if you look at step 3, we can see that the first month had a lot of activity (27 purchases) and that on the following months we some mild activity (between 3 and 6 purchases). The next 3 months cohorts only had 1 person each, and this three people (1 per cohort) came back actually quite a lot comparatively (between 0 and 3 times on each successive months). So these cohorts of people show a better behaviour relative to their initial month of purchase than the first cohort, which was big (27) but didn't have a lot of returning action.
+1. you start with a list of all orders in the table `Sales data`. The minimum information is a customer id and date of purchase. Believe me, with that you can already build something super powerful. If you want to do other things, you can include spend, number of items on the basket and other information as i did in the example.
+2. then you need to calculate, for each order on that table, some helper columns that determine the `month of the sale`, `month of cohort` (month of first purchase of that person), `months elapsed` (from this user's cohort to the current order) and the `purchase in month` for this client. Those are all just a few INDEX MATCH functions and other math tricks.
+3. then you can build a cohort table (elapsed) by doing a COUNTIFS that counts, for each cell, the number of orders that were done for that cohort (row) and (elapsed month) column from different individuals (order for the person in the month =1). you can also compute a % of the month 0, to see what % of people comes back, and then plot it in a chart, as I did.
+
+You can check the cohorts [here](https://rows.com/humberto/analytics/cohorts-introduction-6EEmgZhfuc2euqbFWCyWTx/live). 
 
 With a cohort like this, you can:
 
@@ -23,27 +29,20 @@ With a cohort like this, you can:
 * extrapolate a natural timely behaviour of people and do projections
 * compare all this with real world actions (campaigns, product changes) and understand the impact of your actions
 
-So, what other types of cohorts are there?
+## Cohorts with real data
 
-* time cohorts. The ones i described above
-* campaign cohorts. Instead of grouping customers by date or period, you group them by the campaign which acquired them, independently of when they were acquired (or in addition to)
-* behavioural cohorts. Really, any trait can be used and analysed. How do female customers behave in the months following a purchase vs. male customers?
+To go one step further, there’s an interesting twist I like to give to cohort analysis, which is to do my cohorts orthogonally. Orthogonal means that variables are independent from each other. So, in a way, instead of doing a big cohort which tracks revenue, you can build several cohorts that track users, orders per user and revenue per order, and then multiply them to build the outcome (revenue).
 
-The data plotted in a cohorts analysis can be varied as well:
+I built a much more complete - and orthogonal - cohort model [here](https://rows.com/humberto/analytics/cohorts-for-e-commerce-real-data-7AgSTMDhctsstfl7hUQMxN/a8e012a4-8fb2-44b3-8f70-f1ccbb124fa3/live). Check how it looks, or duplicate and play with it by clicking +.
 
-* orders. How many orders each cohort created on their first and subsequent months/ period
-* revenue. How much revenue each cohort brought on their first and subsequent purchases
-* items per order. Yep
-* fancy something kinky? Really, anything related to the orders can be crunched
+With a cohort like this, and it's independenent variables, you will be able to understand that:
 
-Finally, there’s an interesting twist I like to give to cohort analysis, which is if you do your analysis orthogonally. Orthogonal means things are independent from each other. So, in a way, instead of doing a big cohort which tracks revenue, you can build several cohorts that track users, orders per user and revenue per order. Each of these sub-cohorts can be affected by different events:
+* boosting your customer acquisition campaigns will affect mostly the amount of users.
+* opening on weekend probably affect the amount of new customers and orders per user.
+* launching a companion product will likely affect revenue per order more than anything.
 
-* boosting your customer acquisition campaigns will affect mostly the amount of users
-* opening on weekend probably affect the amount of new customers and orders per user
-* launching a companion product will most likely affect revenue per order more than anything
+## Cohorts for simulations
 
-Hands-on time! Check out this cohort model that you can explore. It tracks several orthogonal variables across the real data you input. It tracks their evolution and their projects the growth of current and future cohorts from those variables. Finally it uses a convolution of all the cohorts to project revenue.
+To complete this, I build one last model, for simulating purposes. Here i used a complete, orthogonal cohort model, and I set the inputs to the simulation as editable cells so that you can play around. Check it [here](https://rows.com/humberto/analytics/cohorts-for-e-commerce-simulator-2tyl566FH2bc8fNtbMvmyI/6ce4e9ad-2e74-47a3-9886-99891384d424/live). If you want it, duplicate it ane continue to evolve it!
 
-In order for anyone to access it, I put it on Google Drive [Orthogonal cohort model](https://docs.google.com/spreadsheets/d/1ntcmkOEEVg3lCX1K5078Czu-9fAan9Xu7yJdw8wzv1A/edit?usp=sharing). You won’t have permissions to change anything, but you can download the model by going File/ Download/ Excel.
 
-Have fun!
