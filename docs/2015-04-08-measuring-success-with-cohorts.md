@@ -14,7 +14,7 @@ The simplest cohort table has two axis, and can be rendered in two separate ways
 
 The following examples are all hosted in Rows, the spreadsheet platform my team and I are building. You can (should!) clone my spreadsheet and play around with it, by clicking the + icon. That will create your own copy on your own account!
 
-## Introduction to cohorts 
+### Introduction to cohorts 
 
 1. you start with a list of all orders in the table `Sales data`. The minimum information is a customer id and date of purchase. Believe me, with that you can already build something super powerful. If you want to do other things, you can include spend, number of items on the basket and other information as i did in the example.
 2. then you need to calculate, for each order on that table, some helper columns that determine the `month of the sale`, `month of cohort` (month of first purchase of that person), `months elapsed` (from this user's cohort to the current order) and the `purchase in month` for this client. Those are all just a few INDEX MATCH functions and other math tricks.
@@ -29,7 +29,7 @@ With a cohort like this, you can:
 * extrapolate a natural timely behaviour of people and do projections
 * compare all this with real world actions (campaigns, product changes) and understand the impact of your actions
 
-## Cohorts with real data
+### Cohorts with real data
 
 To go one step further, there’s an interesting twist I like to give to cohort analysis, which is to do my cohorts orthogonally. Orthogonal means that variables are independent from each other. So, in a way, instead of doing a big cohort which tracks revenue, you can build several cohorts that track users, orders per user and revenue per order, and then multiply them to build the outcome (revenue).
 
@@ -37,13 +37,13 @@ I built a much more complete - and orthogonal - cohort model [here](https://rows
 
 Check how it looks, or duplicate and play with it by clicking +.
 
-With a cohort like this, and it's independenent variables, you will be able to understand that:
+With a cohort like this, and it's independennt variables, you will be able to understand that:
 
 * boosting your customer acquisition campaigns will affect mostly the amount of users.
 * opening on weekend probably affect the amount of new customers and orders per user.
 * launching a companion product will likely affect revenue per order more than anything.
 
-## Cohorts for simulations
+### Cohorts for simulations
 
 To complete this, I build one last model, for simulating purposes. Here i used a complete, orthogonal cohort model, and I set the inputs to the simulation as editable cells so that you can play around. Check it [here](https://rows.com/humberto/analytics/cohorts-for-e-commerce-simulator-2tyl566FH2bc8fNtbMvmyI/6ce4e9ad-2e74-47a3-9886-99891384d424/live). 
 
