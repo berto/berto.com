@@ -33,7 +33,9 @@ With a cohort like this, you can:
 
 To go one step further, there’s an interesting twist I like to give to cohort analysis, which is to do my cohorts orthogonally. Orthogonal means that variables are independent from each other. So, in a way, instead of doing a big cohort which tracks revenue, you can build several cohorts that track users, orders per user and revenue per order, and then multiply them to build the outcome (revenue).
 
-I built a much more complete - and orthogonal - cohort model [here](https://rows.com/humberto/analytics/cohorts-for-e-commerce-real-data-7AgSTMDhctsstfl7hUQMxN/a8e012a4-8fb2-44b3-8f70-f1ccbb124fa3/live). Check how it looks, or duplicate and play with it by clicking +.
+I built a much more complete - and orthogonal - cohort model [here](https://rows.com/humberto/analytics/cohorts-for-e-commerce-real-data-7AgSTMDhctsstfl7hUQMxN/a8e012a4-8fb2-44b3-8f70-f1ccbb124fa3/live). 
+
+Check how it looks, or duplicate and play with it by clicking +.
 
 With a cohort like this, and it's independenent variables, you will be able to understand that:
 
@@ -43,6 +45,8 @@ With a cohort like this, and it's independenent variables, you will be able to u
 
 ## Cohorts for simulations
 
-To complete this, I build one last model, for simulating purposes. Here i used a complete, orthogonal cohort model, and I set the inputs to the simulation as editable cells so that you can play around. Check it [here](https://rows.com/humberto/analytics/cohorts-for-e-commerce-simulator-2tyl566FH2bc8fNtbMvmyI/6ce4e9ad-2e74-47a3-9886-99891384d424/live). If you want it, duplicate it ane continue to evolve it!
+To complete this, I build one last model, for simulating purposes. Here i used a complete, orthogonal cohort model, and I set the inputs to the simulation as editable cells so that you can play around. Check it [here](https://rows.com/humberto/analytics/cohorts-for-e-commerce-simulator-2tyl566FH2bc8fNtbMvmyI/6ce4e9ad-2e74-47a3-9886-99891384d424/live). 
+
+If you want it, duplicate it ane continue to evolve it!
 
 
