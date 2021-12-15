@@ -13,7 +13,10 @@ The simplest cohort table has two axis, and can be rendered in 2 different ways:
 
 2 different ways to visualize cohort tables.
 
+![cohorts](2015-04-08-measuring-success-with-cohorts-cohorts.png)
+
 ### Time Elapsed
+_left table_ 
 
 - On column A you list the cohorts, that is, the months of first purchases. 2022-1 is for January 2022, 2022-2 for February, etc. 
 - On row 1 you list months elapsed, that is, the month since they first purchased. 0 is the month of the first purchase, 1 is the month after that, etc. 
@@ -21,7 +24,8 @@ The simplest cohort table has two axis, and can be rendered in 2 different ways:
 - On this table, you will notice that the diagonal is the current month, or May 2022, which is “2022-5” + 0months, “2022-4” + 1 month, “2022-3”+2, etc. 
 - This table is great to compare behavior. How many (and what %) are you keeping from month 0 to 1, 2, etc.
 
-### Real Time (right table)
+### Real Time
+_right table_
 
 - Column A is the same as for Real Time. 
 - Row 1 is different, and instead of months elapsed it lists real months. Jan 2022, Feb 2022, etc.
