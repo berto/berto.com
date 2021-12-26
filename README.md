@@ -36,5 +36,6 @@ other stuff
 
 - [about](docs/about.md)
 - [news sources](docs/intro/news-sources.md)
-- [books I read](docs/books.md)
+- [book library](docs/books.md)
+- [gadgets](docs/gadgets.md)
 - [predictions & wants](docs/predictions-and-wants.md)
