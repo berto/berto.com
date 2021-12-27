@@ -15,16 +15,18 @@ Robots
 - Robots for the industry. Duh. Anyting from warehouse surveillance to painting walls. I'd love to see them.
 
 Vehicles
-- Better bicycles. It has been suggested, and I'm all for it, that the next big thing is 3-motor ebikes with complete electronic transmission and shifting. I wonder who'll put out the first version. On traditional leg-powered bicycles, i'd love to see lighter options.
+- Better bicycles. It has been suggested, and I'm all for it, that the next big thing is 3-motor ebikes with complete electronic transmission and shifting. I wonder who'll put out the first version. On traditional leg-powered bicycles, i'd love to see lighter, robust options.
 
 Hardware
-- Satellite connections. I'd love to see sats providing the next generation of connectivity for phones, watches etc. Maybe Elon will answer our prayers and offer a "no-subscription" internet for all.
+- Satellite connections. I'd love to see sats providing the next generation of connectivity for phones, watches etc. Maybe Elon will answer my prayers and offer a "subscription-free" internet for all.
 
 Software 
-- Local first, cloud enabled software. Browsers are powerful, and they're plenty to manage a cloud saas where you go hit some buttons. But they're not providing the experience we deserve in everyday heavy productivity. I believe The next-generation of apps will do lot's of heavy lifting locally. I shouldn't have to suffer at the hands of half-second spinning wheels.
-- Data. Without good questions, there's no smart decisions. Without data, you can't answer questions. We need better ways of exposing data to end-users. I see a couple of different products in this section: a) faucets to the world's public oceans of company/places/products data; b) tools to merge structured data from different private sources into a single normalized repository, say a CRM and an analytics tool; c) algorithms that extract data from unstructured sources, such as email and chat; and d) an editor where it's easy to answer questions through data (cof cof -> rows.com).
-- Privacy and encryption. GDPR and Privacy Shield aren't going anywhere. The divide between the West and the new Giants will generate more needs and solutions for data access and consent.
-- Software for remote Teams. We need a new kind of Facebook for teams. Something async enough to not be a distraction, and real enough to be fun and useful. 
+- Local first, cloud enabled software. Browsers are powerful, and they're plenty to manage a cloud saas where you go hit some buttons. But they're not providing the experience we deserve in heavy productivity. I believe the next-generation of apps will do lots of heavy lifting locally. I shouldn't have to suffer at the hands of half-second spinning wheels.
+- Data. Without good questions, there's no smart decisions. Without data, you can't answer questions. So we need better ways of exposing data to end-users. I see a couple of different products in this section: a) faucets to the world's public oceans of company/places/products data; b) tools to merge structured data from different private sources into a single normalized repository, say from a CRM and an analytics tool; c) algorithms that extract data from unstructured sources, such as email and chat; and d) an editor where it's easy to answer questions through data. Ahem, rows.com.
+- Privacy and encryption. GDPR and Privacy Shield aren't going anywhere. The divide between the West and the new economic giant (China) will probably also catalize more needs and solutions around data access and consent.
+- Software for remote teams. We need a new kind of Facebook for teams. Something async enough to not be a distraction, and real enough to be useful. And fun. (After all, We're living in the world of TikTok is a great business channel). 
 - Hyperlink productivity. We shouldn't have to load links into a wiki or CRM database to use them. We need productivity that's as fast as browsing the web. Productivity for the link.
 - Open "Low Code and No Code". The No-code philosophy of offering superpowers to end-users is just getting started. I hope we will see more tools here, especially those that are standards based (like rows.com; ok i'll stop with the shameless plug) and that can be ported, manipulated and used elsewhere. 
-- Files. This touches Local-first software and No-code too. For end-users, *Files are simpler than APIs*: there's no pagination, no credentials, no rate-limiting or outages. APIs should work in the background, but it's images and videos and links people share. I wonder how all these concepts can be made to work together.
+- Files. This touches the previous topics of "local-first" and "No-code". For end-users, *Files are simpler than APIs*: there's no pagination, no credentials, no rate-limiting or outages, files can be moved and ported. APIs should work in the background, but it's images and videos and PDFs and docs and links people share. I wonder how all these concepts can be made to work together. Someone will fix it!
+
+---
