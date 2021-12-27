@@ -1,4 +1,4 @@
-# looking forward to the future
+# looking forward to 2022+
 
 I compiled a list of products and services that I am very bullish on.
 
@@ -29,4 +29,4 @@ Software
 - Hyperlink productivity. We shouldn't have to load links into a wiki or CRM database to use them. We need productivity that's as fast as browsing the web. Productivity for the link. I want an app for this.
 - Open "Low Code and No Code". The No-code philosophy of offering superpowers to end-users is just getting started. I hope we will see more tools here, especially those that are standards based (like rows.com; ok i'll stop with the shameless plug) and that can be ported, manipulated and used elsewhere. 
 
----
+
