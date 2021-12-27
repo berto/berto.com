@@ -6,9 +6,8 @@
 <br/>
 <br/>
 <br/>
-<br/>
 
-Posts (most recent at the top).
+Posts
 
 - [wishlist for 2022 and beyond](docs/2021-12-26-looking-forward-to-the-future.md)
 - [the 120Hz experience](docs/2021-10-18-the-120Hz-experience.md)
