@@ -1,3 +1,5 @@
+# looking forward to the future
+
 I compiled a list of products and services that I am very bullish on.
 
 Spoiler: it's not VR or the metaverse and it's not Crypto and blockchains. I mean, I think those are exciting and I think they will grow. But there's already thousands of people with great visions working on those, so i'm happy to tag along and just learn. The following are where I think not enough people are seeing the true potential.
