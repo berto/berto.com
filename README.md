@@ -10,6 +10,7 @@
 
 Posts (most recent at the top).
 
+- [wishlist for 2022+](docs/2021-12-26-looking-forward-to-the-future.md)
 - [the 120Hz experience](docs/2021-10-18-the-120Hz-experience.md)
 - [understanding investors](docs/2020-08-06-understanding-investors.md) ⭑
 - [online retail positioning](docs/2020-04-29-online-retail-positioning.md)
