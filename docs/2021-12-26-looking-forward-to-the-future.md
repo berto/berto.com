@@ -5,7 +5,7 @@ I compiled a list of products and services that I am very bullish on.
 Spoiler: it's not VR or the metaverse and it's not Crypto and blockchains. I mean, I think those are exciting and I believe they will grow a lot. But there's already thousands of people with great visions working on those so i'm happy to tag along and just learn. The following are concepts which I think can still benefit from more passion.
 
 Convenience
-- On-demand convenience delivery. There's plenty of concepts popping up everywhere with insane growth, like Gorillas.io. I am still bullish on yet new models though, as to this date existing players don't compare to the experience of buying in a Berlin späti.
+- On-demand convenience. There are plenty of startups about instant grocery delivery, and with insane growth, like Gorillas.io. I am still bullish more new models with a better assortment and UX. To this date existing players don't compare to the experience of buying in a Berlin späti.
 - Best-of food delivery. Uber Eats et al are expensive. It's also very hard to discover new restaurants and meals. Some player could commit to buying bulk quantities of the best dishes of a few very good restaurants, and trickle down that simplified cart and volume to a cheaper, less cluttered experience. Easier to discover, easier to order, cheaper to produce and buy.
 - The next "pizza", delivered. Someone will put a lot of research into delivering the next mouth-watering foods that are deliverable to the home. Probably the next big thing is just another incarnation of the gang Pizza Pasta Burger Sushi Salad Bowl Burrito Ice-cream, or who knows maybe the next killer food is something else? In this case, go for absolute food quality.
 
