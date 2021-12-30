@@ -29,4 +29,5 @@ Software
 - Hyperlink productivity. We shouldn't have to load links into a wiki or CRM database to use them. We need productivity that's as fast as browsing the web. Productivity for the link. I want an app for this.
 - Open No Code. The No-code philosophy of offering superpowers to end-users is just getting started. I know we will see more tools here, and I'm especially keen to see those that are standards based. (Like rows.com, that uses the spreadsheet standards; ok i'll stop with the shameless product placement). Standards means that knowledge and solutions can be ported, manipulated and used elsewhere. Revolutions aren't closed.
 
-I'm
+I'm looking forward to all of this.
+If you're working on any of these ideas, I'd love to learn about it. 
