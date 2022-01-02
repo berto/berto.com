@@ -1,4 +1,4 @@
-This is a list of stuff that I 
+This is a list of stuff that I buy or follow closely.
 
 Computers and Gadgets
 - [Apple](https://apple.com): duh. makers of phones, tablets, laptops, watches and headphones.
