@@ -27,7 +27,7 @@ _left table_
 ### Real Time
 _right table_
 
-- Column A is the same as for Real Time. 
+- Column A is the same as in the Time Elapsed Cohorts above, that is, the months of first purchases. 
 - Row 1 is different, and instead of months elapsed it lists real months. Jan 2022, Feb 2022, etc.
 - Again, you can see that 3 people bought for the first time in March 2022 (row 2022-3, column 2022-3). And, again, that 2 came back one month later, and just 1 came back 2 months later. 
 - On this table, you will notice that each column represents the total of people who purchased on a single month. In April 2022 (2022-4) 7 different people made a purchase.
