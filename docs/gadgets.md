@@ -8,7 +8,7 @@ Computers and Gadgets
 - [Anker](https://anker.com): for chargers and powerbanks. I got a bunch of stuff from Anker.
 - [Garmin](https://garmin.com): professional smart watches. I don't own one.
 - [Withings](https://withings.com): smart watches that look good, with lots of cool sensors and batteries that run for weeks. Other health products like smart scales etc. I don't own one yet, though i've been tempted often.
-- [Remarkable](https://remarkable.com): eink book readers that are stlyish and modern and nice. I don't own one, but i've played with them quite some times, and this is a nice machine for reading and jotting notes. 
+- [Remarkable](https://remarkable.com): eInk book readers that are stlyish and modern and nice. I don't own one, but i've played with them quite some times, and this is a nice machine for reading and jotting notes. 
 
 Sports equipment
 - [TechnoGym](https://technogym.com): home and professional gym equipment. I own and like a MyRun treadmill and a Bench.
