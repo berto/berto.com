@@ -21,6 +21,13 @@ Technology
 Life style
 
 * The Atlantic `Paid`. Monthly lifestyle magazine. I have started to read it just 3 issues ago. 
+
+Comics (humor is the #1 proof of intelligence)
+
+* [The Perry Bible Fellowship](https://pbfcomics.com/) `Free`. Acid, great.
+* [XKCD](https://xkcd.com) `Free`. Among the first on the internet, nerdy, scientific humor. 
+* [War and Peas](https://warandpeas.com/) `Free`. 
+* [Strange Planet](https://www.instagram.com/nathanwpylestrangeplanet/) `Free`: "Images that cause laughter".
  
 Portugal
 
