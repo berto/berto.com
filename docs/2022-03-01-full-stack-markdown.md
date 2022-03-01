@@ -1,4 +1,4 @@
-# Why
+## Why
 
 After 2 years working in the Rows.com platform (then dashdash.com), I realized that we were building more than a spreadsheet. We were building a translator. 
 
@@ -8,11 +8,11 @@ After 2 years working in the Rows.com platform (then dashdash.com), I realized t
 - Instead of forcing every user to interact with our spreadsheet language via our interface, we could have contractualized this interaction via a editable human notation that describes the spreadsheet. We could keep the table interface, but we'd make it easier for our community to create scripts.
 - In a way, this wouldn't be that different from Markdown (see also Excalidraw, Mermaid). This is how this document came to. 
 
-# The goal of "Full-Stack Markdowns"
+## The goal of Full-Stack Markdowns
 
 To build systems where human readable notations get translated into code.
 
-# The Problem
+## The Problem
 
 - coding is hard. coding is getting more complex by the day, with multiple layers of OS, frameworks, libraries, APIs, conventions, best practices, etc.
 - most Low-code-No-code platforms are very proprietary and that will mean trouble.
@@ -24,7 +24,7 @@ To build systems where human readable notations get translated into code.
 - pure UI drag and drop frameworks hide the logic and expressiveness of the underlying domain language (which maps to a problem space).. With the pressure to ship, this creates wrong incentives for engineering teams, who have poorly defined or hidden contracts between the Creators and the actual Code.
     - Visual development is still very interesting, but it should neither negate a tangible artifact (the markdown) nor imply being proprietary. 
 
-# The Solution
+## The Solution
 
 - just as markdown translates between text and html+css, I propose that there can be N textual languages that codify a whole stack: FE (code and style)+BE+Data+comms+infra. A full-stack-markdown or human-readable-everything-as-code.
 - I think that more than the particular FSMD (full stack markdown language), we need to create the software where the FSMDs are used. Think of a VSCode or Github for business people.
@@ -37,7 +37,7 @@ To build systems where human readable notations get translated into code.
 - Our software should be an editor which, for each folder or group of folders executes a certain script (the FSMD parser).
 - FSMDs should reuse as much pre-existing code as possible. The core of this business is to create the platform, not the individual FSMDs. 
 
-# Use cases
+## Use cases
 
 FSMDs should allow for many solutions. 
 
