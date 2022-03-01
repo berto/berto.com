@@ -1,8 +1,12 @@
-Full Stack Markdown
+# Why
 
-With our work at Rows.com, I realized that we're building more than a spreadsheet. We're building a translator. 
-- There's this language, which is a bunch of rectangles. 
-- You write about 
+After 2 years working in the Rows.com platform (then dashdash.com), I realized that we were building more than a spreadsheet. We were building a translator. 
+
+- There an this interface, which is a bunch of rectangles (cells). Users can write a language into them, be it values or formulas, set formats and more. 
+- When users write stuff into the cells, we automatically generate a representation of the user's input in the front end, in the back end, and we also have a method to keep both -ends synchronized. 
+- If we wanted, the spreadsheet documents users create can fully describable in a human notation. `A1: 5` is a cell with a literal 5. `A1: =2+2 =>5` is a cell with a formula that results in the same value. 
+- Instead of forcing every user to interact with our spreadsheet language via our interface, we could have contractualized this interaction via a editable human notation that describes the spreadsheet. We could keep the table interface, but we'd make it easier for our community to create scripts.
+- In a way, this wouldn't be that different from Markdown (see also Excalidraw, Mermaid). This is how this document came to. 
 
 # The goal of "Full-Stack Markdowns"
 
