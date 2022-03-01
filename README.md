@@ -9,7 +9,7 @@
 
 Posts
 
-- [Full-stack Markdowns](docs/2022-03-01-full-stack-markdown.md) ★
+- [Full-stack Markdown](docs/2022-03-01-full-stack-markdown.md) ★
 - [CELFEEs](docs/2022-02-14-CELFEEs.md) ★
 - [wishlist for 2022 and beyond](docs/2021-12-26-looking-forward-to-the-future.md)
 - [the 120Hz experience](docs/2021-10-18-the-120Hz-experience.md)
