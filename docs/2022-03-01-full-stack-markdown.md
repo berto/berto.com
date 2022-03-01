@@ -35,7 +35,7 @@ To build systems where human readable notations get translated into code.
     4. Navigation, settings, etc.
 - All layers should be interpreted in real-time, editing should be possible on any. (I assume this is a very hard challenge). That means, the creator should be able to change code, change the programming language translation, and/or change the visual rendering, all at once.
 - Our software should be an editor which, for each folder or group of folders executes a certain script (the FSMD parser).
-- FSMDs should reuse as much pre-existing code as possible. The core of this business is to create the platform, not the individual FSMDs. Some proof of concept are important.
+- FSMDs should reuse as much pre-existing code as possible. The core of this business is to create the platform, not the individual FSMDs. 
 
 # Use cases
 
@@ -54,3 +54,6 @@ FSMDs should allow for many solutions.
 - create a simple shopping cart for sales.
 - store and read (and share) passwords as encrypted files.
 
+# Proof of concept
+
+TBA.
