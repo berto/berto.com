@@ -1,6 +1,6 @@
 ## Why
 
-Around 2019, after 2 years working in the Rows.com platform (then dashdash.com), I realized that we were building more than a spreadsheet. We were building a translator. 
+In 2019, after 2 years working in the Rows.com platform (then dashdash.com), I realized that we were building more than a spreadsheet. We were building a translator. 
 
 - Our editor is, essentially, just a bunch of rectangles (cells). Users can write a language into them, which is the spreadsheet language. This language includes values and formulas, and other visual notations like data formats, colors. 
 - How does the system work? Well, when users write stuff into the cells, we automatically generate a code representation of the user's input in the front end, in the back end, and we also have a method to keep both -ends synchronized. Our computation engine consumes this technical notation and performs any necessary calculations.
