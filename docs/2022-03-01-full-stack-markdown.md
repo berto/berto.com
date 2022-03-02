@@ -21,9 +21,9 @@ To build systems where human readable notations get translated into code.
 - coding is hard. coding is getting more complex by the day, with multiple layers of OS, frameworks, libraries, APIs, conventions, best practices, etc.
 - most Low-code-No-code platforms are very proprietary and that will mean trouble.
     - few to no programming languages were ever successful while being closed/ proprietary.
-    - while having an API counts as being "open", APIs often mean a gatekeeper to give you keys, to develop and maintain them.
-    - the market for solutions moves in unforeseen ways, which makes it hard to keep pace unless you're investing a f- lot.
-    - even with large enough investments, a platform must keep pace with the underlying paradigms, OSes, devices and form-factors, which introduce new problems and opportunities. Examples: mobile, tablets, responsive, cloud, watch, lambda, VR, AR, crypto.
+    - while having an API counts as being "open", APIs often mean a gatekeeper that will issue you keys, keep rate limits, security etc.
+    - furtgerm the market for solutions moves in unforeseen ways, which makes it hard to keep pace with verticals needs unless you're investing a f- lot.
+    - even with large enough investments, a platform must also keep pace with the underlying paradigms, OSes, devices and form-factors, which introduce new problems and opportunities. Examples: mobile, tablets, responsive, cloud, watch, lambda, VR, AR, crypto.
     - experimentation and adaptation is best provided by the community of pros.
 - pure UI drag and drop frameworks hide the logic and expressiveness of the underlying domain language (which maps to a problem space).. With the pressure to ship, this creates wrong incentives for engineering teams, who have poorly defined or hidden contracts between the Creators and the actual Code.
     - Visual development is still very interesting, but it should neither negate a tangible artifact (the markdown) nor imply being proprietary. 
