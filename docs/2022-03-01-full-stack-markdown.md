@@ -1,12 +1,14 @@
 ## Why
 
-After 2 years working in the Rows.com platform (then dashdash.com), I realized that we were building more than a spreadsheet. We were building a translator. 
+Around 2019, after 2 years working in the Rows.com platform (then dashdash.com), I realized that we were building more than a spreadsheet. We were building a translator. 
 
-- There an this interface, which is a bunch of rectangles (cells). Users can write a language into them, be it values or formulas, set formats and more. 
-- When users write stuff into the cells, we automatically generate a representation of the user's input in the front end, in the back end, and we also have a method to keep both -ends synchronized. 
-- If we wanted, the spreadsheet documents users create can fully describable in a human notation. `A1: 5` is a cell with a literal 5. `A1: =2+2 =>5` is a cell with a formula that results in the same value. 
-- Instead of forcing every user to interact with our spreadsheet language via our interface, we could have contractualized this interaction via a editable human notation that describes the spreadsheet. We could keep the table interface, but we'd make it easier for our community to create scripts.
-- In a way, this wouldn't be that different from Markdown (see also Excalidraw, Mermaid). This is how this document came to. 
+- Our editor is, essentially, just a bunch of rectangles (cells). Users can write a language into them, which is the spreadsheet language. This language includes values and formulas, and other visual notations like data formats, colors. 
+- How does the system work? Well, when users write stuff into the cells, we automatically generate a code representation of the user's input in the front end, in the back end, and we also have a method to keep both -ends synchronized. Our computation engine consumes this technical notation and performs any necessary calculations.
+- If we wanted, we could generate a human-readable representation of the spreadsheet, before technical code. Example: `A1: 5` can represent a cell with a literal of value 5. `A1: =2+2 =>5` is a cell with a formula that results in the same value. 
+- So, instead of forcing every user to interact with our spreadsheet language via our interface, we could have contractualized this interaction via a editable human notation that describes the spreadsheet. We would keep the table interface, but we'd also offer the human-readable representation of the spreadsheet. At a minimum, this would make it easier for our community to create scripts to generate spreadsheets. We could take it one step further and open the engine that translates this human notation into the actual code that executes on that particular spreadsheet.
+- In a way, this wouldn't be that different from Markdown (see also Excalidraw, Mermaid). It is a bit more complicated than markdown, and a bit simpler than programming languages for engineers. 
+
+This is how this document came to be. 
 
 ## The goal of Full-Stack Markdowns
 
