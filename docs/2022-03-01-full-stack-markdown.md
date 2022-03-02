@@ -1,14 +1,16 @@
-## Why
+## Origin
 
-In 2019, after 2 years working in the Rows.com platform (then dashdash.com), I realized that we were building more than a spreadsheet. We were building a translator. 
+In 2019, after 2 years working in the Rows.com platform (then dashdash.com), I realized that we were building more than a spreadsheet. **We're building a translator.** 
 
-- Our editor is, essentially, just a bunch of rectangles (cells). Users can write a language into them, which is the spreadsheet language. This language includes values and formulas, and other visual notations like data formats, colors. 
-- How does the system work? Well, when users write stuff into the cells, we automatically generate a code representation of the user's input in the front end, in the back end, and we also have a method to keep both ends synchronized. Our computation engine consumes this technical notation and performs any necessary calculations.
-- If we wanted, we could generate a human-readable representation of the spreadsheet, sitting between the editor grid interface and the several layers of technical code. Example: `A1: 5` can represent a cell with a literal of value 5. `A1: =2+2 =>5` is a cell with a formula that results in the same value. 
-- So, instead of forcing every user to interact with our spreadsheet language via our interface, we could have contractualized this interaction via a editable human notation that describes the spreadsheet. We would keep the table interface, but we'd also offer the human-readable representation of the spreadsheet. At a minimum, this would make it easier for our community to create scripts that generate all kinds spreadsheets. We could take it one step further and open the engine that translates this human notation into the actual code that executes for that particular spreadsheet.
-- In a way, this wouldn't be that different from Markdown (see also Excalidraw, Mermaid). This is a bit more complicated than Markdown, and a bit simpler than programming languages for developers. 
+Our Rows editor is, essentially, just a bunch of rectangles (cells). Users can write a language into them, which is the spreadsheet language. This language includes values and formulas, and other visual notations like data formats and colors. When users write stuff into the cells, we automatically generate a code representation of the user's input in the front end, in the back end, and we also have a method to keep both ends synchronized. Our computation engine consumes this technical notation and performs any necessary calculations, sending results back to update what the user sees on the editor.
 
-This is how this document came to be. 
+In reality, it's a bit more complicated than that. Behind the user input, there is an amalgamation of code, structures, and applications. Some of them exist locally in the browser and app, whereas others work in the cloud. It's hard to separate what belongs to a particular spreadsheet and a particular computation from what is shared between spreadsheets and belongs to the platform as a whole. This is because the platform is designed to provide a service to the user.
+
+But then I thought: what if we generated a human-readable representation of the spreadsheet, sitting between the grid interface of the editor and the several layers of technical code? We were already using some of it to describe bugs. `A1: 5` can represent a cell with a literal of value 5. `A1: =2+2 =>5` is a cell with a formula that results in the same value. With this notation, instead of forcing every user to interact with our spreadsheet language via our interface, we would contractualize this interaction via a editable human notation that describes the spreadsheet. We would keep the table interface, but we'd also offer the human-readable representation of the spreadsheet. At a minimum, this allow the spreadsheet community to create scripts that generate all kinds of spreadsheets.
+
+We could take it one step further. We could open the engine that translates this human notation into the actual code that executes for that particular spreadsheet. We would separate 3 layers: UI, human-readable code, and the all the technical stuff translated from the human-readable code. The engine that translates between the layers is the interesting piece. 
+
+In a way, all of this isn't that different from Markdown, or other tools like Excalidraw and Mermaid. This is a bit more complicated than Markdown, and a bit simpler than programming languages for developers. I started generating all kinds of human-notation languages on my mind. This is how this document came to be. 
 
 ## The goal of Full-Stack Markdowns
 
