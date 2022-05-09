@@ -10,4 +10,6 @@ Let's box support into 5 basic levels:
 
 It's important to recognize which role you're playing and provide the correct level (or more!).
 
-As an angel investor, I always try to establish a close business partner connection. As a client, I generally wait for an iphone or new ebike to decide if i'll buy it. But i'm also frequently a fanboy (apple) and may buy nonetheless!
+That means being clear about the relationship and providing information.
+
+As an angel investor, I always try to establish a close business partner connection; that is, I may say "i'll put in a ticket of $k when you show me a prototype doing X", or ".. when you land your first customer" or something. As a client, I generally wait for the iPhone release events to decide if I'll buy it. But i'm also frequently a fanboy (apple) and may buy nonetheless!
