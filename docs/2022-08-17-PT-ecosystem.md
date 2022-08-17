@@ -1,4 +1,4 @@
-# The State of the Portuguese Ecosystem - My take on questions by a VC
+# The state of the Portuguese Ecosystem
 
 Answers to questions asked by Ines at norrsken.vc. 
 Below are all my answers, with the info I have as of this date.
