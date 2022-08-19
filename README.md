@@ -40,5 +40,5 @@ other stuff
 - [about](docs/about.md)
 - [news sources](docs/intro/news-sources.md)
 - [book library](https://rows.com/humberto/lifestyle/book-library-4wps5rXzQ4qqviHLznqTaW/live)
-- [gadgets](docs/gadgets.md)
+- [gadgets](docs/crush-index.html)
 - [predictions & wants](docs/predictions-and-wants.md)
