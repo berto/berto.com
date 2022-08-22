@@ -48,7 +48,7 @@ Not currently, with the exception of Talent - we receive lots of people from Bra
 
 NA.
 
-## What are the major advantages and challenges of starting a company in Portugal? 
+### What are the major advantages and challenges of starting a company in Portugal? 
 
 Advantages: Easy access to technical talent; Great weather, safe place to live. 
 
