@@ -1,4 +1,4 @@
-Negative feedback is part of the process.
+# Negative feedback
 
 I've collected some of the worst feedback we've received, mostly for stuff under my responsibility. 
 
