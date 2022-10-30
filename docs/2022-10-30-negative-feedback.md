@@ -10,16 +10,16 @@ I've collected some of the worst feedback we've received, mostly for stuff under
 I have 3 guiding principles to parsing through feedback:
 
 1. Accept it. I generally take it quite to heart, but 99.99% of negative feedback isn't ill-intent. The most negative comments result from deep frustration in my experience. Thanking feedback is important to acknowledge the other side, and is a way to extract more info.
-2. Own it. Most feedback comes from consequences of decisions with trade-offs. Negative feedback means that something that is important to a user or colleague got left out. In the best case scenario, I recognize that there and trade-offs and that I am comfortable with their consequences. In other situations, I assume that we actually have failed, and need to get an important fix going. 
-3. Move forward. Act or don't act on it, it's important that the situation is closed and that everyone involved understands the final state. Will you fix something? No? Why?. Close it!
+2. Own it. Most feedback comes from the consequences of decisions that have to be made. Negative feedback means that something that is important to a user or colleague got left out. In the best case scenario, I recognize that there are trade-offs and that I am comfortable with their consequences. In other situations, I assume that we actually have failed, and I work on a plan to get a fix to that important topic. 
+3. Close it. Is important that the situation is closed and that everyone involved understands the final state. Will you fix something or maybe not? Why?. In my experience, being a passive inbox of feedback and not closing the loop amplifies it.
 
-Ideally you will receive far more positive feedback than negative, and that helps along the way!
+You will also get positive feedback, and that helps along the way!
 
 - User: "Rows is an objectively well-designed software, I'm pretty certain if a user is thrown into it right away they will appreciate the quality and value prop. They will appreciate how much better it is than Sheets/Excel." (2022-08-01)
 - Team: "I really loved everyone. My job at the Apps team (...) it was amazing. Everyone on that team was very motivated." (2022-08-25).
 - Team: "People - amazing people, low ego. Having so much space to decide technologies, way to go - a lot of trust in Engineering." (2019-12-19).
 
-Over time, you can also paint a pretty accurate picture of what organic system you have. 
+Over time, if you do a retrospective, you can also get a pretty accurate picture of what organic system you have on your hands. 
 
 - at Rows the whole of user feedback can be summarized as "I think this is amazing, but YOU MUST improve X". X has varied a lot in the past, and nowadays (Q4 2022) its just a couple of items.
-- team wise, if we mash the feedback I think we get "Our vision for a next-gen Spreadsheet is very ambitious, and that has created stress between our values of Focus (speed) and Boldness (10x vision), which affects Product and Design".
+- team wise, if we mash the feedback I think we get "Our vision for a next-gen Spreadsheet is very ambitious, and that has created stress between our values of Focus (speed) and Boldness (10x vision), which affects Product and Design. We all want more success.".
