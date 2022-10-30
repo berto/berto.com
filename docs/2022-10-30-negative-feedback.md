@@ -7,10 +7,10 @@ I've collected some of the worst feedback we've received, mostly for stuff under
 - Team: “I think we’re missing Focus. Too many meetings. Too many distractions. The devs are great, but the Dev/PM and Design/PM discussions are slowing us down.” (2022-08-25)
 - Team: "No clarity of functional responsibilities, except Engineering - e.g. PMs responsibilities were questioned a lot and changes were constantly made - P.Design deciding product, saying “everyone can be a PM or do Product”." (2021-03-12)
 
-I have 3 guiding principles to parsing through feedback:
+I have 2 guiding principles to parsing through feedback:
 
-1. Accept it. I generally take it quite to heart, but 99.99% of negative feedback isn't ill-intent. The most negative comments result from deep frustration in my experience. Thanking feedback is important to acknowledge the other side, and is a way to extract more info.
-2. Own it. Most feedback comes from the consequences of decisions that have to be made. Negative feedback means that something that is important to a user or colleague got left out. In the best case scenario, I recognize that there are trade-offs and that I am comfortable with their consequences. In other situations, I assume that we actually have failed, and I work on a plan to get a fix to that important topic. 
+1. Thank it. I generally take it quite to heart, but 99.99% of negative feedback isn't ill-intent. The most negative comments result from deep frustration in my experience. Thanking feedback is important to acknowledge the other side, and is a way to extract more info.
+2. Own it. Most feedback comes from the consequences of decisions that have to be made. Negative feedback means that something that is important to a user or colleague got left out. In the best case scenario, I recognize that there are trade-offs and that I am comfortable with their consequences vs. the effort to improve it. In other situations, I assume that we actually have failed and that it is important, and I work on a plan to get a fix.
 3. Close it. Is important that the situation is closed and that everyone involved understands the final state. Will you fix something or maybe not? Why?. In my experience, being a passive inbox of feedback and not closing the loop amplifies it.
 
 You will also get positive feedback, and that helps along the way!
