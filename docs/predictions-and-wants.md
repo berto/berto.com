@@ -43,6 +43,8 @@ Organizations
 * 2030: co-living, co-owning and house time-sharing is big. People are mobile and have contracts that guarantee shelter. The population in the West excluding immigration is declining fast relative to the amount of housing available. That and technology lowers prices. These flexible rental subscriptions have more than a million active contracts. Posted in December 2016, updated wording in May 2018.
 * 2030: General purpose AI is still not a thing. Machines can’t take care of themselves autonomously. Machines and algorithms can still only learn what we tell them to learn. Even when they can perform generalization, they can only do it in types of problems we tell them to generalize (Dec 2016)
 * 2030: Car sharing and car hailing services provide 50% of more of all intercity trips in one of the largest 100 cities in the world (Dec 2016)
+* 2034: USA wins the FIFA World Cup (Football) in any of the previous championships starting in 2022, that is, 2022 or 2026 or 2030 or 2034 or if the format changes any year between 2022 and 2035. (Nov 2022)
 * 2035: In the years between Brexit announcement (year 2016) and 2035, per-capita GDP (PPP) in the UK will have grown as much or more than EU average (exc. UK) and of DE, FR, IT. (Jan2018).
+
 
 
