@@ -33,7 +33,7 @@ In fact, if we abstract them, they are already close to a generic program or a c
 
 Classic spreadsheets are still behind on things like UI, automation or APIs. They are needlessly ugly and static for today's day and age. 
 
-I have started a company to do fix this with others who feel the same pains. We a are building [Rows](http://rows.com), a **a new spreadsheet, with data Integrations and slick, Live Sharing.**!
+I have started a company to do fix this with others who feel the same pains. We a are building [Rows](http://rows.com), a **new spreadsheet, with data Integrations and slick, Live Sharing.**!
 
 * we empower end-users as creators, giving them access to modern computation like data & APIs in a spreadsheet;
 * we generate slick shareable web apps giving creators a wider audience for their spreadsheets;
