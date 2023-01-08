@@ -32,3 +32,4 @@ Comics (humor is the #1 proof of intelligence)
 Portugal
 
 * [Governo Sombra](https://www.tsf.pt/programa/governo-sombra.html) `Free`. Commentary on Portuguese and World news. It's a great form of commentary. The 3 participants (+1 host) focus a lot on who said what and how; less than the actual content, like economic or social news; but in doing that, they expose very good points. I hear the podcast only, and never miss a single show. 
+* [Extremamente Desagradável]([https://www.tsf.pt/programa/governo-sombra.html](https://rr.sapo.pt/extremamente-desagradavel)) `Free`. Humor and commentary on Portuguese news. Half of them are quite a good laugh.
