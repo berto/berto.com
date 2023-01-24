@@ -54,7 +54,7 @@ Some newer players operate here:
 - Cord.com: add collaboration to your product.
 - MagicBell.com: add notifications to your product.
 
-Some of the players start with low-investment integrations (1hour or less), but to get full benefits you have to consume their SDK or API more fully. It is my conviction though that through a BE state sync, a wrapper API and FE methods this should be as light-touch as possible. 
+Some of the players start with low-investment integrations (1hour or less) which provide the essentials of the service, but to get full benefits you have to consume their SDK or API more fully. It is my conviction though that you should be able to achieve a Low-code solution with a one-time investment only plus infrequent maintenance for breaking changees. In the end, it's all code. BE state sync, a gateway API or FE code should be able to provide the injection of the "intercom" solution throughout. 
 
 ### Opportunities
 
