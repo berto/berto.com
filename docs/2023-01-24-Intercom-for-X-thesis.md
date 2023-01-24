@@ -52,6 +52,9 @@ Speed. With Intercom, marketing operates at the speed of marketing, not at the s
 Some newer players operate here:
 - (the original) Intercom.com: add custom touch points with your customer.
 - Cord.com: add collaboration to your product.
+- MagicBell.com: add notifications to your product.
+
+Some of the players start with low-investment integrations (1hour or less), but to get full benefits you have to consume their SDK or API more fully. It is my conviction though that through a BE state sync, a wrapper API and FE methods this should be as light-touch as possible. 
 
 ### Opportunities
 
