@@ -10,17 +10,13 @@ Meanwhile, the ever growing demand for more software has also increased the cost
 
 Intercom style businesses are well positioned to offer businesses a lot of value. With them, companies get the fastest time-to-market. Because the Intercom's are domain experts, they provide proven solutions. They give businesses a full-stack software from day 1: UX, software, metrics, backoffice, all is included. Lastly, they give teams the power to customize things to their needs, without consuming precious engineering time.
 
-### Intro
+### Signs in the market
 
-I come at this thesis from 2 angles.
+There are 2 measurable elements that make me believe this thesis is correct:
 - The cost of developing a product is the largest or 2nd largest expense for many startups and online businesses.
-- The speed at which companies ship product is a competitive factor, as it permits differentiation and more value add.
+- The speed at which companies ship product is a competitive factor, as it permits differentiation and more value add. A company that delivers fast is also better for investors, and they are vocal about it. Investors succeed on the upside of a few positive outcomes and accept a majority of duds, and they are interested in figuring fast out which are which.
 
-The faster you can build your product, the more you can iterate, fail, learn, and ultimately succceed in solving your users problems. The faster you build a product, the faster you can deliver quality too. 
-
-A company that delivers fast is better for investors. They succeed on the upside of a few outcomes and accept a majority of duds. They are interested in fast outcomes.
-
-### The observation
+### The original player
 
 Intercom offers companies a simple trade-off:
 - you add two lines of code to your software
