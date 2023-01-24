@@ -52,7 +52,6 @@ Speed. With Intercom, marketing operates at the speed of marketing, not at the s
 Some newer players operate here:
 - (the original) Intercom.com: add custom touch points with your customer.
 - Cord.com: add collaboration to your product.
-- MagicBell.com: add notifications to your product.
 
 ### Opportunities
 
