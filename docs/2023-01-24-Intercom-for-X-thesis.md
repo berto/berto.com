@@ -4,7 +4,7 @@
 
 I believe that we will see the emergence of many Intercom-style applications. That is, Plug'n'play, Domain SaaS.
 
-Competition within software categories is growing. On top of that, users increasingly demand top notch, custom experiences. As a result, companies must offer best-in-class solutions to their users AND at the same time they have to test varations and adaptations of those features to their specific needs.
+Competition within software categories is growing. On top of that, users increasingly demand top notch, custom experiences. As a result, companies must offer best-in-class solutions to their users AND at the same time they have to test variations and adaptations of those features to their specific needs.
 
 Meanwhile, the ever growing demand for more software has also increased the cost of running engineering, product and design teams. The complexity of solutions creates many layers of frameworks, server and local code, data and UI, all of which are hard to build and harder to perfect. 
 
