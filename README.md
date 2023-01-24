@@ -8,7 +8,7 @@
 <br/>
 
 Posts
-- [Intercom for X (thesis)](docs/2023-01-24-Intercom-for-X-(thesis).md) ★
+- [Intercom for X (thesis)](docs/2023-01-24-Intercom-for-X-thesis.md) ★
 - [Negative feedback](docs/2022-10-30-negative-feedback.md)
 - [The state of the Portuguese Ecosystem](docs/2022-08-17-PT-ecosystem.md)
 - [The 5 levels of support](docs/2022-05-09-the-five-levels-of-support.md)
