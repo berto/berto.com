@@ -18,7 +18,6 @@ Posts
 - [online retail positioning](docs/2020-04-29-online-retail-positioning.md)
 - [trouble ahead for SaaS](docs/2017-12-03-trouble-ahead-for-saas.md) ★
 - [perspective on unmanned vehicles](docs/2017-02-25-perspective-on-unmanned-vehicles.md)
-- [the must-have complex](docs/2015-08-31-the-must-have-complex.md)
 - [ephemeral vs persistent](docs/2015-04-19-ephemeral-vs-persistent-products.md) 
 - [one cell to rule them all](docs/2014-12-21-one-cell-to-rule-them-all.md) ★
 
