@@ -13,6 +13,7 @@ Posts
 other stuff
 
 - [about](docs/about.md)
+- [Investments](https:/portotype.com)
 - [news sources](docs/intro/news-sources.md)
 - [book library](https://rows.com/humberto/lifestyle/book-library-4wps5rXzQ4qqviHLznqTaW/live)
 - [gadgets](docs/crush-index.html)
