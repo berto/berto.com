@@ -1,6 +1,6 @@
-# One cell to rule them all
+# 2014-12-21 One cell to rule them all (updated)
 
-For some time now ([link](https://web.archive.org/web/20141221112029/http://www.patife.com/) I've been fascinated with the potential of spreadsheets cells as the building blocks of programs. They could open General Purpose Computing to the next 1 billion application builders.
+For some time now ([link](https://web.archive.org/web/20141221112029/http://www.patife.com/)) I've been fascinated with the potential of spreadsheets cells as the building blocks of programs. They could open General Purpose Computing to the next 1 billion application builders.
 
 Spreadsheets have outgrown their humble beginnings. They started as an accounting tool. Now they power just about any task and department:
 
