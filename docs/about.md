@@ -2,8 +2,8 @@
 
 My journey so far.
 
-- 2016-....: Co-Founder of [Rows.com](https://rows.com), the connected spreadsheet. 
-- 2012-....: Angel investor via [Portotype](https://portotype.com). 
+- 2016-xxxx: Co-Founder of [Rows.com](https://rows.com), the connected spreadsheet. 
+- 2012-xxxx: Angel investor via [Portotype](https://portotype.com). 
 - 2014-2016: Co-Founder and Co-CEO at EatFirst.com, an online restaurant. 
 - 2012-2014: Founder and CEO at Skin.pt, a Health & Beauty business. 
 - 2009-2011: MBA at Harvard Business School. 
