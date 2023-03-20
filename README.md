@@ -7,8 +7,11 @@
 <br/>
 <br/>
 
-Posts
-- [one cell to rule them all](docs/2014-12-21-one-cell-to-rule-them-all.md) ★
+projects
+
+- [Rows.com](https://rows.com). My first thoughts on spreadsheets, from 2014, [here](docs/2014-12-21-one-cell-to-rule-them-all.md).
+- [Portotype](https://portotype.com). Investments, thesis, and a bit of management.
+- [Decode Portugal](https://decodeportugal.com). A guide on building companies in Portugal.
 
 other stuff
 
