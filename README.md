@@ -7,11 +7,12 @@
 <br/>
 <br/>
 
-What I'm doing right now.
+Live projects.
 
 - [Rows.com](https://rows.com). The spreadsheet we're builing. [Original vision](docs/2014-12-21-one-cell-to-rule-them-all.md).
-- [Portotype](https://portotype.com). Investments, thesis, and a bit of management.
+- [Portotype](https://portotype.com). Investments and thesis.
 - [Decode Portugal](https://decodeportugal.com). A guide on building companies in Portugal.
+- [Plastic Life](https://plasticlife.puter.site/). My career, plastic card by plastic card.
 
 other stuff
 
