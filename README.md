@@ -18,7 +18,7 @@ Other projects.
 - [Map of Porto](/porto/)
 - [Portuguese food](/portuguese-food/)
 - [Family recipes](/family-recipes/)
-- [Case Logic](/music/caselogic.md). A story of teenage music in Porto.
+- [Case Logic](/music/caselogic.md). How local teenagers got their music in the 80s.
 - [Plastic Life](https://plasticlife.puter.site/). My life so far, one plastic card at a time.
 - [Book library](https://rows.com/humberto/lifestyle/book-library-4wps5rXzQ4qqviHLznqTaW/live)
 
