@@ -1,5 +1,6 @@
 # Case Logic
-2023-07-04
+
+Porto, 2023-07-04
 
 Tive uma conversa interessante acerca da origem social das músicas que ouvimos.
 
