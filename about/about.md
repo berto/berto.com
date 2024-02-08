@@ -10,7 +10,7 @@ My experiences
 * 2006-2007: Research intern at Caltech, building road vision software for the DARPA race.  
 * 2002-2007: EE+CS Engineering at the University of Porto.  
 
-I have some Advisor & Investment experiences, which you can check at [Portotype](https://portotype.com).w
+I have some Advisor & Investment experiences, which you can check at [Portotype](https://portotype.com).
 
 I cycle (casually) and run.
 
