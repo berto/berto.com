@@ -34,7 +34,7 @@ Nos 3 primeiros livros, o autor foca-se no testemunho e comentário do quotidian
 </details>
 
 <details>
-  <summary>Volume 2 - De férias com o Diabolo</summary>
+  <summary>Volume 2 - De Férias com o Diabolo</summary>
 
 - (Nas traduções é "In the Shadow of Young Girls in Flower" (EN) ou "Within a Budding Grove" (EN) ou "À sombra das raparigas em flor" (PT))
 - O segundo volume começa na sequência do primeiro, e conhecemos o Marcel a amadurecer como um jovem, sem nunca deixar de ser um tono monumental. (Este é o resumo, podem saltar para o próximo livro.)
@@ -50,7 +50,7 @@ Nos 3 primeiros livros, o autor foca-se no testemunho e comentário do quotidian
 </details>
 
 <details>
-  <summary>Volume 3 - Os Guermantes são peneirentos</summary>
+  <summary>Volume 3 - Os Guermantes são Peneirentos</summary>
 
 - No terceiro volume a a família do Marcel muda-se para Paris. Agora moram num prédio. O Marcel nota que os criados copiam as expressões e os protestos que os criados dos vizinhos dirigem aos patrões.
 - São vizinhos dos influentes Guermantes. O Marcel anda meio obcecado pela madame de Guermantes, a vizinha que não lhe liga puto. O jovem decide visitar um amigo que vive encostado ao quartel do serviço militar, o Robert Saint-Loup, que é sobrinho dela, para lhe pedir uma introdução sob uma desculpa esfarrapada, e depois uma um bocado melhor. O amigo Robert está por sua vez caído por uma fulana de reputação duvidosa, Rachel, uma Odette 2.0 que o maltrata enquanto ele anda atrás dela a dar-lhe jóias caríssimas de 30 mil francos. Aliás, esta Rachel é a mesma que o louco Bloch tinha apresentado ao Marcel numa dessas casas da especialidade, e que cobrava nada, por tudo.
