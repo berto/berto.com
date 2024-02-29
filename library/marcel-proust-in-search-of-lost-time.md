@@ -1,6 +1,6 @@
 Esta página tem um resumo da obra Em Busca do Tempo Perdido, do Marcel Proust.
 
-☝️ Contém imensos spoiler, e provavelmente montes de erros. Ainda estou a meio. Nota: a personagem principal tem o mesmo nome do escritor, mas isto é um romance de ficção (não é real). 
+☝️ Contém imensos spoilers, e provavelmente montes de erros. Ainda estou a meio. Nota: a personagem principal tem o mesmo nome do escritor, mas isto é um romance de ficção (não é real). 
 
 ### Sumário para quem gosta de livros de auto-ajuda
 
