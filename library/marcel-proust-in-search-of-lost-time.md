@@ -16,7 +16,7 @@ Nos 3 primeiros livros, o autor foca-se no testemunho e comentário do quotidian
 
 </details>
 
-### Resumo de cada calhamaço para quem tem 10 minutos a perder
+### Resumo de cada calhamaço para quem tem vários minutos a mais
 
 <details markdown=1><summary>Volume 1 - O Palerma do Senhor Cisne</summary>
 
