@@ -65,7 +65,7 @@ Num verão o jovem vai para Balbec com a avó, junto ao mar. Na viagem, o Marcel
 
 Lá em Balbec, reúne-se com o amigo Bloch, judeu e maluco, cujo pai diz que conheceu a mulher do Swann em primeira mão como prostituta.
 
-O Marcel conhece também um pintor reputado, Elstir. Este apresenta-o à grupeta de miúdas populares nesta vila junto ao mar. Albertine é pobre, Andrée é rica, e há outras. A Albertine diz-lhe que gosta dele, mas quando o Marcel tenta dar-lhe um beijo ela afasta-o. Ele fica na boa, e acaba meio apaixonado pelo grupo todo.
+O Marcel conhece também um pintor reputado, Elstir. O Elstir é obcecado pela mulher, que parece ao Marcel bastante normal. O Elstir apresenta-o à grupeta de miúdas populares nesta vila junto ao mar. Albertine é pobre, Andrée é rica, e há outras. A Albertine diz-lhe que gosta dele, mas quando o Marcel tenta dar-lhe um beijo ela afasta-o. Ele fica na boa, e acaba meio apaixonado pelo grupo todo.
 
 Mesmo antes do fim, uma velha leva com um diabolo na cabeça [1]. Fim do segundo livro.
 
