@@ -18,7 +18,7 @@ Personal pointers.
 - [Map of Porto](/porto/). Map of Porto and historic names. (PT)
 - [Portuguese food](/portuguese-food/) and [Family recipes](/family-recipes/). (PT)
 - [Case Logic](/music/caselogic.md). How local teenagers got their music in the 80s. (PT)
-- [In Search of Lost Time](/library/marcel-proust-in-search-of-lost-time.md). Summaries of the book. (PT)
+- [In Search of Lost Time](/library/marcel-proust-in-search-of-lost-time.md). Summary of the books. (PT)
 - [Gadgets](docs/crush-index.html)
 - [Predictions & wants](docs/predictions-and-wants.md)
 - [Plastic Life](https://plasticlife.puter.site/). My life so far, one plastic card at a time.
