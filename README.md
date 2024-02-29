@@ -13,19 +13,15 @@ Live projects.
 - [Portotype](https://portotype.com). Investments and thesis.
 - [Decode Portugal](https://decodeportugal.com). A guide on building companies in Portugal.
 
-Other projects.
+Personal pointers.
 
-- [Map of Porto](/porto/)
-- [Portuguese food](/portuguese-food/)
-- [Family recipes](/family-recipes/)
-- [Case Logic](/music/caselogic.md). How local teenagers got their music in the 80s.
+- [Library](library/library.html)
+- [News sources](about/news-sources.md)
+- [Map of Porto](/porto/). Map of Porto and historic names. (PT)
+- [Portuguese food](/portuguese-food/) and [Family recipes](/family-recipes/). (PT)
+- [Case Logic](/music/caselogic.md). How local teenagers got their music in the 80s. (PT)
+- [Gadgets](docs/crush-index.html)
+- [Predictions & wants](docs/predictions-and-wants.md)
 - [Plastic Life](https://plasticlife.puter.site/). My life so far, one plastic card at a time.
-- [Book library](https://rows.com/humberto/lifestyle/book-library-4wps5rXzQ4qqviHLznqTaW/live)
+- [About](about/about.md)
 
-
-Misc.
-
-- [about](about/about.md)
-- [news sources](about/news-sources.md)
-- [gadgets](docs/crush-index.html)
-- [predictions & wants](docs/predictions-and-wants.md)
