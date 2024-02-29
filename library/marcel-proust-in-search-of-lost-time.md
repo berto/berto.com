@@ -1,17 +1,18 @@
-Esta página tem um resumo da obra Em Busca do Tempo Perdido, de Marcel Proust.
+Esta página tem um resumo da obra Em Busca do Tempo Perdido, do Marcel Proust.
 
-Contém imensos spoiler, e provavelmente montes de erros. Nota: a personagem principal tem o mesmo nome do escritor, mas isto é um romance de ficção (isto é, inventado).
+☝️ Contém imensos spoiler, e provavelmente montes de erros. Ainda estou a meio. Nota: a personagem principal tem o mesmo nome do escritor, mas isto é um romance de ficção (não é real). 
 
-🔥 Trabalho inacabado! 🔥
+### Sumário para quem gosta de livros de auto-ajuda
 
-Sumário para quem gosta de livros de auto-ajuda: Nos 3 primeiros livros, o autor foca-se no testemunho e comentário do quotidiano da novela humana, usando a paixão e o ciúme entre classes para varrer toda a sociedade. O volume 4 mantém a tradição, mas usa a homossexualidade como prisma.
+Nos 3 primeiros livros, o autor foca-se no testemunho e comentário do quotidiano da novela humana, usando a paixão e o ciúme entre classes para varrer toda a sociedade. O volume 4 mantém a tradição, mas usa a homossexualidade como prisma.
 
-Sumário que prova que li o livro
+### Sumário que prova que li o livro
+
 - No primeiro volume, o Marcel conta-nos que nasceu numa família de bem, naturalmente conservadora, no final do século 19. É um menino da mamã, está rodeado de velhos todos os dias, e há uma empregada teimosa que diz umas coisas com piada, a Françoise. E claro, o Marcel quer ser escritor. Há um conhecido da família, o Swann, que é um tipo super artístico mas que não faz puto, e que está casado com uma fulana que nunca aparece em lado nenhum porque ele tem vergonha dela. Esta Odette é rasca, mas ele gosta dela porque andou anos atrás dela até conseguir e quanto mais ela o ignorava mais ele a queria. Conheceu-a nos serões dos Verdurins, onde são habituais o médico Cottard e o académico Brichot. O Marcel apaixona-se por uma catraia, a Gilberte. No final do livro descobre que ela é, afinal, filha do Swann, e logo da Odette. A miúda segue a receita da mãe e põe-no na friend zone, e não lhe dá nem um beijo.
 - No segundo volume, o Marcel está feito um jovem e um grande tono. As pessoas têm montes de criados, uns têm eletricidade em casa, e outros têm telefone. É amigo da Gilberte Swann, mas gosta mais da mãe dela e das suas roupas de casa de seda. Conhece vários cotas, como o escritor Bergotte e o diplomata Norpois, que é colega de trabalho do pai. O Marcel tem saúde fraca e vai de férias com a Avó para Balbec, junto ao mar. Lá em Balbec reúne-se com o amigo Bloch, judeu e maluco, cujo pai diz que a mulher do Swann, Odette, tinha sido prostituta. No Hotel, uma velha leva com um diabolo na cabeça [o brinquedo]. O Marcel conhece o pintor Elstir, que o apresenta à grupeta de miúdas populares nesta vila junto ao mar. Albertine é pobre, Andrée é rica. A Albertine diz-lhe que gosta dele, mas quando o Marcel tenta dar-lhe um beijo ela afasta-o. Ele fica sem beijo.
 - No terceiro volume, a família do Marcel muda-se para Paris. Está obcecado pela madame De Guermantes, a vizinha influente que não lhe liga puto. Visita o amigo e militar Robert Saint-Loup, que é sobrinho dela, para ver se a introduz. Este está apaixonado por Rachel, que parece que é prostituta, uma Odette 2.0. O caso de espionagem do capitão Dreyfus rebenta na França, e opõe os que defendem um julgamento limpo e a inocência do militar, e os militaristas que não querem a honra do Exército atacada, para além de não gostarem de ele ser judeu. A avó do Marcel morre. O Marcel conhece mais um Guermantes, o Baron de Charlus, que inventa qualquer coisa para se ofender, para de seguida o levar a casa e lhe passar a mão na cara, como quem quer alguma coisa. O Marcel recebe um convite para uma exclusiva festa da Princesse de Guermantes, e enquanto processa a festa aparece o maluco do Swann que anuncia que está a morrer.
 
-Resumo de cada calhamaço com os detalhes que vão saltando das páginas.
+### Resumo de cada calhamaço com os detalhes que vão saltando das páginas
 
 <details>
   <summary>Volume 1 - O Palerma do Senhor Cisne</summary>
