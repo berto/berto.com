@@ -13,8 +13,7 @@ Business projects.
 
 Personal stuff.
 
-- [Library](library/library.html)
-- [News sources](about/news-sources.md)
+- [Library](library/library.html) and [news sources](about/news-sources.md)
 - [Map of Porto](/porto/). With annotations. (PT)
 - [Portuguese food](/portuguese-food/) and [Family recipes](/family-recipes/). (PT)
 - [Case Logic](/music/caselogic.md). Music in the 80s generation. (PT)
