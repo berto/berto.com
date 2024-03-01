@@ -1,12 +1,10 @@
-Esta página tem um resumo da obra Em Busca do Tempo Perdido, do Marcel Proust.
+☝️ Esta página tem um resumo da novela de ficção Em Busca do Tempo Perdido, do Marcel Proust. Contém imensos spoilers e provavelmente também erros. 
 
-☝️ Contém imensos spoilers, e provavelmente montes de erros. Ainda estou a meio. Nota: a personagem principal tem o mesmo nome do escritor, mas isto é um romance de ficção (não é real). 
-
-### Sumário para quem gosta de livros de auto-ajuda
+### Sumário curto: para fãs de auto-ajuda
 
 Nos 3 primeiros livros, o autor foca-se no testemunho e comentário do quotidiano da novela humana, usando a paixão e o ciúme entre classes para varrer toda a sociedade. O volume 4 mantém a tradição, mas usa a homossexualidade como prisma.
 
-### Sumário que prova que li o livro
+### Sumário médio: prova que li o livro
 
 <details markdown=1><Summary>Volumes 1 a 7</Summary>
   
@@ -17,7 +15,7 @@ Nos 3 primeiros livros, o autor foca-se no testemunho e comentário do quotidian
 
 </details>
 
-### Resumo de cada calhamaço para quem tem vários minutos a mais
+### Resumo longo: por calhamaço
 
 <details markdown=1><summary>Volume 1 - O Palerma do Senhor Cisne</summary>
 
@@ -99,7 +97,7 @@ Nota: O nome real do livro é esse mesmo, "Sodom and Gomorrah" (EN) ou "Sodoma e
 
 O quarto livro começa com o Marcel no pátio do prédio. Lá, apanha o alfaiate Jupien e o Barão Charlus enrolados, primeiro num canto do pátio, e depois na loja do primeiro.
 
-Vai à festa da Princesse de Guermantes que suportamente tem uma fonte incrível no jardim. Na fesa começa a notar nos vários os homossexuais, que na época se chamavam “invertidos”, e a comentar sobre a sua vida, coisa que perdura por todo o livro.
+Vai à festa da Princesse de Guermantes que suportamente tem uma fonte incrível no jardim. Na festa começa a notar nos vários os homossexuais, que na época se chamavam “invertidos”, e a comentar sobre a sua vida, coisa que perdura por todo o livro.
 
 O Swann é escoltado da festa pelo Prince de Guermantes, e toda a gente fica chocada. O Swann depois explica ao Marcel que saiu da festa por ser um Dreyfusard, mas (surpresa) que não é por o Prince ser contra isso. Pelo contrário, ele confessara-lhe que um general lhe disse que o processo de condenação de Dreyfus estava cheio de ilegalidades, o que converta o general e depois o próprio Prince, mas que às vezes tinha de manter as aparências.
 
