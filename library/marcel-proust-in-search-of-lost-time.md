@@ -1,6 +1,6 @@
-☝️ Esta página tem um resumo da novela de ficção Em Busca do Tempo Perdido, do Marcel Proust. Contém imensos spoilers e provavelmente também erros. 
+☝️ Resumo da novela de ficção Em Busca do Tempo Perdido, do Marcel Proust. Contém spoilers e talvez erros. 
 
-### Sumário curto: para fãs de auto-ajuda
+### Mini Sumário: para fãs de auto-ajuda
 
 Nos 3 primeiros livros, o autor foca-se no testemunho e comentário do quotidiano da novela humana, usando a paixão e o ciúme entre classes para varrer toda a sociedade. O volume 4 mantém a tradição, mas usa a homossexualidade como prisma.
 
