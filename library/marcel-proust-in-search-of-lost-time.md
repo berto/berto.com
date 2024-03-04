@@ -15,7 +15,7 @@ Nos 3 primeiros livros, o autor foca-se no testemunho e comentário do quotidian
 
 </details>
 
-### Resumo longo: por calhamaço
+### Resumo longo por calhamaço
 
 <details markdown=1><summary>Volume 1 - O Palerma do Senhor Cisne</summary>
 
