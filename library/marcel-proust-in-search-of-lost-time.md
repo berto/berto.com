@@ -19,7 +19,7 @@ Nos 3 primeiros livros, o autor foca-se no testemunho e comentário do quotidian
 
 <details markdown=1><summary>Volume 1 - O Palerma do Senhor Cisne</summary>
 
-Nota: Nas traduções este livro chama-se "Swann's Way" (EN) ou "Do Lado de Swann" (PT).
+Nota: Nas traduções este livro chama-se "Do Lado de Swann" (PT), ou "Swann's Way" (EN).
 
 Então o narrador é o Marcel, um miúdo que partilha o nome com o autor do livro. O Marcel começa este épico a contar o seu trauma de criança em que era filho único e passava a vida rodeado de velhos, com os pais conservadores, a tia maluca e a empregada. E conta ao longo destas páginas a história dos tempos que passou na casa de férias da família em Combray, França. Aí, o o puto Marcel alonga-se a descrever a vila e as casas e os campos, e o sol, e o vento, e o mar, bem como os vários convidados que eram a norma às refeições, e claro as próprias refeições. Estas longas descrições mostram que a vida era uma seca antes da internet e dos inter-rails, tanto para os personagens adultos, as crianças, e os leitores deste romance do início do séc. XX.
 
@@ -49,7 +49,7 @@ O livro acaba com o narrador frustrado, sem direito sequer a um apalpão, coisa 
 
 <details markdown=1><summary>Volume 2 - De Férias com o Diabolo</summary>
 
-Nota: O nome correto das traduções é "In the Shadow of Young Girls in Flower" (EN) ou "Within a Budding Grove" (EN) ou "À sombra das raparigas em flor" (PT).
+Nota: O nome correto das traduções é "À sombra das raparigas em flor" (PT), ou "In the Shadow of Young Girls in Flower" (EN) ou "Within a Budding Grove" (EN).
 
 O segundo volume começa na sequência do primeiro, e conhecemos o Marcel a amadurecer como um jovem, sem nunca deixar de ser um tono monumental. (Este é o resumo, podem saltar para o próximo livro.)
 
@@ -73,7 +73,7 @@ Mesmo antes do fim, uma velha leva com um diabolo na cabeça [1]. Fim do segundo
 
 <details markdown=1><summary>Volume 3 - Os Guermantes são Peneirentos</summary>
 
-Nota: O nome real do livro é "The Guermantes Way" (EN) ou "O caminho de Guermantes" (PT).
+Nota: O nome real do livro é "O caminho de Guermantes" (PT), ou "The Guermantes Way" (EN).
 
 No terceiro volume a a família do Marcel muda-se para Paris. Agora moram num prédio. O Marcel nota que os criados copiam as expressões e os protestos que os criados dos vizinhos dirigem aos patrões.
 
@@ -93,7 +93,7 @@ No fim, o Marcel recebe um convite para uma festa da Princesse de Guermantes, e 
 
 <details markdown=1><summary>Volume 4 - A Sodoma e a Gomorra</summary>
 
-Nota: O nome real do livro é esse mesmo, "Sodom and Gomorrah" (EN) ou "Sodoma e Gomorra" (PT).
+Nota: O nome real do livro é esse mesmo, "Sodoma e Gomorra" (PT), ou "Sodom and Gomorrah" (EN).
 
 O quarto livro começa com o Marcel no pátio do prédio. Lá, apanha o alfaiate Jupien e o Barão Charlus enrolados, primeiro num canto do pátio, e depois na loja do primeiro.
 
