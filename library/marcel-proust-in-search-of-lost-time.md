@@ -1,8 +1,8 @@
-☝️ Resumo de Em Busca do Tempo Perdido, do Marcel Proust. Contém spoilers. 
+<img width="735" alt="image" src="https://github.com/portotype/berto.com/assets/10425094/d401ec5d-1349-4fc6-aaff-6a7c5da1bd59">☝️ Resumo de Em Busca do Tempo Perdido, do Marcel Proust. Contém spoilers. 
 
 ### Mini-sumário para fãs de auto-ajuda
 
-Nos 3 primeiros livros, o autor foca-se no testemunho e comentário do quotidiano da novela humana, usando a paixão e o ciúme entre classes para varrer toda a sociedade. O volume 4 mantém a tradição, mas usa a homossexualidade como prisma.
+🆕 O livro conta a vida do Marcel, que tem o mesmo nome do autor. A sua vida é um testemunho da novela humana, usando a paixão e o ciúme dentro das classes e entre classes para varrer o quotidiano de toda a sociedade. Presencia a luta pelo domínio nas relações, sejam elas entre casados, amantes, e também segundo o prisma homossexual. A vida dele é uma seca.
 
 ### Resumo médio que prova que li tudo
 
