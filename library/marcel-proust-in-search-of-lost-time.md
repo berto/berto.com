@@ -2,7 +2,7 @@
 
 ### Mini-sumário para fãs de auto-ajuda
 
-🆕 O livro conta a vida do Marcel, que tem o mesmo nome do autor. A sua vida é um testemunho da novela humana, usando a paixão e o ciúme dentro das classes e entre classes para varrer o quotidiano de toda a sociedade. Presencia a luta pelo domínio nas relações, sejam elas entre casados, amantes, e também segundo o prisma homossexual. A vida dele é uma seca.
+🆕 O livro conta a vida do Marcel, que tem o mesmo nome do autor. A sua vida é um testemunho da novela humana, usando a paixão e o ciúme dentro das classes e entre classes para varrer o quotidiano da sociedade. Ele presencia e depois protagoniza a luta pelo domínio dentro das relações, sejam elas entre casados ou amantes, e também observa que os ritos são idênticos sob o prisma homossexual. A vida dele é uma seca.
 
 ### Resumo médio que prova que li tudo
 
