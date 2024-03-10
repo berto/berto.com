@@ -1,4 +1,4 @@
-<img width="735" alt="image" src="https://github.com/portotype/berto.com/assets/10425094/d401ec5d-1349-4fc6-aaff-6a7c5da1bd59">☝️ Resumo de Em Busca do Tempo Perdido, do Marcel Proust. Contém spoilers. 
+☝️ Resumo de Em Busca do Tempo Perdido, do Marcel Proust. Contém spoilers. 
 
 ### Mini-sumário para fãs de auto-ajuda
 
