@@ -157,6 +157,8 @@ Vão a um concerto em casa dos Verdurins, onde o Morel toca. A banda de músicos
 
 Dez minutos depois, os Verdurins são super generosos com outra pessoa. Isto deixa o puto Marcel confuso. Afinal as pessoas fazem bem e mal.
 
+Vão ao mercado ao ar livre no Trocadéro. No 5º livro o enredo é mais sobre as personagens, e mesmo assim o enredo não evolui muito, é super lento, mas há menos descrições de lugares e coisas. 
+
 O Marcel não diz aos amigos que a miúda está lá a viver, continua um creep. Continua a descobrir por conversas com os amigos velhos que ela ora esteve aqui ora ali, e ele reconstrói que no fundo a Albertine gostava era de tudo. Tendo nascido pobre, habituou-se a ser convidada em casa dos ricos, a não dizer que não e a não expressar grandes vontades. Esta forma calma permite-lhe dizer que sim quando alguém a puxa, enquanto os amigos Marcel e Andrée se desdobram para estar com ela. Nota-se que ela tem gostos, e vai aprendendo do Marcel e outros história, arquitetura, moda, e que aprecia isso no Marcel e restantes. 
 
 O Marcel começa a aperceber-se que está a abdicar de muito, e não está assim tão feliz, que isto tudo pode não valer a pena. Até porque ela não parece feliz, o que o deixa ainda mais ansioso. Fala com ela, diz que devem separar-se, e ficar amigos. Ela lamenta, mas diz OK, ele volta atrás, no dia seguinte quer de novo separar-se, e volta atrás de novo.
