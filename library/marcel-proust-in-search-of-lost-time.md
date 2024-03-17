@@ -2,7 +2,9 @@
 
 ### Mini-sumário para fãs de auto-ajuda
 
-🆕 O livro conta a vida do Marcel, que tem o mesmo nome do autor. A sua vida é um testemunho da novela humana, usando a paixão e o ciúme dentro das classes e entre classes para varrer o quotidiano da sociedade. Ele presencia e depois protagoniza a luta pelo domínio dentro das relações, sejam elas entre casados ou amantes, e também observa que os ritos são idênticos sob o prisma homossexual. A vida dele é uma seca.
+🆕 O livro conta a vida do Marcel, que tem o mesmo nome do autor. A vida do Marcel dá testemunho da novela humana, usando a paixão e o ciúme dentro das classes e entre classes para varrer o quotidiano da sociedade. O Marcel presencia e depois protagoniza a luta pelo domínio dentro das relações, sejam elas entre casados ou amantes, e também observa que os ritos são idênticos sob o prisma homossexual. A vida dele é uma seca. Os ricos são muitos deles peneirentos. Pobres e falidos casam-se e ficam ricos, amantes afastam-se, há vários antisemitas.
+
+Nesta história, "sociedade" é a da definição original de uma associação íntima de pessoas com vista a uma finalidade partilhada (séc. 16). E por isso a sociedade do livro é usada para referir a alta sociedade dos nobres, aristocratas e intelectuais estritamente. Os personagens a que o termo moderno "sociedade" alude, isto é toda a gente, são representadas por um colectivo de pessoas com alguns maneirismos, limitadas ao conhecimento das suas tarefas, tradições e a astúcia dos serventes. São protagonizadas pela empregada, o alfaiate, os chocheiros, e são personagens laterais, por vezes cómicos, ou invisíveis.
 
 ### Resumo médio que prova que li tudo
 
