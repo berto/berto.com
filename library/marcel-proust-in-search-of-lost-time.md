@@ -238,7 +238,7 @@ A Gilberte é em geral uma fonas, mas nada que não se resolva. O Saint-Loup ofe
 
 Chegado ao final do 6º livro, percebe-se que o Marcel era frágil. Provavelmente também hibernava como os animais, pois quase só existe a primavera e o verão. Os seis primeiros volumes têm pouca chuva, neve, e inverno. A luz, os passeios, as viagens, o sol, os banhos de mar e as tiranias e falhanços do amor são o que o fizeram crescer. 
 
-O Saint-Loup deixa a mulher mais uma vez sozinha. Enquanto dão um passeio, a Gilberte confessa ao Marcel que tinha gostado muito dele. 
+O Saint-Loup deixa a mulher mais uma vez sozinha. Enquanto dão um passeio, a Gilberte confessa ao Marcel que tinha gostado dele mas que ele não lhe tinha ligado puto. 
 </details>
 
 <details markdown=1><summary>Volume 7 - WIP</summary>
