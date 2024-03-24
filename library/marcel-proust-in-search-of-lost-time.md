@@ -135,7 +135,7 @@ Frases fixes
 
 </details>
 
-<details markdown=1><summary>Volume 5 - O "creep" controlador 🆕</summary>
+<details markdown=1><summary>Volume 5 - O controlador ciumento </summary>
 
 Nota: O nome real deste volume é mesmo "The Prisoner" (EN) ou "The Captive" (EN) ou "A prisioneira" (PT).
 
@@ -179,7 +179,56 @@ Frases
 
 </details>
 
-<details markdown=1><summary>Volume 6 - WIP</summary>
+<details markdown=1><summary>Volume 6 - WIP 🆕</summary>
+
+Nota: O nome real deste volume é "The Fugitive" (EN).
+
+
+A Albertine saiu de casa do Marcel e deixa-lhe uma carta onde diz que quer que fiquem amigos, e que está a sofrer. O Marcel sabia que ia dar mal, e sabe também que os prazeres que a Albertine lhe dá são agora piores do que ele consegue arranjar com muitas outras. 
+
+E como a relação está frouxa, acha que a maneira de controlá-la é casar com ela, como o Swann fez com a Odette. Mas em vez de lhe dizer isso, passa um tempo a trocar cartas com ela, a dizer lhe que não quer que ela volte, que pensa casar com a Andrée, com o desejo que a Albertine queira voltar e queira casar com ele.
+
+Ela não cai ou não percebe. Numa última tentativa, manda então o amigo Saint-Loup ir a casa da tia dela, a madame Bontemps para a convencer a voltar, mas a missão falha. A Albertine diz que basta que o Marcel peça que ela volta.
+
+Recebe 3 novidades.
+
+A primeira é um relato da madame Bontemps diz que a Albertine caiu do cavalo e morreu. 
+
+Fica em choque.
+
+As outras são da Albertine, que devem ter sido escritas mesmo antes do acidente. Uma que diz que ela ficaria contente se o Marcel ficasse com a amiga Andrée. A última diz que afinal está desesperada para voltar, que gosta é dele, e pergunta se pode voltar!
+
+A-há! Ganhou! Mas a miúda está morta, por isso afinal perdeu.
+
+O Marcel fica mais perseguido ainda. Será que ela tinha gostado mesmo dele? Será que ela era lésbica? As grandes perguntas da vida em 1900.
+
+Primeiro contrata um funcionário do hotel de Balbec, Aimé, para ir descobrir se ela tinha de facto andado pela terriola com outras. Primeiro diz que não sabe, não ouviu muito, só uns zunzuns, depois afinal escreve-lhe a dizer que sim, que a Albertine não só se enrolava com umas amigas nos banhos, como também aliciava outras, até jovens. Isto convence o Marcel, mas depois nem afinal não. E se ele só lhe tivesse dito isso para valer o dinheiro? E de qualquer forma ela podia gostar disso e dele ao mesmo tempo. 
+
+Então fala com a Andrée, que pelos vistos não está super perturbada com a melhor amiga ter morrido. Já passou. Quando o Marcel tenta confirmar a homossexualidade entre as duas, a Andrée confirma com grande naturalidade que ela sim já tinha feito isso montes de vezes, mas nunca com a amiga! Finalmente o Marcel pode descansar. Mas não, um paranóico stalker nunca fica satisfeito. 
+
+O tempo vai passando e ele vai olhando para a Albertine, tanto faz o que ela era ou não, tinham boas conversas e ela era meiga e ainda se enrolavam, bem bom. Fica mais em paz, só que também começa a entrar em misticismos e obscurantismo, há uma breve comunicação com o além onde até a avó dele volta com o queixo partido.
+
+A Odette entretanto é uma viúva rica depois da morte do Swann, e casa com o Forcheville, um aristocrata falido. Um tio do Swann morre e a Gilberte filha do Swann e da Odette herda uma fortuna incalculável, e faz parte da alta sociedade, e é recebida pelos Guermantes.
+ O Marcel finalmente publica alguma coisa, um artigo no Le Figaro.
+
+A Andrée visita-o e confessa afinal que todas as suspeitas eram verdadeiras, sim elas estavam de facto enroladas e a Albertine mas também gostava do Marcel e se calhar tinha medo dele e provavelmente queria casar com ele. Mas que também andava a entreter outro tipo para talvez casar com ele. As pessoas são lixadas, afinal as justificações para as aproximações e distanciamentos eram simples. 
+
+O pintor Elstir, de Balbec, torna-se um pintor cobiçado e famoso. Umas das pinturas mostram jovens a brincarem perto da água, empurrando-se. Seriam a Albertine e as amigas a aliciarem-se?
+
+O Marcel vai finalmente passear para Veneza, o único sonho constante na sua vida toda. Vai com a mãe. 
+
+Nessa viagem recebe no hotel a mensagem de um telegrama de Albertine, super mal traduzido. Afinal está viva!? Mas o Marcel não liga muito, já não tem grandes sentimentos. 
+
+O autor abusa da palavra “azure”. Nada é azul (blue, bleu).   Quando regressa, ouve dizer que o amigo Saint-Loup vai casar com a filha do Swann Gilberte, que agora é milionária. 
+
+Muitas páginas à frente, o Marcel é amigo da Gilberte de novo. Visita-a, e falam, sem grande fricção porque já não há vestígio de amor.
+
+O Saint-Loup, casado com ela, arranjou amantes o que destabiliza o casamento. Só que em vez de a amante, ele é amante do Morel, o violinista que é o ex do seu tio Barão Charlus. 
+
+A Gilberte é uma fonas, mas nada que não se resolva, o Saint-Loup oferece prendas à sogra Odette, que agora não tem muito dinheiro. Como troca, a sogrinha defende-o quando ele vai de férias com o amigo, e diz à filha que seja generosa com o Marido, e assim o dinheiro circula. O Saint-Loup também mantém o tio Charlus.
+
+Num dos seus passeios, a Gilberte confessa-lhe que tinha gostado muito dele. 
+
 </details>
 
 <details markdown=1><summary>Volume 7 - WIP</summary>
