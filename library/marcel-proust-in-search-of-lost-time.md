@@ -184,7 +184,7 @@ Frases
 
 </details>
 
-<details markdown=1><summary>Volume 6 - Mais valia ficar sozinho 🆕</summary>
+<details markdown=1><summary>Volume 6 - Mais valia estar quieto! 🆕</summary>
 
 Nota: O nome real deste volume é "The Fugitive" (EN).
 
