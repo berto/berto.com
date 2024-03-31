@@ -11,6 +11,9 @@ Projects.
 - [Portotype](https://portotype.com). Investments and thesis.
 - [Decode Portugal](https://decodeportugal.com). Doing business in Portugal.
 
+Writing.
+- [Disney](disney.md)
+
 Hobbies.
 
 - [Library](library/library.html) and [news sources](about/news-sources.md).
