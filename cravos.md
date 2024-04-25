@@ -1,4 +1,4 @@
-## A Revolução do 25 de Abril
+☝️ Pequeno resumo sobre a Revolução do 25 de Abril. 
 
 ### Versão curta
 
