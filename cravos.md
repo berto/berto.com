@@ -59,8 +59,7 @@ A contestação pelo País cresce, e as sedes do PCP começam a ser vandalizadas
 
 Em Setembro o 6º e último governo provisório começa, liderado pelo Vice-Almirante Pinheiro de Azevedo e composto pelo PS, PPD (PSD) e PCP. 
 
-A 25 de Novembro dá-se uma tentativa de novo golpe liderado pelo Otelo, o COPCON e membros do MFA. O General Ramalho Eanes pára o golpe e o COPCON é desmantelado. 
-
+A 25 de Novembro dá-se uma tentativa de novo golpe liderado pelo Otelo, o COPCON e membros do MFA. O General Ramalho Eanes pára o golpe e o COPCON é desmantelado. Há alguma controvérsia: em várias versão, o PCP estava envolvido no golpe, autorizou o golpe, ou consentiu com o golpe; noutras versões, a esquerda estava a fazer esse golpe apenas para evitar um novo golpe da direita similar ao de Março de 1975. 
 
 Em 25 de Abril de 1976 há novas eleições, dois anos após a revolução e 1 ano após as primeiras eleições para criar a Constituição. Esta é a primeira eleição para o primeiro governo já com a Constituição a funcionar, ratificada a 2 de Abril e que entra a funcionar precisamente em 25 de Abril de 1976. 
 
