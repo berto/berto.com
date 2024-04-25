@@ -1,3 +1,5 @@
+## A Revolução do 25 de Abril
+
 ### Versão curta
 
 - Portugal vivia numa ditadura desde 1926. Essa ditadura teve 3 momentos, começou em 1926, passou a Estado Novo em 1933 liderada pelo Salazar, e em 1968 passou a ser liderada pelo seu sucessor Marcelo Caetano, já que Salazar estava velho. Havia pouca liberdade — nem coca-cola se podia beber. Era um governo nacionalista e estava em guerra para tentar manter as suas colónias. 
