@@ -2,7 +2,8 @@
 
 ### Versão curta
 
-- Portugal vivia numa ditadura desde 1926. Essa ditadura teve 3 momentos, começou em 1926, passou a Estado Novo em 1933 liderada pelo Salazar, e em 1968 passou a ser liderada pelo seu sucessor Marcelo Caetano, já que Salazar estava velho. Havia pouca liberdade — nem coca-cola se podia beber. Era um governo nacionalista e estava em guerra para tentar manter as suas colónias. 
+- Em 5 de Outubro de 1910 Portugal foi proclamada a República, e abandonanda a monarquia. A 1a República que começou é muito instável, com dezenas de governos, golpes, atentados à bomba, e anarquismo, bem como outras correntes iliberais conservadoras. Em 1926 dá-se um Golpe militar que lança Portugal numa ditadura.
+- Essa ditadura da 2ª República teve 3 momentos. Começou no golpe de 1926, passou a Estado Novo em 1933 liderada pelo Salazar, e em 1968 passou a ser liderada pelo seu sucessor Marcelo Caetano, já que Salazar estava velho. Havia pouca liberdade — nem coca-cola se podia beber. Era um governo nacionalista e estava em guerra para tentar manter as suas colónias. 
 - Os militares já não queriam a guerra, eram mal pagos, e nem se podiam queixar. Em 25 de Abril de 1974 o Movimento das Forças Armadas (MFA) liderado pelo Otelo Saraiva de Carvalho faz um golpe e é fortemente apoiado pela população na revolução! A ditadura cai.
 - Com o 25 de Abril de 1974 começa o primeiro de 6 governos provisórios que só acabam em  25 de Abril de 1976. O primeiro governo provisório é liderado pelo General Spínola, que é anti-guerra e é apoiado pelo o MFA, pois um General legitima o golpe. Mas o MFA é de esquerda e manda mais, o Spínola é conservador e vai perdendo poder, até que tenta um golpe em Março de 1975 e acaba exilado. A esquerda e o Partido Comunista (PCP) ganham poder.
 - Em 25 de Abril de 1975 há eleições para a Assembleia Constituinte, isto é, quem vai escrever a constituição. Ganha o Partido Socialista (PS), seguido pelo o centro-direita (PPD, PSD), e o PCP perde. Mas o MFA, o COPCON — a polícia criada a partir do MFA — e o PCP continuam a ter muita influencia através de força militar e sindicatos, e passam a controlar empresas e a imprensa, com nacionalizações e saneamentos.
@@ -15,7 +16,11 @@
 
 <details markdown=1><summary>O contexto da revolução</summary>
 
-Em Maio de 1926 os militares fizeram um golpe de Estado para derrubar a Primeira República, que era instável. 
+Em 5 de Outubro de 1910 Portugal foi proclamada a República e abandonanda a monarquia. 
+
+A 1a República que começou era muito instável. Em 16 anos sucedem-se 45 Governos e 7 Parlamentos, uma abundância de tentativas de golpes, atentados à bomba, e a intervenção direta e violenta do sindicalismo anarquista. Por outro lado, outras forças tentavam a aproximação a um regime messiânico com tendências absolutistas e conservadoras (Sidónio Pais), e havia ainda outras correntes fascistas. 
+
+Em 28 de Maio de 1926 dá-se um golpe de Estado de origem militar e fortemente anti-liberal, que abre a 2ª república.
 
 Os partidos não se entendiam, nem entre eles nem mesmo dentro deles. 
 
