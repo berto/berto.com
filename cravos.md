@@ -4,29 +4,9 @@
 
 Em 1910 abolimos a monarquia e passámos a ser uma república. A 1ª República era muito instável. Em 16 anos houve 45 governos, vários atentados à bomba, intervenções dos sindicatos anarquistas, e assassinatos. Várias correntes da esquerda à direita lutam para se afirmar.
 
-Em 1926 dá-se um golpe militar que estabelece uma 2ª república, mas rapidamente a ordem degenera em ditadura, que se consagrada em 1933 como Estado Novo. Neste governo conservador e nacionalista há pouca liberdade — nem coca-cola se podia beber. Para além do isolacionismo, estávamos em guerra para tentar manter as colónias, sobretudo Angola e Moçambique. O Estado Novo é liderado por Salazar até ser sucedido por Marcelo Caetano em 1968. O descontentamento é visível. A população quer mais liberdade. Os militares não querem a guerra, são mal pagos, e as suas queixas são reprimidas. 
+Em 1926 dá-se um golpe militar que estabelece uma 2ª república, mas rapidamente a ordem degenera em ditadura, que se consagra como Estado Novo em 1933. Neste governo conservador e nacionalista há pouca liberdade — nem coca-cola se podia beber. Para além do isolacionismo, estávamos em guerra para tentar manter as colónias, sobretudo Angola e Moçambique. O Estado Novo é liderado por Salazar até ser sucedido por Marcelo Caetano em 1968. O descontentamento é visível. A população quer mais liberdade. Os militares não querem a guerra, são mal pagos, e as suas queixas são reprimidas. 
 
-Em 25 de Abril de 1974 o Movimento das Forças Armadas (MFA) de Otelo Saraiva de Carvalho faz um golpe e a população adere em massa. A revolução é bem sucedida. Portugal entra em 2 anos de incerteza, com 6 governos provisórios. As forças de esquerda desde cedo lideram (MFA, COPCON, PCP). Avançam as nacionalizações, expropriações e controlo da imprensa. Forças conservadoras tentam impor-se sem sucesso, e os radicais de esquerda saem reforçados. As eleições de 25 de Abril de 1975 colocam os democratas de centro-esquerda (PS) e centro-direita (PPD/PSD) no poder, tanto na assembleia que vai escrever a nova Constituição, como junto da população. A esquerda radical reage e sube de tom na rua. É o Verão Quente de 1975. Em Novembro de 1975 a cúpula do COPCON e muitos do MFA tentam um golpe de esquerda, mas perdem. A 25 de Abril de 1976 entra em vigor a Constituição e há também as primeiras eleições para a assembleia legislativa e governo. Estas confirmam o centro no poder (PS, PPD). Mário Soares é o Primeiro-Ministro e Sá Carneiro a oposição. O General Eanes é eleito presidente. Ficamos em Democracia!
-
-### Versão curta
-
-Em 5 de Outubro de 1910 foi proclamada a República em Portugal, e a monarquia é abolidaa. A 1a República que começou é muito instável, com 45 governos, vários golpes, atentados à bomba, anarquismo, e assassinatos, que coexistem com correntes iliberais de esquerda e conservadoras. 
-
-Em 1926 dá-se um Golpe militar para estabelecer a ordem, mas lança Portugal numa ditadura. Essa ditadura da 2ª República teve 3 momentos. Começou no golpe de 1926, passou a Estado Novo em 1933 liderada pelo Salazar, e em 1968 passou a ser liderada pelo seu sucessor Marcelo Caetano, já que Salazar estava velho. Havia pouca liberdade — nem coca-cola se podia beber. Era um governo nacionalista e estava em guerra para tentar manter as suas colónias. 
-
-Os militares já não queriam a guerra, eram mal pagos, e as suas queixas eram fortemente reprimidas. 
-
-Em 25 de Abril de 1974 o Movimento das Forças Armadas (MFA) liderado pelo Otelo Saraiva de Carvalho faz um golpe e é fortemente apoiado pela população na revolução! A ditadura cai.
-
-Com o 25 de Abril de 1974 começa o primeiro de 6 governos provisórios, numa transição de exatamente dois anos e que acaba em  25 de Abril de 1976. 
-
-O primeiro governo provisório é liderado pelo General Spínola, que é anti-guerra e é apoiado pelo o MFA, pois um General legitima o golpe. Mas o MFA é de esquerda e manda mais, o Spínola é conservador e vai perdendo poder, até que tenta um golpe em Março de 1975 e acaba exilado. A esquerda e o Partido Comunista (PCP) ganham poder.
-
-Em 25 de Abril de 1975 há eleições para a Assembleia Constituinte, isto é, quem vai escrever a constituição. Ganha o centro democrata moderado. O Partido Socialista (PS) é o mais votado, seguido pelo Partido Popular Democrático (PPD, agora PSD), e os Comunistas perdem força (PCP). Mas o MFA, a polícia criada pelo MFA (COPCON) e o PCP continuam a ter muita influencia, já que controlam a força militar que dita os governos provisários, bem como os sindicatos. Passam a controlar empresas e a imprensa, com nacionalizações e saneamentos. A esquerda radical vai subindo de tom na rua. É o Verão Quente de 1975.
-
-Em Novembro de 1975 a cúpula do COPCON e muitos do MFA tentam um golpe de esquerda, mas o General Eanes destrói esse movimento, e o COPCON é desmantelado.
-
-A 25 de Abril de 1976 entra em vigor a Constituição e há também eleições, que repetem o PS e o PPD (PSD) em primeiro e segundo, liderados por Mário Soares e Sá Carneiro. O General Eanes é depois eleito presidente. Ficamos em Democracia!
+Em 25 de Abril de 1974 o Movimento das Forças Armadas (MFA) de Otelo Saraiva de Carvalho faz um golpe militar. A população adere em massa, e a revolução é bem sucedida. Portugal entra em 2 anos de incerteza, com 6 governos provisórios. As forças de esquerda desde cedo lideram (MFA, COPCON, PCP), com muita influência na composição dos governos provisórios. Avançam as nacionalizações, expropriações e controlo da imprensa. Forças conservadoras tentam impor-se sem sucesso, e os radicais de esquerda saem reforçados. As eleições de 25 de Abril de 1975 colocam os democratas de centro-esquerda (PS) e centro-direita (PPD/PSD) no poder, tanto na assembleia que vai escrever a nova Constituição, como junto da população. A esquerda radical reage e sube de tom na rua, e pressiona o governo. É o Verão Quente de 1975. Em Novembro de 1975 a cúpula do COPCON e muitos do MFA tentam um golpe de esquerda, mas perdem. A 25 de Abril de 1976 entra em vigor a Constituição e há também as primeiras eleições para a assembleia legislativa e governo. Estas confirmam o centro no poder (PS, PPD). Mário Soares é o Primeiro-Ministro e Sá Carneiro a oposição. O General Eanes é eleito presidente. Ficamos em Democracia!
 
 
 ### Versão média
