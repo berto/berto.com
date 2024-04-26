@@ -2,7 +2,7 @@
 
 ### Micro sumário
 
-Em 1910 abolimos a monarquia e passámos a ser uma república. A 1ª República era muito instável. Em 16 anos houve 45 governos, vários atentados à bomba, intervenções dos sindicatos anarquistas, várias correntes anti-liberais da esquerda à direita, e assassinatos. 
+Em 1910 abolimos a monarquia e passámos a ser uma república. A 1ª República era muito instável. Em 16 anos houve 45 governos, vários atentados à bomba, intervenções dos sindicatos anarquistas, e assassinatos. Várias correntes da esquerda à direita lutam para se afirmar, incluindo várias anti-liberais.
 
 Em 1926 dá-se um golpe militar que estabelece uma 2ª república, mas rapidamente a ordem degenera em ditadura, que se consagrada em 1933 como Estado Novo. Neste governo conservador e nacionalista há pouca liberdade — nem coca-cola se podia beber. Para além do isolacionismo, estávamos em guerra para tentar manter as colónias, sobretudo Angola e Moçambique. O Estado novo é liderado por Salazar até ser sucedido por Marcelo Caetano em 1968. O descontentamento é visível. A população quer mais liberdade e abertura. Os militares não querem a guerra, são mal pagos, e as suas queixas reprimidas. 
 
@@ -10,7 +10,7 @@ Em 25 de Abril de 1974 o Movimento das Forças Armadas (MFA) de Otelo Saraiva de
 
 ### Versão curta
 
-Em 5 de Outubro de 1910 foi proclamada a República em Portugal, e a monarquia é abolidaa. A 1a República que começou é muito instável, com 45 governos, vários golpes, atentados à bomba, anarquismo, e assassinatos, que coexistem com correntes iliberais conservadoras. 
+Em 5 de Outubro de 1910 foi proclamada a República em Portugal, e a monarquia é abolidaa. A 1a República que começou é muito instável, com 45 governos, vários golpes, atentados à bomba, anarquismo, e assassinatos, que coexistem com correntes iliberais de esquerda e conservadoras. 
 
 Em 1926 dá-se um Golpe militar para estabelecer a ordem, mas lança Portugal numa ditadura. Essa ditadura da 2ª República teve 3 momentos. Começou no golpe de 1926, passou a Estado Novo em 1933 liderada pelo Salazar, e em 1968 passou a ser liderada pelo seu sucessor Marcelo Caetano, já que Salazar estava velho. Havia pouca liberdade — nem coca-cola se podia beber. Era um governo nacionalista e estava em guerra para tentar manter as suas colónias. 
 
@@ -73,7 +73,7 @@ O MFA ia bloqueando algumas decisões do Spínola. Enfraquecido, em Junho formou
 
 Em Março de 1975 o Spínola tenta um golpe, falha, e exila-se. Os elementos mais radicais formam o Concelho da Revolução e instauram um 4º governo provisório, com o Vasco Gonçalves à cabeça, uma viragem à esquerda. 
 
-Começa a destacar-se o Mário Soares, que voltou de Paris à cabeça do Partido Socialista. Um ano depois da revolução, em 25 de Abril de 1975, fazem-se as primeiras eleições livres, para a Assembleia Constituinte. Isto é, são eleições para determinar os partidos que vão criar uma nova Constituição. Ganha o PS, seguido pelo PPD, com o PCP a perder força (13%) e o CDS a aparecer pequeno (8%). Mas o MFA continua a pressionar a assembleia para implementar o seu programa, enquanto o PCP pressiona nas ruas através de nacionalizações e mobilização sindical, incluindo o controlo direto um jornal e indireto das redações. É o Verão Quente. 
+Começa a destacar-se o Mário Soares, que voltou de Paris à cabeça do Partido Socialista. Um ano depois da revolução, em 25 de Abril de 1975, fazem-se as primeiras eleições livres, para a Assembleia Constituinte. Isto é, são eleições para determinar os partidos que vão criar uma nova Constituição. Ganha o PS, seguido pelo PPD, com o PCP a perder força (13%) e o CDS a aparecer pequeno (8%). Mas o MFA continua a pressionar a assembleia para implementar o seu programa, enquanto o PCP pressiona nas ruas através de nacionalizações e mobilização sindical, incluindo o controlo direto um jornal e indireto das redações. É o Verão Quente de 1975. 
 
 Os governos provisórios incluíam gente de vários partidos. Mas em Junho o PS e o PPD (PSD) abandonam o 4º governo descontentes com a pressão do MFA e do PCP. Há várias medições de forças em comícios e nas ruas. 
 
