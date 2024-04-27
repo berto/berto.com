@@ -12,7 +12,9 @@ Projects.
 - [Decode Portugal](https://decodeportugal.com). Doing business in Portugal.
 
 Writing.
-- [Disney](disney.md)
+- 🆕 [The Portuguese Revolution of 1974](/1974-04-25) ([PT](/1974-04-25/index-pt.md))
+- [Disney](/disney)
+
 
 Hobbies.
 
