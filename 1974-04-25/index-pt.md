@@ -9,7 +9,7 @@ Em 1926 dá-se um golpe militar que estabelece uma 2ª república, mas rapidamen
 Em 25 de Abril de 1974 o Movimento das Forças Armadas (MFA) de Otelo Saraiva de Carvalho faz um golpe militar. A população adere em massa, e a revolução é bem sucedida. Portugal entra em 2 anos de incerteza, com 6 governos provisórios. As forças de esquerda desde cedo lideram (MFA, COPCON, PCP), com muita influência na composição dos governos provisórios. Avançam as nacionalizações, expropriações e controlo da imprensa. Forças conservadoras tentam impor-se sem sucesso, e os radicais de esquerda saem reforçados. As eleições de 25 de Abril de 1975 colocam os democratas de centro-esquerda (PS) e centro-direita (PPD/PSD) no poder, tanto na assembleia que vai escrever a nova Constituição, como junto da população. A esquerda radical reage e sube de tom na rua, e pressiona o governo. É o Verão Quente de 1975. Em Novembro de 1975 a cúpula do COPCON e muitos do MFA tentam um golpe de esquerda, mas perdem. A 25 de Abril de 1976 entra em vigor a Constituição e há também as primeiras eleições para a assembleia legislativa e governo. Estas confirmam o centro no poder (PS, PPD). Mário Soares é o Primeiro-Ministro e Sá Carneiro a oposição. O General Eanes é eleito presidente. Ficamos em Democracia!
 
 
-### Versão média
+### Versão longa
 
 <details markdown=1><summary>O contexto da revolução</summary>
 
