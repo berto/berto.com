@@ -1,6 +1,6 @@
-☝️ Short texts about the Portuguese Revolution of April 25th 1974, also known as Carnation Revolution or The April Revolution.
+☝️ Short intro to the Portuguese Revolution of April 25th 1974, also known as Carnation Revolution or The April Revolution.
 
-### Micro summary
+## Summary
 
 In 1910, Portugal abolished the monarchy and became a republic. The 1st Republic was very unstable. During the first 16 years, there were 45 governments, several bomb attacks, interventions by anarchist unions, and assassinations. Various currents from left to right fought to assert power.
 
@@ -10,9 +10,9 @@ On April 25, 1974, an armed forces movement called MFA ("Movimento de Forças Ar
 
 And so, we remained in democracy!
 
-### Long version
+## Long version
 
-<details markdown=1><summary>The context of the revolution</summary>
+### The context of the revolution
 
 On the 5th of October of 1910, Portugal proclaimed the Republic and abandoned the Monarchy.
 
@@ -24,9 +24,7 @@ In 1933, this dictatorship solidified an ideological and political plan, and bec
 
 In 1974 the economy was growing, but few sectors of society were satisfied. Salazar was decrepit and away from power, and since 1968 the dictatorship was headed by his successor Marcelo Caetano. 
 
-</details> 
-
-<details markdown=1><summary>The day of the Revolution: April 25th of 1974</summary>
+### The day of the Revolution: April 25th of 1974
 
 The Carnation Revolution started as a military coup.
 
@@ -40,9 +38,7 @@ Partly because the dictatorship was rotten and exhausted, and its strong man Sal
 
 (A revolution always implies mass adherence, as when we say "the smartphone revolution", and that's what happened then.)
 
-</details>
-
-<details markdown=1><summary>After the Revolution: April 25 1974 to April 25 1976</summary>
+### After the Revolution: April 25 1974 to April 25 1976
 
 After the revolution, movements, parties and personalities started to clash.
 
@@ -90,4 +86,3 @@ The moderate parties confirmed their victory. The PS of Mário Soares won, the P
 
 And we have been in stable democracy ever since.
 
-</details>
