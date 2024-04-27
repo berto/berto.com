@@ -15,11 +15,9 @@ Em 25 de Abril de 1974 o Movimento das Forças Armadas (MFA) de Otelo Saraiva de
 
 Em 5 de Outubro de 1910 Portugal foi proclamada a República e abandonanda a monarquia. 
 
-A 1a República que começou era muito instável. Em 16 anos sucedem-se 45 Governos e 7 Parlamentos, uma abundância de tentativas de golpes, atentados à bomba, e a intervenção direta e violenta do sindicalismo anarquista. Por outro lado, outras forças tentavam a aproximação a um regime messiânico com tendências absolutistas e conservadoras (Sidónio Pais), e havia ainda outras correntes fascistas. 
+A 1a República que começou era muito instável. Em 16 anos sucedem-se 45 Governos e 7 Parlamentos, uma abundância de tentativas de golpes, atentados à bomba, e a intervenção direta e violenta do sindicalismo anarquista. Os partidos não se entendiam, nem entre eles nem mesmo dentro deles. Por outro lado, outras forças tentavam a aproximação a um regime messiânico com tendências absolutistas e conservadoras (Sidónio Pais), e havia ainda outras correntes fascistas. 
 
 Em 28 de Maio de 1926 dá-se um golpe de Estado de origem militar e fortemente anti-liberal, que abre a 2ª república.
-
-Os partidos não se entendiam, nem entre eles nem mesmo dentro deles. 
 
 Em 1933 a ditadura passou para o plano mais político, e passou a chamar-se Estado Novo, com Salazar como seu líder. Durante décadas dirigiu Portugal. 
 
