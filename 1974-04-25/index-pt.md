@@ -1,6 +1,6 @@
 ☝️ Pequeno resumo sobre a Revolução do 25 de Abril. 
 
-### Micro sumário
+## Sumário
 
 Em 1910 é abolida a monarquia e Portugal passa a ser uma República. Mas a 1ª República é muito instável. Várias correntes lutam para afirmar ideais de esquerda e de direita, tradicionais, monarquicos e republicanos. Em 16 anos há 45 governos, vários atentados à bomba, intervenções dos sindicatos anarquistas, e assassinatos de personalidades políticas. 
 
@@ -9,9 +9,9 @@ Em 1926 dá-se um golpe militar que estabelece uma 2ª república, mas rapidamen
 Em 25 de Abril de 1974, o Movimento das Forças Armadas (MFA) de Otelo Saraiva de Carvalho faz um golpe militar. A população adere em massa, e a revolução é bem sucedida. Portugal entra em 2 anos de incerteza e 6 governos provisórios. As forças de esquerda desde cedo lideram, com muita influência na composição dos governos provisórios. Avançam as nacionalizações, expropriações e controlo da imprensa. Forças conservadoras tentam impor-se num golpe, que falha, e os radicais de esquerda saem reforçados. Mas as eleições de 25 de Abril de 1975 colocam no poder os moderados do centro-esquerda e centro-direita, que são o PS e o PPD/PSD. São eles que vão escrever a nova Constituição. A esquerda radical reage e sube de tom na rua, e pressiona o governo. É o Verão Quente de 1975. Em Novembro de 1975 a cúpula da polícia vigente (COPCON) e do MFA tentam um golpe de esquerda, mas perdem. A 25 de Abril de 1976 entra em vigor a Constituição e há também as primeiras eleições para a assembleia legislativa e governo. Estas confirmam o centro no poder (PS, PPD). Mário Soares é o Primeiro-Ministro e Sá Carneiro a oposição. O General Eanes é eleito presidente. Ficamos em Democracia!
 
 
-### Versão longa
+## Resumo
 
-<details markdown=1><summary>O contexto da revolução</summary>
+### O contexto da revolução
 
 Em 5 de Outubro de 1910 Portugal é proclamada a República e abandonada a monarquia. 
 
@@ -23,9 +23,7 @@ Em 1933 a ditadura solidifica um plano ideológico e político, e passa a chamar
 
 Em 1974 a economia está a crescer, mas poucos sectores da sociedade estão satisfeitos. Salazar estava decrépito e longe do poder, e desde 1968 que a ditadura é encabeçada pelo seu sucessor Marcelo Caetano. O Estado Novo é conservador e fortemente nacionalista, anti-comunista e anti-liberal, anti-NATO, anti-US etc. Portugal controla várias colónias como Angola e Moçambique, mas está em guerra para manter o seu controlo.
 
-</details>
-
-<details markdown=1><summary>O dia da Revolução: 25 de Abril de 1974</summary>
+### O dia da Revolução: 25 de Abril de 1974
   
 O 25 de Abril começa como um golpe militar. 
 
@@ -37,9 +35,7 @@ O golpe é bem sucedido.
 
 Em parte porque a ditadura estava podre e exausta, e o homem forte (Salazar) fora de cena. Mais importante, a adesão da população é imediata e muito expressiva. E assim se passou de um golpe militar para uma Revolução. (Porque uma revolução implica sempre adesão em massa, como quando se diz “a revolução dos smartphones”, e foi isso que aconteceu.)
 
-</details>
-
-<details markdown=1><summary>Depois da Revolução: 25 de Abril de 1974 a 25 de Abril de 1976</summary>
+### Depois da Revolução: 25 de Abril de 1974 a 25 de Abril de 1976
 
 Depois da revolução, viveu-se uma enorme instabilidade com o choque de vários movimentos e personalidades. 
 
@@ -72,5 +68,3 @@ Em 25 de Abril de 1976 há novas eleições, dois anos após a revolução e 1 a
 Os partidos moderados confirmam a sua vitória. O PS de Mário Soares ganha, o PPD de Sá Carneiro fica em segundo, e o CDS de Freitas do Amaral em terceiro, com o PCP de Cunhal em 4º. Em Junho o General Eanes é eleito presidente. 
 
 E seguimos em democracia estável desde então.
-
-</details>
