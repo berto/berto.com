@@ -64,7 +64,7 @@ A year after the revolution, on April 25, 1975, the first free elections were he
 
 The political center stood out. The moderate socialists of PS won, followed by the PPD (current PSD), with the PCP losing strength (13%) and the CDS taking a smaller position (8%).
 
-The MFA continued to pressure the assembly to implement its left-wing program, while the PCP had a hold of the streets through nationalizations and union mobilization, including the control of newspapers and newsrooms throughout the country. This was the Hot Summer of 1975.
+The MFA continued to pressure the assembly to implement its left-wing program, while the PCP and others kept their version of the revolution alive on the streets through union mobilization and nationalizations, including the control of newspapers and newsrooms throughout the country. This was the Hot Summer of 1975.
 
 The provisional governments included people from various parties. But in June the PS and the PPD (PSD) left the 4th government dissatisfied with the pressure from the MFA and the PCP. 
 
