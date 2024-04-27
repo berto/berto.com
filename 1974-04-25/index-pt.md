@@ -41,7 +41,7 @@ Em parte porque a ditadura estava podre e exausta, e o homem forte (Salazar) for
 
 <details markdown=1><summary>Depois da Revolução: 25 de Abril de 1974 a 25 de Abril de 1976</summary>
 
-Depois da revolução, viveu-se uma enorme instabilidade com o choque de vários grupos e personalidades. 
+Depois da revolução, viveu-se uma enorme instabilidade com o choque de vários movimentos e personalidades. 
 
 O General Spínola é o primeiro presidente provisório no pós 25 de Abril de 1974, porque era uma alta patente e crítico da Guerra Colonial, o que era é útil para legitimar o golpe do MFA, e porque Marcelo Caetano deixa claro que apenas assumiria a derrota perante ele. Mas o Spínola também é conservador, o que choca com a corrente política mais forte do MFA, que é de esquerda/ esquerda radical e é liderada pelo Otelo Saraiva de Carvalho. 
 
