@@ -3,18 +3,18 @@ Adaptada da [receita original](https://cookidoo.pt/recipes/recipe/pt-PT/r49124) 
 
 Ingredientes
 - **Cheesecake**
-- 800g açúcar (receita original 100g)
-- 220g bolachas de aveia (marca Triunfo ou similar)
+- 80g açúcar (receita original 100g)
+- 220g bolachas de aveia (marca Triunfo)
 - 50g flocos de aveia finos
 - 20g açúcar amarelo
 - 60g manteiga, mais q.b. p/ untar
 - 400g queijo-creme (Philadelphia, Original)
 - 200g crème fraîche (Continente)
-- 200g queijo mascarpone (qq um Italiano)
+- 200g queijo mascarpone (qualquer um Italiano)
 - 10g farinha (Branca de Neve, fina)
 - 4 ovos grandes
 - **Cobertura**
-- 100g doce de frutos vermelhos (Continente), silvestres ou doce de morango
+- 100g doce de frutos vermelhos (Continente, na receita original doce de frutos silvestres ou doce de morango)
 - 50g vinho do Porto
 - 250g mirtilos
 
