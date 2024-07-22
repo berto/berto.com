@@ -18,13 +18,13 @@ Writing.
 
 Hobbies.
 
-- [Library](library/library.html) and [news sources](about/news-sources.md).
-- [Map of Porto](/porto/) with annotations. (PT)
-- [Portuguese food](/portuguese-food/) and [family recipes](/family-recipes/). (PT)
-- [Case Logic](/music/caselogic.md). Music before the internet. (PT)
-- [In Search of Lost Time](/marcel-proust-in-search-of-lost-time/index.md) summary. ([PT](/marcel-proust-in-search-of-lost-time/index-pt.md))
+- [Library](library/library.html) and [news sources](about/news-sources.md)
+- [Map of Porto](/porto/) with annotations (PT)
+- [Portuguese food](/portuguese-food/) and [family recipes](/family-recipes/) (PT)
+- [Case Logic](/music/caselogic.md). Music before the internet (PT)
+- [In Search of Lost Time](/marcel-proust-in-search-of-lost-time/index.md) summary ([PT](/marcel-proust-in-search-of-lost-time/index-pt.md))
 - [Gadgets](docs/crush-index.html)
 - [Predictions & wants](docs/predictions-and-wants.md)
-- [Plastic Life](https://plasticlife.puter.site/). A life of plastic cards.
+- [Plastic Life](https://plasticlife.puter.site/)
 - [About](about/about.md)
 
