@@ -2,7 +2,7 @@
 
 ### Mini-sumário para fãs de auto-ajuda
 
-🆕 O livro conta a vida do Marcel, que tem o mesmo nome do autor. Cresce rico e é uma seca. Quer ser escritor mas no livro todo não escreve nada. 
+O livro conta a vida do Marcel, que tem o mesmo nome do autor. Cresce rico e é uma seca. Quer ser escritor mas no livro todo não escreve nada. 
 
 Há as pessoas estáveis como os pais de Marcel, a família Guermantes em geral e os Verdurins. Todos estes possuem uma vida normal, casa, trabalho, férias, e dão festas. Em cima destes planos, circulam os indivíduos ultra-sensiveis com atração pelas artes, como o Marcel, o Swann, o Saint-Loup, e o Barão Charlus. Este segundo grupo está passa a vida a apaixonar-se de forma descontrolada, tentam dominar amores que não duram, e acabam quase sempre a comer gelados com a testa, em grande parte pelo esforço excessivo aplicado nas suas consquistas pouco correspondidas. Gastam o seu dinheiro e esbanjam o seu tempo. No fundo, o livro detalha a novela humana usando a paixão e o ciúme dentro das classes e entre elas. 
 
@@ -13,7 +13,7 @@ Os personagens movimentam-se numa época que desapareceu (~1900), mas o escritor
 
 ### Resumo médio que prova que li tudo
 
-<details markdown=1><Summary>Volumes 1 a 7 🆕</Summary>
+<details markdown=1><Summary>Volumes 1 a 7</Summary>
   
 * No primeiro volume, o Marcel conta-nos que nasceu numa família de bem, naturalmente conservadora, no final do século 19. É um menino da mamã, está rodeado de velhos todos os dias, e há uma empregada teimosa que diz umas coisas com piada, a Françoise. E claro, o Marcel quer ser escritor. Há um conhecido da família, o Swann, que é um tipo super artístico mas que não faz puto, e que está casado com uma fulana que nunca aparece em lado nenhum porque ele tem vergonha dela. Esta Odette é rasca, mas ele gosta dela porque andou anos atrás dela até conseguir e quanto mais ela o ignorava mais ele a queria. Conheceu-a nos serões dos Verdurins, onde são habituais o médico Cottard e o académico Brichot. O Marcel apaixona-se por uma catraia, a Gilberte. No final do livro descobre que ela é, afinal, filha do Swann, e logo da Odette. A miúda segue a receita da mãe e põe-no na friend zone, e não lhe dá nem um beijo.
 * No segundo volume, o Marcel está feito um jovem e um grande tono. As pessoas têm montes de criados, uns têm eletricidade em casa, e outros têm telefone. É amigo da Gilberte Swann, mas gosta mais da mãe dela e das suas roupas de casa de seda. Conhece vários cotas, como o escritor Bergotte e o diplomata Norpois, que é colega de trabalho do pai. O Marcel tem saúde fraca e vai de férias com a Avó para Balbec, junto ao mar. Lá em Balbec reúne-se com o amigo Bloch, judeu e maluco, cujo pai diz que a mulher do Swann, Odette, tinha sido prostituta. No Hotel, uma velha leva com um diabolo na cabeça [o brinquedo]. O Marcel conhece o pintor Elstir, que o apresenta à grupeta de miúdas populares nesta vila junto ao mar. Albertine é pobre, Andrée é rica. A Albertine diz-lhe que gosta dele, mas quando o Marcel tenta dar-lhe um beijo ela afasta-o. Ele fica sem beijo.
