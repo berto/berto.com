@@ -241,7 +241,7 @@ Chegado ao final do 6º livro, percebe-se que o Marcel era frágil. Provavelment
 O Saint-Loup deixa a mulher mais uma vez sozinha para ir ter com o namorado. Enquanto dão um passeio, a Gilberte confessa ao Marcel que tinha gostado dele mas que ele não lhe tinha ligado puto. 
 </details>
 
-<details markdown=1><summary>Volume 7 - Os últimos são os primeiros🆕</summary>
+<details markdown=1><summary>Volume 7 - Os últimos são os primeiros</summary>
 
 Nota: O nome real deste volume é " Time regained" (EN).
 
