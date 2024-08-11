@@ -1,6 +1,6 @@
-# Case Logic
+☝️ Short story about how we discovered music as kids in the 90s. [Link to the original text written in Portuguese](/index-pt.md).
 
-[Link: the original text written in Portuguese](/index-pt.md)
+# Case Logic
 
 Porto, 2023-07-04 
 
