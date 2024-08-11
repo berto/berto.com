@@ -11,7 +11,7 @@ Projects.
 - [Portotype](https://portotype.com). Investments and thesis.
 
 Writing.
-- [The Portuguese Revolution of 1974](/1974-04-25) ([PT](/1974-04-25/index-pt.md))
+- [The Portuguese Revolution of 1974](/1974-04-25)
 - [Disney](/disney)
 - [Case Logic](/caselogic/index.md), music before the internet
 - [In Search of Lost Time](/marcel-proust-in-search-of-lost-time/index.md) summary ([PT](/marcel-proust-in-search-of-lost-time/index-pt.md))
