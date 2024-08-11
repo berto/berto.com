@@ -1,4 +1,4 @@
-☝️ Short intro to the Portuguese Revolution of April 25th 1974, also known as Carnation Revolution or The April Revolution.
+☝️ Short intro to the Portuguese Revolution of April 25th 1974, also known as Carnation Revolution or The April Revolution. [The original text in Portuguese](/index-pt.html).
 
 ## Summary
 
