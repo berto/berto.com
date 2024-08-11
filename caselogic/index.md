@@ -1,6 +1,8 @@
 # Case Logic
 
-Porto, 2023-07-04
+[Link: the original text written in Portuguese](/index-pt.md)
+
+Porto, 2023-07-04 
 
 I had an interesting chat with friends about the social origins of the music we listen to.
 
