@@ -1,4 +1,4 @@
-☝️ Short story about how we discovered music as kids in the 90s. [Link to the original text written in Portuguese](/index-pt.md).
+☝️ Short story about how we discovered music as kids in the 90s. [Link to the original text written in Portuguese](/index-pt.html).
 
 # Case Logic
 
