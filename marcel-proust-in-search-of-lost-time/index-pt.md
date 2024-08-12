@@ -4,7 +4,7 @@
 
 O livro conta a vida do Marcel, que tem o mesmo nome do autor. Cresce rico e é uma seca. Quer ser escritor mas no livro todo não escreve nada. 
 
-Há as pessoas estáveis como os pais de Marcel, a família Guermantes em geral e os Verdurins. Todos estes possuem uma vida normal, casa, trabalho, férias, e dão festas. Em cima destes planos, circulam os indivíduos ultra-sensiveis com atração pelas artes, como o Marcel, o Swann, o Saint-Loup, e o Barão Charlus. Este segundo grupo está passa a vida a apaixonar-se de forma descontrolada, tentam dominar amores que não duram, e acabam quase sempre a comer gelados com a testa, em grande parte pelo esforço excessivo aplicado nas suas consquistas pouco correspondidas. Gastam o seu dinheiro e esbanjam o seu tempo. No fundo, o livro detalha a novela humana usando a paixão e o ciúme dentro das classes e entre elas. 
+Há as pessoas estáveis como os pais de Marcel, a família Guermantes em geral e os Verdurins. Todos estes possuem uma vida normal, casa, trabalho, férias, e dão festas. Em cima destes planos, circulam os indivíduos ultra-sensiveis com atração pelas artes, como o Marcel, o Swann, o Saint-Loup, e o Barão Charlus. Este segundo grupo passa a vida a apaixonar-se de forma descontrolada, tentam dominar amores que não duram, e acabam quase sempre a comer gelados com a testa, em grande parte pelo esforço excessivo aplicado nas suas consquistas pouco correspondidas. Gastam o seu dinheiro e esbanjam o seu tempo. No fundo, o livro detalha a novela humana usando a paixão e o ciúme dentro das classes e entre elas. 
 
 O personagem principal Marcel cresce, apaixona-se pela Gilberte e depois pela Albertine. Não consegue nenhuma das duas.
 
