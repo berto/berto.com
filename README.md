@@ -13,7 +13,7 @@ Projects.
 Writing.
 - [The Portuguese Revolution of 1974](/1974-04-25)
 - [Disney](/disney)
-- [Case Logic](/caselogic/index.md), music before the internet
+- [Case Logic](/caselogic/index.md)
 - [In Search of Lost Time](/marcel-proust-in-search-of-lost-time/index.md)
 
 Links.
