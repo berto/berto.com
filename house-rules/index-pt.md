@@ -1,4 +1,6 @@
-☝️ Estas são as "três regras da casa espetacular"! O que digo às minhas filhas é que tudo o resto vem destas três
+☝️  Eu digo às minhas filhas que só têm de fazer estas 3 coisas e tudo o resto se resolve.
+
+# As três regras da casa espetacular!
 
 ## 1. Concurso de sorrisos
 
