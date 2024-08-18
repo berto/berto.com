@@ -27,13 +27,18 @@ It's a great book to read in a competition with a friend while you compare notes
  
 </details>
 
-### Resumo longo por calhamaço
+### Long recap with all the saucy details
 
-<details markdown=1><summary>Volume 1 - O Palerma do Senhor Cisne</summary>
+<details markdown=1><summary>Volume 1 - Mister Swann is a Sucker</summary>
 
-Nota: Nas traduções este livro chama-se "Do Lado de Swann" (PT), ou "Swann's Way" (EN).
+Note: In translations this book is called “Swann’s Way”.
 
-Então o narrador é o Marcel, um miúdo que partilha o nome com o autor do livro. O Marcel começa este épico a contar o seu trauma de criança em que era filho único e passava a vida rodeado de velhos, com os pais conservadores, a tia maluca e a empregada. E conta ao longo destas páginas a história dos tempos que passou na casa de férias da família em Combray, França. Aí, o o puto Marcel alonga-se a descrever a vila e as casas e os campos, e o sol, e o vento, e o mar, bem como os vários convidados que eram a norma às refeições, e claro as próprias refeições. Estas longas descrições mostram que a vida era uma seca antes da internet e dos inter-rails, tanto para os personagens adultos, as crianças, e os leitores deste romance do início do séc. XX.
+So, the narrator is Marcel, a boy who shares his name with the author of the book. Marcel begins this epic by recounting his trauma as an only child who spent his early years surrounded by old people. His conservative parents, a crazy aunt, and the housemaid. He spends hundreds of pages describing the time he spent at his family’s vacation home in Combray, in France. There, brat Marcel goes on and on describing the village, the houses, the fields, the sun, the wind, the sea, as well as the many regulars at mealtime, and of course, the meals themselves. These lengthy descriptions make it clear that life was incredibly dull before the internet and euro-rails, both for the adult characters, their children, and for readers of this 20th-century novel.
+
+The Oedipus complex is apparent from the start, showing that the main character, the narrator Marcel, is a somewhat dull-witted figure, like all overly sensitive people, with an irrational dependence on his mother. It’s as if he were born in 2020, but unlike modern attachments, his mother doesn’t care much for him. She sees him through the lens of classical upbringing, with strict schedules, manners of speaking, and chosen companions—poor Marcel only wants a goodnight kiss. Naturally, Marcel couldn’t be anything but an oddball, born into such a family, an only child, surrounded by pretentious old people who clearly had very little work to do.
+
+The boy had such sensitivity and observational power that he wanted to be a writer. And so, much of the book is a drawn-out description of churches, streams, gardens, trains, Parisian streets, carriages, horses, servants, houses, curtains, clothes, hats, and food.
+
 
 O complexo de Édipo sobressai desde o início, e mostra que a personagem principal, o narrador, Marcel, é um tipo meio apalermado como todas as pessoas sensíveis, e que tem uma dependência irracional da sua mãe. Parece que nasceu em 2020, mas ao contrário das dependências modernas, a mãe não lhe liga puto. Esta vê o filho pela lente das regras de educação clássica, com horas e maneiras de falar e companhias, e pobre do miúdo que só queria um beijo de boa noite. Aliás o Marcel não podia ser outra coisa senão um esquisitóide, nascido numa família assim, filho único, e rodeado de velhos pretensiosos e que notoriamente tinham muito pouco trabalho nas mãos.
 
