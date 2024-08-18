@@ -1,0 +1,13 @@
+# As três regras da casa espetacular!
+
+## 1. Concurso de sorrisos
+
+**A vida é boa e temos de mostrar que é boa na nossa cara e atitude.** Não vale amuar ou bufar. Não vale protestar ou gritar ou fugir. A Penélope tem de ser amiga da Aurora e a Aurora tem de ser amiga da Penélope. O pai e a mãe também têm de ser amigos um do outro e das filhas! Ser amigo é brincar com os outros, e ajudar os outros, e não fazer com que eles chorem. É proibido ser mau para os outros ou bater-lhes. A coisa melhor da nossa vida é a nossa família. Por isso, a Penélope e a Aurora podem sempre pedir atenção e mimo ao pai e à mãe, com qualquer idade!
+
+## 2. Obedecer ao pai e à mãe
+
+**Cá em casa há muita liberdade para fazer coisas espetaculares, mas é importante ser responsável. Ser responsável é fazer as coisas mais fixes sem que aconteçam as coisas más.** Para ganhar responsabilidade, a Penélope e a Aurora têm de ouvir o pai e a mãe que sabem o que é melhor para as suas filhas. Por exemplo, comer gelados com responsabilidade é comer só algumas vezes e depois lavar os dentes, para não ficarmos com dores de barriga e gordos e com os dentes estragados, que é horrível. Em geral, podemos fazer imensas coisas boas, mas quando o pai e a mãe dizem que não, é não. Se os pais chamam, a Penélope e a Aurora vão logo. Quando é para comer, comem. Quanto é para arrumar, arrumam. Quando é para trabalhar, trabalham. Quando o pai e a mãe pedem para fazer de novo, porque não ficou bem feito, faz-se de novo. A Penélope e a Aurora não obedecem uma à outra, só aos pais. Sem protestar. Ao obedecerem aos pais, vão perceber rapidamente o que é melhor e os pais vão deixar de ter de decidir tudo. Quando somos responsáveis toda a gente nos deixa fazer quase tudo o que quisermos (porque estamos a decidir bem!). Os pais vão querer dar mais passeios, porque todos vão correr muito bem. Os pais das amigas vão combinar mais encontros, porque sabem que se vão dar bem. E quando forem adultas, vão ser escolhidas para trabalhar nas coisas mais giras, e até vão poder criar o vosso próprio trabalho a fazerem o que mais gostam. 
+
+## 3. Cuidado 
+
+Quando temos cuidado evitamos acidentes que nos magoam a nós ou aos outros. **Com cuidado, as brincadeiras duram mais tempo.** A Penélope e a Aurora não podem fazer coisas perigosas como atirar objetos, empurrar ou puxar os outros, andar sozinhas, ou mexerem em coisas pesadas ou perigosas. É preciso ter muito cuidado com os estranhos, na rua e na internet. Se alguém estiver em perigo ou se magoar, ou se alguma coisa for suspeita, a Penélope e a Aurora devem sempre dizer ao pai e à mãe. Os pais só querem ajudar. Sempre!
