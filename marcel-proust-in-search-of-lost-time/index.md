@@ -29,7 +29,7 @@ It's a great book to read in a competition with a friend while you compare notes
 
 ### Long recap with all the saucy details
 
-<details markdown=1><summary>Volume 1 - Mister Swann is a Sucker</summary>
+<details markdown=1><summary>Volume 1 - Dial Swann for Sucker</summary>
 
 Note: In translations this book is called “Swann’s Way”.
 
