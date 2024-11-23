@@ -52,13 +52,13 @@ Spínola was displeased with the start of decolonization as he preffered a feder
 
 The country grew more unstable and the future was uncertain. 600,000 forced exiles from the colonies filled the streets, including 100,000 military. Many didn't have a city, family, or home to return to, as they had been born in the colonies. 
 
-The Communist Party (PCP) and other radical parties were very strong, and some wanted plans to turn Portugal into a socialist reality far from the social-democracy it is now. The clearest communist figure was Álvaro Cunhal, who had returned from Paris where he lead the PCP in clandestinity during the dictatorship. 
+The Communist Party (PCP) and other radical parties were very strong, and some had plans to turn Portugal into a socialist reality far from the social-democracy it is now. The clearest communist figure was Álvaro Cunhal, who had returned from Paris where he lead the PCP in clandestinity during the dictatorship. 
 
 With the left in power, nationalizations advanced, and the government and communes took control of agricultural lands, banks, and businesses of various sizes. Houses were occupied too. All this generated even more instability.
 
-In March 1975, Spínola gathered supporters and attempted a coup. It failed, and Spínola went into exile. The more radical elements of the left formed the Council of the Revolution and established a 4th provisional government, with Vasco Gonçalves at the head. Spínola's failure resulted in a confirmation of the power of the left.
+In March 1975, Spínola gathered supporters and attempted another coup. It failed, and Spínola went into exile. The more radical elements of the left formed the Council of the Revolution and established a 4th provisional government, with Vasco Gonçalves at the head. Spínola's failure resulted in a confirmation of the power of the left.
 
-At this mooment, Mário Soares had already began to stand out. He had also returned from Paris at the head of the Socialist Party (PS), a moderate center-left party of social-democrat ideology. 
+At this moment, Mário Soares had already began to stand out. He had also returned from Paris at the head of the Socialist Party (PS), a moderate center-left party of social-democrat ideology. 
 
 A year after the revolution, on April 25, 1975, the first free elections were held to elect for the Constituent Assembly. That is, these elections would determine the parties that would create a new Constitution. 
 
@@ -76,9 +76,9 @@ Contestation grew across the country. Local PCP headquarters were vandalized.
 
 In September, a 6th and last provisional government was created, led by Vice-Admiral Pinheiro de Azevedo and composed of the PS, PPD (PSD), and PCP.
 
-On November 25th, a left-wing coup attempt was made, led by Otelo, COPCON, and members of the MFA. The moderate General Ramalho Eanes stopped the coup, and COPCON was dismantled. 
+On November 25th, a left-wing coup attempt was made, led by Otelo, COPCON, and members of the MFA. The moderate General Ramalho Eanes gathered troops and stopped the coup, and COPCON was dismantled. 
 
-The coup is shrouded in some controversy: according to various sources and versions of history, the PCP was involved in the coup, or authorized the coup, or consented to the coup; in other versions, the left attempted this coup only to prevent a new right-wing coup similar to Spínola's in March 1975.
+The coup is shrouded in some controversy: according to various sources and versions of history, the PCP was involved in the coup, or authorized the coup, or consented to the coup; in other versions, some in the left attempted this coup only to prevent a new right-wing coup similar to Spínola's in March 1975. And many claim that the leadership of the communist party was not involved.
 
 On April 25, 1976, fresh elections took place, two years after the revolution and one year after the first elections to create the Constitution. This was the election for the first government with a new Constitution, ratified on April 2nd of that year and caming into effect precisely on the day of elections.
 
