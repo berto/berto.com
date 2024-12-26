@@ -13,7 +13,7 @@ This is my current list of news sources.
 
 * [Dithering podcast](https://dithering.fm) `Paid`. Daily 15 min commentary on Tech, by Ben Thompson and John Gruber. I don't miss a show. 
 * [Stratechery](https://www.stratechery.com) `Paid`. Daily analysis of important Tech news with a strategy and business angle. Written by Ben Thompson. Articles are interesting, carefully written and feature non-trivial commentary on economic, legal and political issues. I read every single email in full. 
-* [This Week In Startups](https://www.thisweekinstartups.com) `Freemium`. Daily short news on what's going on in Tech.
+* [This Week In Startups](https://ticker.thisweekinstartups.com) `Freemium`. Daily short news on what's going on in Tech.
 * [Daring Fireball: The Talk Show podcast](https://daringfireball.net/thetalkshow/) Weekly podcast by John Gruber, the creator of Markdown and a long-time Apple commentator. I listen to about 50% of the episodes, mostly on long trips.
 * [ATP podcast](https://atp.fm) Fun, weekly podcast that covers tech, Apple and programming. I listen to about 25% of the episodes, mostly on long trips. 
 
