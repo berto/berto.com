@@ -150,9 +150,9 @@ He tells Albertine he has other plans, that he feels like he’s dumbing, and ma
 His mother wakes up, only to hear him declare that he plans to marry Albertine.
 
 Cool quotes
-- "Tue pleasure is the one for which all other pleasures are abandoned.”
--	"Illness is the doctor we listen to the most. We make promises to kindness and wisdom. To pain, we obey."
--	"Some people prone to obesity eat almost nothing and exercise all day, yet keep visibly gaining weight."
+- True pleasure is the one for which all other pleasures are abandoned. “The truth is that men can have several sorts of pleasure. The true pleasure is the one for which they abandon the other.”
+-	Illness is the doctor we listen to the most. We make promises to Kindness and Wisdom. To Pain, we obey. "Illness is the most heeded of doctors: to kindness and wisdom we make promises only; pain we obey."
+-	Some people prone to obesity eat almost nothing and exercise all day, yet keep visibly gaining weight. "Certain persons inclined to obesity eat hardly anything, and take exercise all day long without ceasing to grow visibly fatter".
  	
 </details>
 
