@@ -59,27 +59,31 @@ The book ends with the narrator frustrated, not getting even a squeeze, somethin
   
 </details>
 
-<details markdown=1><summary>Volume 2 - De Férias com o Diabolo</summary>
+<details markdown=1><summary>Volume 2 - Vacations with Diabolo</summary>
 
-Nota: O nome correto das traduções é "À sombra das raparigas em flor" (PT), ou "In the Shadow of Young Girls in Flower" (EN) ou "Within a Budding Grove" (EN).
+Note: The correct translation options are “In the Shadow of Young Girls in Flower” (EN), or “Within a Budding Grove” (EN) depending on the edition.
 
-O segundo volume começa na sequência do primeiro, e conhecemos o Marcel a amadurecer como um jovem, sem nunca deixar de ser um tono monumental. (Este é o resumo, podem saltar para o próximo livro.)
+The second volume picks up right where the first left off, and we see Marcel maturing as a young man — without ever ceasing to be a monumental bore. (That’s the summary, you can skip to the next book.)
 
-Não se percebe bem a idade dele, mas sabemos que o Marcel é amigo da Gilberte, e passa imenso tempo em casa dela, que é a casa dos Swann. Numa dessas festas conhece Bergotte, um escritor super conhecido e que ele passa a idolatrar. A sua família acha que o contato com pessoas artísticas o vai ajudar a ser um bom escritor. O Marcel desconfia, acha o Bergotte um génio mas lá em casa dos Swanns só dá conversa, e ele não parece estar a evoluir a escrita. Mais, a miúda Gilberte ora se aproxima, ora se afasta, e o puto começa a fartar-se. Vira a atenção para a mãe dela e as suas roupas de casa de seda, e dá-lhe flores e ignora a filha.
+His exact age isn’t clear, but we know Marcel is friends with Gilberte and spends a lot of time at her house, the Swanns’ residence. At one of these gatherings he meets Bergotte, a super famous writer whom he starts idolizing. His family thinks that being around artistic people will help him become a good writer. Marcel doubts that — he thinks Bergotte is a genius, but at the Swanns’ he just chats away, and Marcel doesn’t feel like his writing is improving with so much chatter. To make things worse, Gilberte keeps playing hot and cold, and the kid starts getting fed up. He shifts his attention to her mother and her fancy silk house robes, gifting her flowers while ignoring the daughter. Not a bad strategy.
 
-Um colega do trabalho do pai do Marcel, o Norpois, diz aos pais do Marcel que o Bergotte não é grande escritor, mas por outro lado diz-lhe que o Marcel até escreve qualquer coisa.
+One of Marcel’s father’s colleagues, Norpois, tells Marcel’s parents that Bergotte isn’t such a great writer after all, but adds that Marcel does have some writing potential.
 
-As pessoas têm sobretudo criados. Há uns personagens que já meteram eletricidade em casa, e outras têm telefone. O Marcel tem saúde fraca.
+Everyone seems to have servants. Some characters already have electricity at home, and others even have a telephone. Marcel’s health is weak.
 
-Num verão o jovem vai para Balbec com a avó, junto ao mar. Na viagem, o Marcel convence a avó a pagar-lhe álcool e ele apanha uma farda descomunal no comboio.
+The young Marcel heads to Balbec with his grandmother. Balbec is by the sea. On the train ride, he convinces her to buy him alcohol for some health reason, and he gets absolutely wasted.
 
-Lá em Balbec, reúne-se com o amigo Bloch, judeu e maluco, cujo pai diz que conheceu a mulher do Swann em primeira mão como prostituta.
+Once in Balbec, he reconnects with his friend Bloch, a crazy Jewish guy whose father claims to have known Swann’s wife firsthand — as a prostitute.
 
 O Marcel conhece também um pintor reputado, Elstir. O Elstir é obcecado pela mulher, que parece ao Marcel bastante normal. O Elstir apresenta-o à grupeta de miúdas populares nesta vila junto ao mar. Albertine é pobre, Andrée é rica, e há outras. A Albertine diz-lhe que gosta dele, mas quando o Marcel tenta dar-lhe um beijo ela afasta-o. Ele fica na boa, e acaba meio apaixonado pelo grupo todo.
 
-Mesmo antes do fim, uma velha leva com um diabolo na cabeça [1]. Fim do segundo livro.
+Marcel also meets the famous painter Elstir. Elstir is obsessed with his own wife, whom Marcel finds pretty unremarkable. Elstir introduces him to the popular girl gang in town. Albertine is poor, Andrée is rich, and there are others. Albertine tells Marcel she likes him, but when he tries to kiss her, she pushes him away. He plays it cool and ends up kinda falling for the whole group indiscriminately.
 
-[1]. Sim, tive de repetir a passagem do livro umas 3x. Um diabolo? Fui à net e confirmei que o “diabolo” mencionado no livro é o mesmo brinquedo que esteve na moda durante os anos 90, só que agora sei que já era popular em 1900.
+Right near the end, an old lady gets hit on the head with a diabolo [1]. End of book two.
+
+[1]. Yes, I had to reread that part like three times. A diabolo? I even googled it and confirmed that yes, it’s the same toy that was all the rage in the ’90s. But now I know that it was already popular back in 1900.
+
+
 
 </details>
 
