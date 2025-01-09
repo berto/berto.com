@@ -85,7 +85,7 @@ Mesmo antes do fim, uma velha leva com um diabolo na cabeça [1]. Fim do segundo
 
 Nota: O nome real do livro é "O caminho de Guermantes" (PT), ou "The Guermantes Way" (EN).
 
-No terceiro volume a a família do Marcel muda-se para Paris. Agora moram num prédio. O Marcel nota que os criados copiam as expressões e os protestos que os criados dos vizinhos dirigem aos patrões.
+No terceiro volume a família do Marcel muda-se para Paris. Agora moram num prédio. O Marcel nota que os criados copiam as expressões e os protestos que os criados dos vizinhos dirigem aos patrões.
 
 São vizinhos dos influentes Guermantes. O Marcel anda meio obcecado pela madame de Guermantes, a vizinha que não lhe liga puto. O jovem decide visitar um amigo que vive encostado ao quartel do serviço militar, o Robert Saint-Loup, que é sobrinho dela, para lhe pedir uma introdução sob uma desculpa esfarrapada, e depois uma um bocado melhor. O amigo Robert está por sua vez caído por uma fulana de reputação duvidosa, Rachel, uma Odette 2.0 que o maltrata enquanto ele anda atrás dela a dar-lhe jóias caríssimas de 30 mil francos. Aliás, esta Rachel é a mesma que o louco Bloch tinha apresentado ao Marcel numa dessas casas da especialidade, e que cobrava nada, por tudo.
 
