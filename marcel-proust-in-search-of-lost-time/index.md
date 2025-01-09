@@ -87,23 +87,29 @@ Right near the end, an old lady gets hit on the head with a diabolo [1]. End of 
 
 </details>
 
-<details markdown=1><summary>Volume 3 - Os Guermantes são Peneirentos</summary>
+<details markdown=1><summary>Volume 3 - The Guermantes are Snobs</summary>
 
-Nota: O nome real do livro é "O caminho de Guermantes" (PT), ou "The Guermantes Way" (EN).
+Nota: The real Title is "The Guermantes Way" (EN).
 
-No terceiro volume a a família do Marcel muda-se para Paris. Agora moram num prédio. O Marcel nota que os criados copiam as expressões e os protestos que os criados dos vizinhos dirigem aos patrões.
+In the third volume, Marcel’s family moves to Paris. They now live in an apartment building. Marcel notices that the servants mimic the complaints and expressions used by the neighbors’ servants toward their employers.
 
 São vizinhos dos influentes Guermantes. O Marcel anda meio obcecado pela madame de Guermantes, a vizinha que não lhe liga puto. O jovem decide visitar um amigo que vive encostado ao quartel do serviço militar, o Robert Saint-Loup, que é sobrinho dela, para lhe pedir uma introdução sob uma desculpa esfarrapada, e depois uma um bocado melhor. O amigo Robert está por sua vez caído por uma fulana de reputação duvidosa, Rachel, uma Odette 2.0 que o maltrata enquanto ele anda atrás dela a dar-lhe jóias caríssimas de 30 mil francos. Aliás, esta Rachel é a mesma que o louco Bloch tinha apresentado ao Marcel numa dessas casas da especialidade, e que cobrava nada, por tudo.
 
-O caso Dreyfus rebenta na França, e divide o país e várias famílias, e o Marcel mais ou menos incompatibiliza-se com o pai.
+Their new neighbors are the influential Guermantes family. Marcel is somewhat obsessed with Madame de Guermantes, the neighbor who pays him no attention. To get closer to her, he decides to visit his friend Robert Saint-Loup at the Barracks where he lives, because Robert is her nephew. Marcel uss a flimsy pretext to ask for an introduction, and later he comes up with a better excuse for that introduction. Robert, in the meantime, is head over heels for a woman of questionable reputation, Rachel — basically an Odette 2.0 — who mistreats him while he showers her with absurdly expensive gifts, including 30,000-franc jewelry. Fun fact: this Rachel is the same woman Bloch once introduced Marcel to at a certain type of establishment, where she charged nothing for everything.
+
+The Dreyfus Affair blows up in France, dividing both the country and several families. Marcel’ relationship with his father is strained.
 
 Nota bibliográfica: o caso Dreyfus aconteceu entre 1894 e 1906, quando o capitão de 35 anos Dreyfus foi acusado e julgado culpado de traição e passar segredos à Alemanha. A familia combateu a acusação, e descobriu-se que o caso tinha sido martelado, com provas forjadas, e falta de procedimentos legais. No meio disto, descobre-se um verdadeiro culpado, mas o exército ignora esses dados e forja um segundo julgamento para ilibar o verdadeiro autor, que acaba por fugir para Inglaterra, onde mais tarde assume a sua culpa. O caso opôs os Dreyfusards, e os anti-Dreyfusards. Os primeiros eram republicanos, para quem a defesa da justiça era elementar. Os segundos eram militaristas, nacionalistas, ou seja não queriam que a honra do Estado fosse atacada, e tinham diferentes graus de anti-semitismo. Porque Dreyfus era judeu. O caso dividiu a França. Foi neste caso que surgiu o famoso artigo “J’Accuse!”. Foi também na sequência das divisões que o caso causou que o termo “intelectual” se popularizou em França e Inglaterra, sendo usado para designar (negativamente) os homens letrados, que ao início suportavam todos o Dreyfus.
 
-A avó do Marcel fica doente. Três médicos diferentes tentam curas avançadas, como dar-lhe leite. E ela morre.
+Historical Note: The Dreyfus Affair happened between 1894 and 1906 and involved Captain Alfred Dreyfus, a 35 year old officer wrongly convicted of treason for passing secrets to Germany. His family fought the conviction, which had been decided from the get-go, and exposed forged evidence and procedural misconduct. Despite discovering the true culprit, the military covered it up, even staging a second trial to exonerate the real traitor, who flees to England where he later admits his guilt. The scandal split France between the Dreyfusards and the anti-Dreyfusards. The first were republicans, for whoom the defense of justice was above all else. The second group was composed of militarists and nationalists focused on protecting state honor, and they had varying degrees of antisemitism. Because Dreyfus was Jewish. The case split France. This was the case where the famous headline “J’Accuse!” emerged. It was also then that the term “intellectual” became popular in France and England, innitially in a pure negative way, targeting literate men who largely supported Dreyfus.
 
-Os Guermantes do livro são afinal duas sub-famílias, com distinções nos seus títulos, soberba, arte, relações e dinheiro. As distinções parecem importantes para eles, e para o autor que lhes dedica umas 200 páginas, mas passam rápido. O que interessa é que o Marcel é convidado para um evento onde a madame Guermantes está a dizer coisas venenosas sobre metade da França e um décimo da aristocracia europeia. Pouco depois, o Baron de Charlus, que também é Guermantes (!) acusa o Marcel de deitar veneno sobre ele. Faz uma cena, diz que o odeia e tal, mas depois vai levá-lo a casa e passa-lhe a mão na cara e fica a forte impressão que o velho queria mais qualquer coisa.
+Marcel’s grandmother falls ill. Three doctors try advanced treatments, like giving her milk. She dies.
+
+The Guermantes family, it turns out, is actually two branches, differing in their titles, pride, artistic tastes, social connections, and wealth. These distinctions seem crucial to them and to the author, who dedicates about 200 pages to it. What matters is that Marcel finally scores an invite to a social event where Madame de Guermantes is busy spilling venom over half of France and a thenth of the European aristocracy. Shortly after, the Baron de Charlus, who is also a Guermantes, accuses Marcel of spreading gossip about him. He makes a dramatic scene, says he hates Marcel, but then insists on walking him home, caresses his face, and leaves a strong impression that the old man wanted… something more.
 
 No fim, o Marcel recebe um convite para uma festa da Princesse de Guermantes, e enquanto vai perguntar se o convite é verdadeiro à madame Guermantes e ao marido, aparece o maluco do Swann que anuncia que vai morrer em breve. O casal ignora o Marcel e a doença fatal do Swann: só faltam 10 minutos para irem a um evento, e têm mesmo de ir.
+
+In the end, Marcel receives an invitation to a party hosted by the Princesse de Guermantes. While he asks about the authenticity of the invitation to Madame de Guermantes and her husband, the eccentric Swann shows up and announces that he’s going to die soon. The Guermantes couple completely ignores both Marcel and Swann’s fatal disease: they’ late for an event, and they really must go.
   
 </details>
 
