@@ -107,7 +107,7 @@ Nota: O nome real do livro é esse mesmo, "Sodoma e Gomorra" (PT), ou "Sodom and
 
 O quarto livro começa com o Marcel no pátio do prédio. Lá, apanha o alfaiate Jupien e o Barão Charlus enrolados, primeiro num canto do pátio, e depois na loja do primeiro.
 
-Vai à festa da Princesse de Guermantes que suportamente tem uma fonte incrível no jardim. Na festa começa a notar nos vários os homossexuais, que na época se chamavam “invertidos”, e a comentar sobre a sua vida, coisa que perdura por todo o livro.
+Vai à festa da Princesse de Guermantes que supostamente tem uma fonte incrível no jardim. Na festa começa a notar nos vários os homossexuais, que na época se chamavam “invertidos”, e a comentar sobre a sua vida, coisa que perdura por todo o livro.
 
 O Swann é escoltado da festa pelo Prince de Guermantes, e toda a gente fica chocada. O Swann depois explica ao Marcel que saiu da festa por ser um Dreyfusard, mas (surpresa) que não é por o Prince ser contra isso. Pelo contrário, ele confessara-lhe que um general lhe disse que o processo de condenação de Dreyfus estava cheio de ilegalidades, o que converta o general e depois o próprio Prince, mas que às vezes tinha de manter as aparências.
 
