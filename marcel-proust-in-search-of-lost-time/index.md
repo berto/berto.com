@@ -89,7 +89,7 @@ Right near the end, an old lady gets hit on the head with a diabolo [1]. End of 
 
 <details markdown=1><summary>Volume 3 - The Guermantes are Snobs</summary>
 
-Nota: The real Title is "The Guermantes Way" (EN).
+Note: The real Title is "The Guermantes Way" (EN).
 
 In the third volume, Marcel’s family moves to Paris. They now live in an apartment building. Marcel notices that the servants mimic the complaints and expressions used by the neighbors’ servants toward their employers.
 
@@ -113,43 +113,47 @@ In the end, Marcel receives an invitation to a party hosted by the Princesse de 
   
 </details>
 
-<details markdown=1><summary>Volume 4 - A Sodoma e a Gomorra</summary>
+<details markdown=1><summary>Volume 4 - Sodom & Gomorrah</summary>
 
-Nota: O nome real do livro é esse mesmo, "Sodoma e Gomorra" (PT), ou "Sodom and Gomorrah" (EN).
+Note: That's the real name of the book "Sodom and Gomorrah" (EN). Proust got one right! Not bad.
 
-O quarto livro começa com o Marcel no pátio do prédio. Lá, apanha o alfaiate Jupien e o Barão Charlus enrolados, primeiro num canto do pátio, e depois na loja do primeiro.
+The fourth book starts with Marcel in his building’s courtyard. There, he sees the tailor Jupien and Baron Charlus making out, first in a corner, then inside Jupien’s shop.
 
 Vai à festa da Princesse de Guermantes que suportamente tem uma fonte incrível no jardim. Na festa começa a notar nos vários os homossexuais, que na época se chamavam “invertidos”, e a comentar sobre a sua vida, coisa que perdura por todo o livro.
 
+He attends a party by the Princesse de Guermantes’, who is supposed to have a spectacular fountain in the garden of her mansion. At the party Marcel notices the many homosexual men present. In the period they're mentioned as “inverts”. The author comments on their life, a theme that continues throughout the book.
+
 O Swann é escoltado da festa pelo Prince de Guermantes, e toda a gente fica chocada. O Swann depois explica ao Marcel que saiu da festa por ser um Dreyfusard, mas (surpresa) que não é por o Prince ser contra isso. Pelo contrário, ele confessara-lhe que um general lhe disse que o processo de condenação de Dreyfus estava cheio de ilegalidades, o que converta o general e depois o próprio Prince, mas que às vezes tinha de manter as aparências.
 
-A casa de Guermantes perde algum valor social, e a dos Swann ganha. Metade é porque a Odette agora é a musa do escritor Bergotte, que volta a estar na moda, e metade é porque a filha Gilberte herda de um tio do Swann muitos milhões de francos.
+Swann is escorted out of the party by the Prince de Guermantes, shocking other guests. Later, Swann explains to Marcel that he left because he is a Dreyfusard — but (plot twist) not because the Prince opposes it. In fact, the Prince had confessed that a general once told him the trial against Dreyfus was riddled with illegalities, which had changed the general’s mind and then the Prince’s. Still, the Prince had to maintain appearances.
 
-A aristocracia vai sendo penetrada a pouco e pouco pela classe média e burguesia, sob a forma de visitas técnicas de médicos e artistas, ou de casamentos com industriais.
+The house of Guermantes loses social standing, while the Swanns’ rises. Part of this is because Odette has become the muse of the writer Bergotte, who’s back in fashion, and part of it is because their daughter Gilberte inherits millions of francs from one of Swann’s uncles.
 
-Marcel volta para Balbec. Pensa bastante na avó, mas passa dos dias no jogo do gato e do rato com a Albertine, a amiga pobre do grupo que tinha conhecido na primeira visita à pequena vila no mar. Ela deixa claro que tem outros planos. O Marcel inventa que afinal gosta é da amiga rica dela, a Andrée. A Albertine entende e fica super feliz por eles e portanto atira-se ao Marcel e começam a andar enrolados.
+Aristocracy is gradually penetrated by the middle class and bourgeoisie, through technical visits of doctors and artists, and more deeply through marriages with wealthy industrialists.
 
-No hotel, a interação entre duas jovens e entre uma moça e a Albertine fazem-no suspeitar que ela é lésbica, ou pelo menos bissexual.
+Marcel returns to Balbec. He thinks about his grandmother but spends most of his time in a cat-and-mouse game with Albertine, the poor girl he met during his first stay. She makes it clear she has other plans. So Marcel pretends to like her richer friend Andrée instead. Albertine understands and is so thrilled for them and she suddenly throws herself at Marcel and they start fooling around.
 
-O Marcel aluga um carro para dar passeios com a moça. Descobrem que num automóvel as distâncias parecem mais curtas, e podem visitar duas ou três vilas numa tarde. A mãe e a empregada Françoise ficam chocados com o dinheiro que ele gasta com a Albertine.
+At the hotel, interactions between Albertine and two other women make Marcel suspect that Albertine might be a lesbian, or at least bisexual.
 
-Passa um avião, coisa raríssima no início do século, e ele emociona-se.
+Marcel rents a car to take Albertine on drives. They discover that cars make distances feel shorter, and that they can visit two or three towns in a single afternoon. Marcel’s mother and their servant Françoise are scandalized by how much money he spends on her.
 
-O velho do Barão de Charlus anda metido com um violinista de origens humildes, o Morel. Tenta controlá-lo como pode, incluindo inventar um duelo no qual tem de participar para salvar a honra do Morel, para que este se sinta obrigado a ficar com ele. Funciona.
+An airplane flies overhead, which is an extremely rare sight at the turn of the century, and Marcel is moved by it.
 
-O casal Marcel e Albertine assumem-se como primos e integram o grupo exclusivo que participa nos eventos obrigatórios de férias dos Verdurins, onde estão engrandecidos o médico Cottard e o académico Brichot, e o Barão Charlus e agora Morel, estes que também acham que são um casal secreto.
+Meanwhile, old Baron Charlus is tangled up with a humble violinist named Morel. Charlus tries to control him anyway he can, including staging a fake duel to defend Morel’s honor, hoping to he'd feel indebted and stays with him. It works.
 
-O Marcel começa a fartar-se da Albertine, a vida está uma seca, e dá uma boa notícia à mãe quando lhe diz que vai cancelar a relação.
+Marcel and Albertine pretend to be cousins and join the exclusive vacation clique of the Verdurins. The Verdurins’ circle now includes the pompous doctor Cottard, the academic Brichot, and the couple Charlus and Morel. Charlus and Morel also believe they’re keeping their relationship a secret.
 
-Diz à Albertine que tem outros planos, que está a estupidificar, e inventa que quer mudar de ares e ouvir música de um tal Vinteuil. A Gilberte compreende, e diz-lhe até que o pode ajudar, porque conhece a filha do compositor. Aí o Marcel fica em pânico, porque sabe que a filha do compositor é lésbica, e explode o ciúme por esta inclinação da Albertine. Inventa que tinha um noivado que quebrou e que só a amizade colorida da Albertine o mantém, e pede-lhe que vá com ele para Paris.
+Marcel starts getting bored of Albertine. Life feels stale, and his mother is delighted when he tells her he plans to break things off.
 
-A mãe acorda estremunhada e ele diz-lhe quer casar com a Albertine.
+He tells Albertine he has other plans, that he feels like he’s dumbing, and makes up a story about wanting to hear the music of a composer named Vinteuil. Gilberte understands, says she can help him, that she knows the composer’s daughter. Marcel panics because he knows Vinteuil’s daughter is a lesbian and immediately spirals into jealousy. He invents a broken engagement and claims Albertine’s company is the only thing keeping him going. He begs her to return to Paris with him.
 
-Frases fixes
-- _O verdadeiro prazer é aquele pelo qual se abandonam os outros prazeres._
-- _A doença é o médico que mais escutamos. Fazemos promessas a gentilezas e conhecimento. À dor, obedecemos._
-- _Certas pessoas com inclinação para a obesidade não comem praticamente nada e passam os dias a fazer exercício, sem deixarem de engordar visivelmente._
+His mother wakes up, only to hear him declare that he plans to marry Albertine.
 
+Cool quotes
+- "Tue pleasure is the one for which all other pleasures are abandoned.”
+-	"Illness is the doctor we listen to the most. We make promises to kindness and wisdom. To pain, we obey."
+-	"Some people prone to obesity eat almost nothing and exercise all day, yet keep visibly gaining weight."
+ 	
 </details>
 
 <details markdown=1><summary>Volume 5 - O controlador ciumento </summary>
