@@ -1,4 +1,4 @@
-☝️ A light-heartd summary of the book In Search of Lost Time by Marcel Proust. Contains Spoilers. [Original post in Portuguese](index-pt.html).
+☝️ A lighthearted summary of the book In Search of Lost Time by Marcel Proust. Contains Spoilers. [Original post in Portuguese](index-pt.html).
 
 ### Mini-summary for self-help fans
 
