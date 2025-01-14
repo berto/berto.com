@@ -193,68 +193,70 @@ He buys her a long dress from the designer Fortuny. (It’s unclear if the style
 Then, one morning, the maid wakes him up with the news: Albertine has left.
 
 Notable Quotes:
-	- "Sleep is divine but by no means stable; the slightest shock makes it volatile. A friend to habit, it is kept night after night in this appointed place by habit, more steadfast than itself, protected from any possible disturbance; but if it is displaced, if it is no longer subjugated, it melts away like a vapour. It is like youth and love, never to be recaptured."
+
+- "Sleep is divine but by no means stable; the slightest shock makes it volatile. A friend to habit, it is kept night after night in this appointed place by habit, more steadfast than itself, protected from any possible disturbance; but if it is displaced, if it is no longer subjugated, it melts away like a vapour. It is like youth and love, never to be recaptured."
 - "Flitting from one supposition to another, the Baron never arrived at the truth, which was that the blow had not come from Morel. It is true that he might have learned this by asking him for a few minutes’ conversation. But he felt that this would injure his dignity and would be against the interests of his love. He had been insulted, he awaited an explanation. There is, for that matter, almost invariably, attached to the idea of a conversation which might clear up a
 misunderstanding, another idea which, whatever the reason, prevents us from agreeing to that conversation."
 - 🚧 "If your desires or your wallet are on the line, even the dullest person can rise above the stupidity of their life and navigate the workings of the most complex machine."
 
 </details>
 
-<details markdown=1><summary>Volume 6 - Mais valia estar quieto!</summary>
+<details markdown=1><summary>Volume 6 - Better do nothing!</summary>
 
-Nota: O nome real deste volume é "The Fugitive" (EN).
+Note: The actual title of this volume is "The Fugitive" (EN).
 
-Depois de o Marcel a controlar durante imenso tempo, a Albertine sai de casa dele em Paris e deixa-lhe uma carta onde diz que quer que fiquem amigos, e que está a sofrer com a separação, e por isso fugiu. O Marcel sabe que a relação ia dar mal, e sabe também que os prazeres que a Albertine lhe dá são piores do que ele consegue arranjar com muitas outras. 
+After controlling Albertine for ages, she finally leaves Marcel’s apartment in Paris. She leaves him a letter saying she wants to stay friends and that this separation is hard for her, and so she ran away. Marcel knows the relationship was doomed and that the pleasures Albertine gave him were small compared to what others would give him.
 
-Como a relação está frouxa e ela fugiu, o Marcel decide de novo que tem é de casar com ela, como o Swann fez com a Odette. Mas em vez de lhe dizer isso, retoma a troca de cartas com ela. Diz-lhe que não quer que ela volte, que pensa casar com a amiga Andrée, sempre com o desejo que a Albertine fique com ciúme e queira voltar e queira casar com ele.
+Given that the relationship has fallen apart and she’s gone, Marcel decides that he must marry her, just like Swann married Odette. Instead of just saying this, he starts exchanging letters with her. He claims he's thinking of marrying her friend Andrée instead, hoping to make Albertine jealous enough to come crawling back and marry him.
 
-Ela não cai no truque, ou não percebe. Numa última tentativa, o creep do Marcel manda o amigo Saint-Loup ir a casa da tia dela, a Madame Bontemps, para que esta convença a Albertine a voltar, mas a missão falha. A Albertine diz-lhe que basta que o Marcel peça, que ela volta. 
+She doesn’t fall for it or doesn’t get it. In one last move, creep Marcel sends his buddy Saint-Loup to Albertine’s aunt, Madame Bontemps, so that she convinces Albertine to return. The mission fails. Albertine writes to Marcel saying she’d be happy to come back anytime — all he has to do is ask.
 
-Enquanto ele agoniza sobre os prós e contras, recebe 3 novidades.
+While he’s agonizing over the pros and cons, three big pieces of news arrive.
 
-A primeira é um relato da madame Bontemps que diz que a Albertine caiu do cavalo e morreu. 
+The first is a letter from Madame Bontemps saying Albertine fell from her horse and died.
 
-Fica em choque.
+Shock.
 
-As outras são da Albertine, que devem ter sido escritas mesmo antes do acidente. Uma que diz que ela ficaria contente se o Marcel ficasse com a amiga Andrée. A última diz que afinal está desesperada para voltar, que gosta é dele, e pergunta se pode voltar!
+The other two letters are from Albertine herself, written right before the accident. One says she’ll be happy once Marcel married Andrée. The last one says she’s desperate to come back, that she loves him, and asks if she can please return!
 
-A-há! Ganhou! Mas a miúda está morta, por isso afinal perdeu.
+A-ha! He’s won! Except… Albertine's dead. So actually, he lost.
 
-O Marcel fica mais perseguido ainda. Será que ela tinha gostado mesmo dele? Será que ela era lésbica? Essas, parece, eram as grandes perguntas da vida em 1900.
+Marcel spirals deeper into obsession. Did Albertine really love him? Was she actually a lesbian? Apparently these were the burning questions of life in 1900.
 
-Para resolver as dúvidas, primeiro contrata um funcionário do hotel de Balbec, Aimé, para ir descobrir se ela tinha de facto andado pela terriola com outras. Primeiro diz que não sabe, que não ouviu muito, só uns zunzuns, mas depois escreve-lhe a dizer que sim, que a Albertine não só se enrolava com umas amigas nos banhos, como também aliciava outras, até mais jovens. Isto convence o Marcel. Mas depois desconvence-se. E se o funcionário Aimé lhe disso isto para valer o dinheiro? E de qualquer forma ela podia gostar de se enrolar com umas miúdas e gostar dele ao mesmo tempo. 
+To clear his doubts, he hires a hotel employee from Balbec, Aimé, to snoop around and find out if Albertine had really been messing around with other women. Aimé starts by saying he doesn’t know much but heard some rumors. Then he sends a letter confirming that yes, Albertine not only hooked up with girls at the beach but also seduced younger ones! This convinces Marcel. Until it doesn’t. What if Aimé just made all that up for the money? And anyway Albertine could have liked to have fun with other girls and also still have loved him!
 
-Então fala com a Andrée. Ela não está super perturbada com a melhor amiga ter morrido. Já passou. Quando o Marcel tenta confirmar a homossexualidade entre as duas, a Andrée confirma com grande naturalidade que ela sim já tinha feito isso montes de vezes, mas nunca com a amiga! Finalmente o Marcel pode descansar. 
+So he asks Andrée directly. She doesn’t seem particularly upset about her best friend’s death. When Marcel presses her, she casually admits she has had experiences with women, but never with Albertine! Finally, Marcel can rest easy. Nope. A true stalker is never satisfied. His head spins even faster and harder around this question.
 
-Mas não, um stalker nunca fica satisfeito. A sua cabeça anda à roda deste problema.
+Time passes, and he starts thinking of Albertine more gently. It doesn't matter what she was or wasn't. They had good conversations, she was sweetm abd they also fooled around on top. He’ more at peace… until he gets weirdly mystical and starts talking about the afterlife. Even his dead grandmother makes a ghostly appearance, with a broken jaw no less, for some reason (?).
 
-O tempo vai passando e ele vai olhando para a Albertine de forma mais pacífica. Tanto faz o que ela era ou não. Tinham boas conversas e ela era meiga e ainda se divertiam, bem bom. Fica mais em paz, só que também começa a entrar em misticismos e obscurantismo, há uma breve comunicação com o além onde até a avó dele aparece com o queixo partido (!?).
+Meanwhile, Odette is now a moderately wealthy widow and remarries Forcheville, a broke aristocrat who’s supposed to bring her social status. One of Swann’s uncles also dies and their daughter Gilberte inherits an obscene fortune. She's now high society, and the Guermantes host her.
 
-A Odette entretanto é uma viúva moderadamente rica, e depois da morte do Swann casa com o Forcheville, um aristocrata falido que supostamente lhe dará algum status. Um tio do Swann também morre e a Gilberte, filha do Swann e da Odette, herda uma fortuna incalculável. Faz parte da alta sociedade, e é recebida pelos Guermantes.
+Marcel finally publishes something. It's an article in Le Figaro.
 
-O Marcel finalmente publica alguma coisa, um artigo no Le Figaro.
+Andrée drops by again and confesses that actually, yes, all his previous suspicions were true. She had been involved with Albertine. More, she says Albertine did love Marcel too, that she was probably scared of him and had considered marrying him. She’d also been stringing along another guy, just in case Marcel wasn’t interested. People are like that.
 
-A Andrée visita-o e confessa afinal que todas as suspeitas eram verdadeiras, sim elas estavam de facto enroladas. Mais, a Albertine também gostava do Marcel e se calhar tinha medo dele e provavelmente queria casar com ele. Diz-lhe também que a Albertine andava a entreter outro tipo para talvez casar com ele, como plano para o caso de o Marcel não querer avançar. Afinal as justificações para as aproximações e distanciamentos eram simples. As pessoas são lixadas. 
+The painter Elstir from Balbec becomes famous and valuable. One of his paintings shows young women playing by the water, shoving each other. Marcel wonders if it’s Albertine and her friends seducing one another.
 
-O pintor Elstir, de Balbec, torna-se cobiçado e famoso. Uma das pinturas dele mostra jovens a brincarem perto da água, empurrando-se. O autor pensa se seriam a Albertine e as amigas a aliciarem-se?
+Marcel takes that long-dreamed-of trip to Venice. He goes with his mom.
 
-O Marcel vai finalmente passear para Veneza, o único sonho constante na sua vida toda. Vai com a mãe. 
+While there he gets a message taken from a telegram relayed from Albertine. She’s alive?! It's hard to understand, its a terrible translation. But Marcel barely reacts. Honestly, at this point it would be inconvenient if she were alive. He’s over it.
 
-Nessa viagem recebe no hotel a mensagem transmitida de um telegrama de Albertine, super mal traduzido porque no Hotel não percebem nada. Afinal está viva!? Mas o Marcel não liga muito, seria mau ela estar viva, já não tem grandes sentimentos. 
+The word azure gets massively overused in this book. Nothing is ever just “blue” (bleu). Everything is azure.
 
-O livro abusa da palavra “azure”. Nada é azul, "blue" ou "bleu". Para o Marcel, tudo é azure.
+Back in Paris, Marcel hears that his friend Saint-Loup is marrying Gilberte, the millionaire. It makes sense, he's probably also broke.
 
-Quando regressa a Paris, o Marcel ouve dizer que o amigo Saint-Loup vai casar com a filha do Swann, a Gilberte, que agora é milionária. Faz sentido, os aristocratas estão todos falidos.
+Marcel and Gilberte reconnect. He visits here, they talk, without great traces of love. Saint-Loup now ignores his old friend who he previously was obsessed with. He just wants him to keep his wife company. Meanwhile Saint-Loup takes on lover, which destabilizes his wedding. He's always surrounded with women, but his lover is Morel the violinist, who was his own's uncle’s ex-lover.
 
-O Marcel volta a ser amigo da Gilberte de novo. Visita-a, e falam, sem grande fricção porque já não há vestígio de amor. O Saint-Loup não liga puto ao antigo amigo Marcel, de quem gostava imenso. Só quer que ele faça companhia à sua mulher. Apesar de casado com a Gilberte, o Saint-Loup arranja amantes, e isso destabiliza o casamento. Só que apesar de andar sempre rodeado de mulheres, em vez de ter uma amante, ele é amante do Morel, o violinista que é o ex do seu tio o Barão Charlus. 
+Marcel realizes that the confusing messages he received in Venice weren’t from Albertine but from Gilberte. Albertine really is dead after all. He still doesn't care much.
 
-O Marcel apercebe-se que as notícias que tinha recebido em Veneza afinal eram da Gilberte e não da Albertine, que está morta claro. Isto não causa qualquer espécie de sentimento.
+Gilberte is rich but stingy, but that has a solution. Saint-Loup showers his mother-in law Odette with gifts, paid for using Gilberte’s own money, of course. Odette is broke after losing her second husband who's dead, and in turn defends Saint-Loup’s absences, reassuring her daughter to just chill out when he disappears on vacations with his friend. She tells her daughter Gilberte to be generous towards him. And so the money goes around. Oh, and Saint-Loup also secretly supports his uncle, the Baron Charlus.
 
-A Gilberte é em geral uma fonas, mas nada que não se resolva. O Saint-Loup oferece prendas à sogra Odette com o dinheiro da mulher, pois a sogra agora já não tem muito dinheiro, e perdeu o segundo marido também. Como troca, a sogrinha defende o Saint-Loup quando ele vai de férias com o "amigo", e diz à filha que seja generosa e tranquila com o marido, e assim o dinheiro circula. O Saint-Loup também mantém o tio Charlus às escondidas.
+By the end of the sixth book, it’s clear Marcel was fragile. He probably hibernated, as most of the story happens during spring and summer. These 6 volumes have hardly any rain, snow, or winter. The light, walks, travel, seaside swims, the torment and failure of love, these are what shaped him and what he remembers.
 
-Chegado ao final do 6º livro, percebe-se que o Marcel era frágil. Provavelmente também hibernava como os animais, pois quase só existe a primavera e o verão. Os seis primeiros volumes têm pouca chuva, neve, e inverno. A luz, os passeios, as viagens, o sol, os banhos de mar e as tiranias e falhanços do amor são o que o fizeram crescer. 
+Saint-Loup leaves his wife yet again to travel with a "friend". While strolling together, Gilberte confesses to Marcel that she had feelings for him once but that he had completely ignored her.
 
-O Saint-Loup deixa a mulher mais uma vez sozinha para ir ter com o namorado. Enquanto dão um passeio, a Gilberte confessa ao Marcel que tinha gostado dele mas que ele não lhe tinha ligado puto. 
+Classic Marcel.
+
 </details>
 
 <details markdown=1><summary>Volume 7 - Os últimos são os primeiros</summary>
