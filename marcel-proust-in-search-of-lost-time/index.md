@@ -150,53 +150,53 @@ He tells Albertine he has other plans, that he feels like he’s dumbing, and ma
 His mother wakes up, only to hear him declare that he plans to marry Albertine.
 
 Cool quotes
-- True pleasure is the one for which all other pleasures are abandoned. “The truth is that men can have several sorts of pleasure. The true pleasure is the one for which they abandon the other.”
--	Illness is the doctor we listen to the most. We make promises to Kindness and Wisdom. To Pain, we obey. "Illness is the most heeded of doctors: to kindness and wisdom we make promises only; pain we obey."
--	Some people prone to obesity eat almost nothing and exercise all day, yet keep visibly gaining weight. "Certain persons inclined to obesity eat hardly anything, and take exercise all day long without ceasing to grow visibly fatter".
+- 🚧 True pleasure is the one for which all other pleasures are abandoned. “The truth is that men can have several sorts of pleasure. The true pleasure is the one for which they abandon the other.”
+-	🚧 Illness is the doctor we listen to the most. We make promises to Kindness and Wisdom. To Pain, we obey. "Illness is the most heeded of doctors: to kindness and wisdom we make promises only; pain we obey."
+-	🚧 Some people prone to obesity eat almost nothing and exercise all day, yet keep visibly gaining weight. "Certain persons inclined to obesity eat hardly anything, and take exercise all day long without ceasing to grow visibly fatter".
  	
 </details>
 
-<details markdown=1><summary>Volume 5 - O controlador ciumento </summary>
+<details markdown=1><summary>Volume 5 - The Jealous Control Freak</summary>
 
-Nota: O nome real deste volume é mesmo "The Prisoner" (EN) ou "The Captive" (EN) ou "A prisioneira" (PT).
+Note: The real title of this volume is called "The Prisoner" (EN) or "The Captive" (EN).
 
-Apesar de o Marcel ter dito à mãe que queria casar com a Albertine, não leva essa avante. Mas arranja maneira de a Albertine ter de se mudar para casa dele em Paris, para ficarem amigos e tudo o mais. Vivem em quartos separados mas acabam sempre nos marmelos à noite. A mãe do Marcel desaprova, mas não diz nada. A empregada Françoise desaprova muito vocalmente.
+Despite Marcel telling his mother he wanted to marry Albertine, he doesn’t follow through with it. Instead, he arranges for Albertine to move into his house in Paris under the pretext of friendship and whatnot. They live in separate rooms but somehow always end up in the same bedroom. Marcel’s mother disapproves but stays quiet. The housemaid Françoise disapproves much more.
 
-Percebe-se de raspão que o Marcel e os seus amigos todos já tem mais de 20 anos.
+From the descriptions, it becomes clear that Marcel and his friends are all over 20 now.
 
-No pátio do prédio, o Baron de Charlus continua a visitar o alfaiate Jupien e o violinista Morel, e ajuda a vida destes com dinheiro e favores, e manda também umas rasteiras a cada um para que não saiam do seu controlo. O Barão gosta mais do Morel, porque toca muito bem. Mas é doido, como se vê pela atração que tem pela ideia de engravidar uma mulher e fugir, só pela piada.
+Out in the building’s courtyard, Baron de Charlus continues to visit the tailor Jupien and the violinist Morel. To keep them dependent on him, he helps them with money and favors and a few well-placed banana peels. The Baron seems more fond of Morel, as he plays the violin beautifully. But Morel is clearly unhinged, as evidenced by his fascination with the idea of getting a woman pregnant and then running away, just for the thrill.
 
-A Albertine é visitada pela amiga Andreé no seu quarto. Quando se cruzam, Marcel pergunta à Andreé se a sua amiga se porta bem, se ela não se mete com outras. A Andreé diz “claro que não”, ou seja, fica claro que elas as duas às vezes dormem juntas. Pelo menos, o Marcel suspeita disso. 
+Albertine is visited in her room by her friend Andrée. When they cross paths, Marcel asks Andrée if her friend behaves, meaning if she sleeps with other women or not. Andrée answers “of course,” which is code for “yeah, we totally sleep together sometimes.” At least, that’s what Marcel suspects.
 
-O Marcel vai conseguindo o controlo que quer sendo generoso e atencioso, e ao mesmo tempo inferniza os planos da moça de uma forma ligeira mas tinhosa. Ora vai acompanha-la a sítios onde ela queria ir sozinha, ora sugere um plano melhor, ou outra coisa qualquer. Ele de qualquer forma também continua a ter umas amigas, mas se alguém delas tem ciúmes dele, não lho demonstra. 
+O Marcel vai conseguindo o controlo que quer sendo generoso e atencioso, e ao mesmo tempo inferniza os planos da moça de uma forma ligeira mas tinhosa. Ora vai acompanha-la a sítios onde ela queria ir sozinha, ora sugere um plano melhor, ou outra coisa qualquer. Ele de qualquer forma também continua a ter umas amigas, mas se alguém delas tem ciúmes dele, não lho demonstra.
 
-O Swann morreu. 
- O Marcel quer muito ir a Veneza, fala disso várias vezes. Mas nunca não vai, fica atracado à Albertine com medo que alguém desperte nela o demónio lascivo que ele cada vez mais supõe que habita nela. Como vivem juntos, as suas conversas casuais e com as pessoas ao seu redor vão-lhe dando para colecionar partes da história dela. Quantos mais factos ele tem, mais contradições encontra em coisas provavelmente irrelevantes, mas vai ficando mais obcecado, como um tarado.
+Marcel manages to tighten his grip on Albertine by being generous and attentive while sabotaging her plans with finesse. He insists on taking her to places she'd rather go alone, offers to upgrade her plans in a way that they include him, or something. He also keeps a few female friends on the side. None of them show they are jealous.
 
-Ao longo do livro atribui muitas vezes a doença neurastenia aos seus personagens.
+Swann dies. Marcel wants to go to Venice badly. He mentions it repeatedly but never goes. He clings to Albertine, terrified someone will awaken the lustful demon he’s increasingly convinced that lives within her. Since they live together, casual conversations with her social circle give him more and more fragments of her past. The more facts he collects, the more contradictions he finds in her own version of facts, mostly in meaningless details. But that only fuels his obsession.
 
-Nota: A julgar pelo inglês, pronuncia-se neurasténia. É uma semi-doença que saiu do vocabulário médico moderno e que servia para explicar a fraqueza que vem de um sistema nervoso cansado, uma exaustão física e psicológica que traz irritabilidade de humor depressivo. (Parece bastante atual por acaso). Faz lembrar a apoplexia que o Eça de Queiroz usa nos Maias para descrever 50% das mortes, doença que englobava as mortes repentinas que vão do AVC ao enfarte.
+Throughout the book, Marcel frequently attributes the illness of neurasthenia to his characters. 
 
-Vão a um concerto em casa dos Verdurins, onde o Morel toca. A banda de músicos era uma sonata do Vinteuil que dura uns bons 30 minutos de descrições. Lá, a madame Vinteuil fica chateada que o Charlus é o centro das atenções, ao introduzir o Morel e a arte e tudo o mais, e verte um veneno hábil aos ouvidos do Morel para o pôr contra o Barão de Charlus. Este estava no quarto ao lado, e quando entra nota que algo está errado e sente que é ele. Sem saber de onde veio a afronta, vai-se embora. Nunca mais volta a essas festas. 
+Side note: Judging by the English pronunciation, it’s neur-uh-STHEN-ia. It's a now-obsolete medical term describing fatigue from an overworked nervous system. A physical and mental exhaustion leading to mood swings and depression. (Honestly it feels like a modern disease). It’s similar to how Eça de Queiroz uses “apoplexy” in book "Os Maias" for covering 50% of deaths, apoplexy included everything from strokes to heart attacks.
 
-Dez minutos depois, os Verdurins são super generosos com outra pessoa. Isto deixa o puto Marcel confuso. Afinal as pessoas fazem bem e mal.
+They attend a concert at the Verdurins’ house. Morel performs. There’s a musical interlude featuring a Vinteuil sonata described in excruciating detail for a solid 30 minutes. Madame Verdurin gets pissed that Charlus is stealing the spotlight by presenting Morel and Art, and subtly poisons Morel’s ear against the Baron. Charlus, who was in the next room, senses something’s off as soon as he enters. Without knowing exactly what was said, he feels the sting and storms out, never to return to these parties.
 
-Vão ao mercado ao ar livre no Trocadéro. No 5º livro o enredo é mais sobre as personagens, e mesmo assim o enredo não evolui muito, é super lento, mas há menos descrições de lugares e coisas. 
+Ten minutes later, the Verdurins are incredibly kind to someone else. THis confusies young Marcel. People are capable or good or bad.
 
-O Marcel não diz aos amigos que a miúda está lá a viver, continua um creep. Continua a descobrir por conversas com os amigos velhos que ela ora esteve aqui ora ali, e ele reconstrói que no fundo a Albertine gostava era de tudo. Tendo nascido pobre, habituou-se a ser convidada em casa dos ricos, a não dizer que não e a não expressar grandes vontades. Esta forma calma permite-lhe dizer que sim quando alguém a puxa, enquanto os amigos Marcel e Andrée se desdobram para estar com ela. Nota-se que ela tem gostos, e vai aprendendo do Marcel e outros história, arquitetura, moda, e que aprecia isso no Marcel e restantes. 
+They go to an outdoor market at the Trocadéro. By this fifth volume, the plot is more about the characters than anything else, painful and slow slow, and with fewer descriptions of places and objects. This is an exception.
 
-O Marcel começa a aperceber-se que está a abdicar de muito, e não está assim tão feliz, que isto tudo pode não valer a pena. Até porque a Albertine não parece feliz, o que o deixa ainda mais ansioso. Fala com ela, diz que devem separar-se e ficar amigos. Ela lamenta, mas diz OK. Este OK é suficiente para o fazer voltar atrás, e no dia seguinte quer de novo separar-se, e volta atrás de novo.
+Marcel doesn’t tell his friends Albertine is living with him. He's basically a creep. He also keeps piecing together her past from casual remarks by old acquaintances. His reconstruction reveal that Albertine was into… everything. Growing up poor, she got used to being a guest in wealthy homes, accepting invitations without expressing much personal desire. This passive attitude makes it easy for her to say yes when someone pulls her into something — Marcel and Andrée bend over backwards to keep her attention. She does seem to have taste, though, and gradually learns about history, architecture, and fashion from Marcel and others, and even appreciates it.
 
-O Marcel compra-lhe um vestido longo do alfaiate-modista Fortuny. Não consegui perceber se veste como Chanel ou como Dolce & Gabbana. 
+Marcel begins to realize he’s sacrificing a lot and that he isn’t even happy. Worse still, Albertine doesn’t seem happy either, which makes him even more anxious. He talks to her, suggesting they break up and stay friends. She says it's sad but OK. This “OK” is enough to make him backpedal completely, only to repeat it all again: “We should break up… or maybe not.”
 
-Um dia acorda de manhã e a empregada diz-lhe que a Albertine se foi embora.
+He buys her a long dress from the designer Fortuny. (It’s unclear if the style is more Chanel or Dolce & Gabbana.)
 
+Then, one morning, the maid wakes him up with the news: Albertine has left.
 
-Frases
-- O sono é divino, mas de maneira nenhuma estável. O menor choque torna-o volátil. O sono é amigo do hábito, é mantido noite após noite no seu lugar pelo hábito, mais constante que si próprio, protegido de qualquer distúrbio possível. Mas se for perturbado, se não for subjugado, derrete como um vapor. É como a juventude e o amor, que nunca mais se recuperam.
-- Saltando de uma suposição para outra, o Barão nunca chegou à verdade, que era que o ataque não tinha vindo do Morel. Ele podia ter descoberto isso perguntando-lhe numa conversa de minutos, mas ele sentiu que isso iria magoar a sua dignidade, e seria contra o interesse do seu amor. Tinha sido insultado, estava à espera de uma explicação. Invariavelmente, existe nestes assuntos uma ideia que pode clarificar um mal entendido, mas que está associada a outra ideia que por qualquer razão nos previne de ter essa conversa. 
-- Se o seu desejo ou bolso estiver envolvido, até a pessoa mais estúpida pode nessa situação emergir da nulidade da sua vida estúpida e adaptar-se ao funcionamento da máquina mais complexa.
-
+Notable Quotes:
+	- "Sleep is divine but by no means stable; the slightest shock makes it volatile. A friend to habit, it is kept night after night in this appointed place by habit, more steadfast than itself, protected from any possible disturbance; but if it is displaced, if it is no longer subjugated, it melts away like a vapour. It is like youth and love, never to be recaptured."
+- "Flitting from one supposition to another, the Baron never arrived at the truth, which was that the blow had not come from Morel. It is true that he might have learned this by asking him for a few minutes’ conversation. But he felt that this would injure his dignity and would be against the interests of his love. He had been insulted, he awaited an explanation. There is, for that matter, almost invariably, attached to the idea of a conversation which might clear up a
+misunderstanding, another idea which, whatever the reason, prevents us from agreeing to that conversation."
+- 🚧 "If your desires or your wallet are on the line, even the dullest person can rise above the stupidity of their life and navigate the workings of the most complex machine."
 
 </details>
 
