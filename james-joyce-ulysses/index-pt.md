@@ -1,9 +1,9 @@
-# Ulysses, by James Joyce
+# Ulisses, de James Joyce
 
 ### Resumo Curto
 
 - Capítulo 1: um grupo de três homens acorda na Irlanda e o gordo do Buck faz a barba e goza com tudo à volta dele, especialmente o Stephen.
-- Capítulo 2: Stephen Dedalus afinal é professor numa escola. Recebe o salário do Director Mr Deasy, que é claramente antissemita.
+- Capítulo 2: Stephen Dedalus afinal é professor numa escola em Dublin. Recebe o salário do Director Mr Deasy, que é claramente antissemita.
 - Capítulo 3: Não se percebe nada deste capítulo. O Stephen deita-se na praia. Um cão mija numa rocha. O Stephen tira um macaco do nariz.
 
 ### Resumo Médio
@@ -17,7 +17,9 @@ Médio resumo: É de manhã. Três homens estão recém acordados numa torre em 
 
 <details><summary>2 - O professor melancólico e o antissemita</summary>
 
-O Stephen Dedalus está a dar uma aula de história a vários miúdos, sobre guerras passadas. Afinal é professor. Eles vão respondendo qualquer coisa, mas no geral são só uns miúdos meio lerdos. A aula acaba e vão jogar hockey, menos um dos miúdos que é mais atrasado que os outros e fica ali a levar uma ensaboadela de matemática (?). O Mr. Dedalus pensa no porquê de a mãe do jovem ter salvo uma criança tão feia e indefesa e burra. O diretor, Mr Deasy, chama-o para lhe pagar o salário e lhe dar um sermão e lhe pedir para publicar uma carta no jornal sobre uma doença das vacas. O diretor passa metade do encontro a dizer acha que Inglaterra está a ser tomada pelos judeus e que eles são culpados disto e aquilo, sobretudo a ganância deles. A ironia é que a outra metade do encontro passa-a a dizer-lhe que poupar dinheiro, que bom é guardar o rico dinheirinho e não ter dívidas. O 
+Numa escola em Dublin, o Stephen Dedalus está a dar uma aula de história a vários miúdos, sobre guerras passadas. Afinal é professor. Eles vão respondendo qualquer coisa, mas no geral são só uns miúdos meio lerdos. A aula acaba e vão jogar hockey, menos um dos miúdos que é mais atrasado que os outros e fica ali a levar uma ensaboadela de matemática (?). O Mr. Dedalus pensa no porquê de a mãe do jovem ter salvo uma criança tão feia e indefesa e burra. O diretor da escola, Mr Deasy, chama-o para lhe pagar o salário e lhe dar um sermão e lhe pedir para publicar uma carta no jornal sobre uma doença das vacas. O diretor passa metade do encontro a dizer acha que Inglaterra está a ser tomada pelos judeus e que eles são culpados disto e aquilo, sobretudo a ganância deles. A ironia é que a outra metade do encontro passa-a a dizer-lhe para poupar dinheiro, que bom, bom, é guardar o rico dinheirinho e não ter dívidas. 
+
+Enquanto isso, o Stephen observa tudo o que acontece, esse caos divino. "That is God (...) a shout in the street."
 
 Piada racista: “Ireland, they say, has the honour of being the only country which never persecuted the jews. Do you know that? No. And do you know why? He frowned sternly on the bright air. —Why, sir? Stephen asked, beginning to smile. —Because she never let them in, Mr Deasy said solemnly. “A coughball of laughter leaped from his throat dragging after it a rattling chain of phlegm. He turned back quickly, coughing, laughing, his lifted arms waving to the air.”
 
