@@ -3,7 +3,7 @@
 ### Resumo Curto
 
 - Capítulo 1: um grupo de três homens acorda na Irlanda. O gordo do Buck faz uma cerimónia do ato de barbear, e goza com tudo à volta dele, sobretudo o amigo Stephen.
-- Capítulo 2: O Stephen é professor numa escola em Dublin. Recebe o salário do Director, Mr Deasy, que é claramente antissemita.
+- Capítulo 2: O Stephen é professor numa escola em Dublin. Tem um aluno inútil. Recebe o salário do Director, Mr Deasy, que é claramente antissemita.
 - Capítulo 3: Não se percebe nada deste capítulo. O Stephen deita-se na praia a pensar imenso, de forma confusa. Um cão mija numa rocha, O Stephen tira um macaco do nariz e cola-o numa pedra.
 
 ### Resumo Médio
