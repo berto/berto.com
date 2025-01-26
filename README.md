@@ -15,6 +15,7 @@ Writing.
 - [Disney](/disney)
 - [Case Logic](/caselogic/index.md)
 - [In Search of Lost Time](/marcel-proust-in-search-of-lost-time/index.md)
+- [Ulysses](/james-joyce-ulysses/index.md)
 
 Links.
 
