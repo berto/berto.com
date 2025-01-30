@@ -5,6 +5,7 @@
 - Capítulo 1: um grupo de três homens acorda na Irlanda. O gordo do Buck faz uma cerimónia do ato de barbear, e goza com tudo à volta dele, sobretudo o amigo Stephen.
 - Capítulo 2: O Stephen é professor numa escola em Dublin. Tem um aluno inútil. Recebe o salário do Director, Mr Deasy, que é claramente antissemita.
 - Capítulo 3: Não se percebe nada deste capítulo. O Stephen deita-se na praia a pensar imenso, de forma confusa. Um cão mija numa rocha, O Stephen tira um macaco do nariz e cola-o numa pedra.
+- Capítulo 4: Novos personagens. O senhor Leopold Bloom cozinha e depois caga um rim. É casado com a artista Molly que não lhe liga grande coisa.
 
 ### Resumo Médio
 
@@ -34,6 +35,19 @@ O Stephen dá um passeio e pensa imenso na vida, no passado da família etc. Vai
 
 Ou seja, ele pensa imenso, mas o que sobressai são as coisas mais banais do mundo.
 
+</details>
+
+<details><summary>4 - Cagar um Rim</summary>
+
+O senhor Leopold Bloom está na sua casa a tratar do pequeno almoço. A mulher está a dormir, e ele sai de casa para ir comprar uma salsicha ao talho, passa por uma moça jeitosa e outras peculiaridades da cidade. Volta, faz o pequeno almoço da mulher, Molly, que é roliça pela descrição. O gato quer comer mas ele só lhe dá leite, se fica gordo não caça ratos. 
+
+Chegam umas cartas, a dele é da filha, ela recebe uma de um man qualquer que o deixa meio hesitante, o tal homem quer falar com a mulher dele por causa de um concerto dela. Ele tem jeito para as palavras. Ela dá-lhe umas ordens leves, não o leva muito a sério.
+
+Depois falam enquanto ela come. Têm um funeral.
+
+Ele desce para comer a sua comida porque já cheira a queimado o rim de porco que deixou na sertã. Ela já comeu a comida na cama. 
+
+Depois sente uma cólica e vai defecar, enquanto pensa na noite em que conheceu a mulher, e na vida em geral.
 </details>
 
 
