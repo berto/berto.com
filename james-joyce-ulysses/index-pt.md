@@ -9,6 +9,7 @@ Livro 1
 
 Livro 2
 - Episódio 4: Novos personagens. O senhor Leopold Bloom cozinha e depois caga um rim. É casado com a artista Molly que não lhe liga grande coisa.
+- Episódio 5: O Mr. Bloom está a fazer horas. Vai ao correio buscar uma carta da amante, à igreja, rebarba-se com uma moça, e compra um sabonete para ir a banhos.
 
 ### Resumo Médio
 
@@ -40,17 +41,32 @@ Ou seja, ele pensa imenso, mas o que sobressai são as coisas mais banais do mun
 
 </details>
 
-<details><summary>4 - Cagar para ele, cagar um rim.</summary>
+<details><summary>4 - Cagar para quem caga um rim.</summary>
 
-O senhor Leopold Bloom está na sua casa a tratar do pequeno almoço. A mulher está a dormir, e ele sai de casa para ir comprar uma salsicha ao talho, passa por uma moça jeitosa e outras peculiaridades da cidade. Volta, faz o pequeno almoço da mulher, Molly, que é roliça pela descrição. O gato quer comer mas ele só lhe dá leite, se fica gordo não caça ratos. 
+O senhor Leopold Bloom está na sua casa a tratar do pequeno almoço. A mulher está a dormir, e ele sai de casa para ir comprar uma salsicha ao talho, passa por uma moça jeitosa e outras peculiaridades da cidade. Volta, faz o pequeno almoço da mulher, Molly, que é roliça pela descrição. O gato quer comer mas ele só lhe dá leite, se fica gordo não caça ratos.  
 
-Chegam umas cartas, a dele é da filha, ela recebe uma de um man qualquer que o deixa meio hesitante, o tal homem quer falar com a mulher dele por causa de um concerto dela. É cantora. Ele tem jeito para as palavras. Ela dá-lhe umas ordens leves, não o leva muito a sério.
+Chegam umas cartas, a dele é da filha, ela recebe uma de um man qualquer que o deixa meio hesitante, o tal homem quer falar com a mulher dele por causa de um concerto dela. É cantora. Ele tem jeito para as palavras. Ela dá-lhe umas ordens leves, não o leva muito a sério.  
 
-Depois falam enquanto ela come. Têm um funeral.
+Depois falam enquanto ela come. Têm um funeral.  
 
-Ele desce para comer a sua comida porque já cheira a queimado o rim de porco que deixou na sertã. Ela já comeu a comida na cama. 
+Ele desce para comer a sua comida porque já cheira a queimado o rim de porco que deixou na sertã. Ela já comeu a comida na cama.   
 
 Depois sente uma cólica e vai defecar, enquanto pensa na noite em que conheceu a mulher, e na vida em geral.
 </details>
+
+<details><summary>5 - Sabonete de limão.</summary>
+
+O Leopold Bloom vai aos correios buscar uma carta que uma amente sua mandou para o seu pseudnómimo Henry Flower.
+
+Está sem grande rumo, nota-se que ele está meio ansioso de um lado para o outro, mas que se sente confiante como um homem na cidade, que sabe o que vê.
+
+Na rua vê uma moça e fica a ver se lhe vê as ligas das meias quando ela se dobra. Aparece o palerma de um conhecido chamada M'Coy, e mete-se à frente dele, e depois mete-se o elétrico à frente do show. Ignora o M'Coy.
+
+Entra numa igreja e admira a eficácia do negócio da religião com as suas missas, confissões, doações, e fica tudo bem para os pecadores e os padres.
+
+No final, compra um sabonete e vai para os banhos públicos.
+
+</details>
+
 
 
