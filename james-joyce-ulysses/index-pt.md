@@ -31,7 +31,7 @@ Piada racista: “Ireland, they say, has the honour of being the only country wh
 </details>
 
 
-<details markdown=1><summary markdown=1>3 - É areia ou um macaco do nariz?</summary>
+<details markdown=1><summary>3 - É areia ou um macaco do nariz?</summary>
 
 Nota: Não se percebe nada deste capítulo, o autor James Joyce devia estar em ácidos.
 
