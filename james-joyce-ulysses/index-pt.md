@@ -54,9 +54,9 @@ Ele desce para comer a sua comida porque já cheira a queimado o rim de porco qu
 Depois sente uma cólica e vai defecar, enquanto pensa na noite em que conheceu a mulher, e na vida em geral.
 </details>
 
-<details><summary>5 - Sabonete de limão.</summary>
+<details><summary>5 - Limpezas: missa e sabonete de limão.</summary>
 
-O Leopold Bloom vai aos correios buscar uma carta que uma amente sua mandou para o seu pseudnómimo Henry Flower.
+O Leopold Bloom vai aos correios buscar uma carta que uma amente sua mandou para o seu pseudnómimo, Henry Flower.
 
 Está sem grande rumo, nota-se que ele está meio ansioso de um lado para o outro, mas que se sente confiante como um homem na cidade, que sabe o que vê.
 
@@ -64,7 +64,9 @@ Na rua vê uma moça e fica a ver se lhe vê as ligas das meias quando ela se do
 
 Entra numa igreja e admira a eficácia do negócio da religião com as suas missas, confissões, doações, e fica tudo bem para os pecadores e os padres.
 
-No final, compra um sabonete e vai para os banhos públicos.
+No final, compra um sabonete e vai para os banhos públicos, onde infelizmente não terá tempo para uma massagem. 
+
+Todos se limpam à sua maneira.
 
 </details>
 
