@@ -68,6 +68,10 @@ No final, compra um sabonete e vai para os banhos públicos, onde infelizmente n
 
 Todos se limpam à sua maneira.
 
+Exertos: 
+- Piada racista: “Father Farley who looked a fool but wasn’t. They’re taught that. He’s not going out in bluey specs with the sweat rolling off him to baptise blacks, is he?”
+- "Then the priest knelt down and began to read off a card: —O God, our refuge and our strength... Mr Bloom put his face forward to catch the words. English. Throw them the bone. I remember slightly. How long since your last mass? Glorious and immaculate virgin. Joseph, her spouse. Peter and Paul. More interesting if you understood what it was all about. Wonderful organisation certainly, goes like clockwork. Confession. Everyone wants to. Then I will tell you all. Penance. Punish me, please. Great weapon in their hands. More than doctor or solicitor. Woman dying to. And I schschschschschsch. And did you chachachachacha? And why did you? Look down at her ring to find an excuse. Whispering gallery walls have ears. Husband learn to his surprise. God’s little joke. Then out she comes. Repentance skindeep. Lovely shame. Pray at an altar. Hail Mary and Holy Mary. Flowers, incense, candles melting. Hide her blushes. Salvation army blatant imitation. Reformed prostitute will address the meeting. How I found the Lord. Squareheaded chaps those must be in Rome: they work the whole show. And don’t they rake in the money too? Bequests also: to the P.P. for the time being in his absolute discretion. Masses for the repose of my soul to be said publicly with open doors. Monasteries and convents. The priest in that Fermanagh will case in the witnessbox. No browbeating him. He had his answer pat for everything. Liberty and exaltation of our holy mother the church. The doctors of the church: they mapped out the whole theology of it."
+
 </details>
 
 
