@@ -9,7 +9,7 @@ Livro 1
 
 Livro 2
 - Episódio 4: Novos personagens. O senhor Leopold Bloom cozinha e depois caga um rim. É casado com a artista Molly que não lhe liga grande coisa.
-- Episódio 5: O Mr. Bloom está a fazer horas. Vai ao correio buscar uma carta da amante, à igreja, rebarba-se com uma moça, e compra um sabonete para ir a banhos.
+- Episódio 5: O Mr. Bloom está a fazer horas. Vai ao correio buscar uma carta da amante, rebarba-se com uma moça. Depois passa na igreja e compra um sabonete para se lavar.
 
 ### Resumo Médio
 
