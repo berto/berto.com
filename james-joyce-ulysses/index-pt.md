@@ -13,14 +13,14 @@ Livro 2
 
 ### Resumo Médio
 
-<details><summary>1 - Todos temos um amigo maluco.</summary>
+<details markdown=1><summary>1 - Todos temos um amigo maluco.</summary>
   
 É de manhã. Três homens estão recém acordados numa torre em frente ao mar, que é a sua casa. Malachi “Buck” Mulligan é o líder, canta e provoca os outros. Faz a barba num ritual em que tem o acólito ao seu lado. Stephen Dedalus é o favorito do Buck e é bastante passivo. Ambos são irlandeses. O autor usa montes vernáculo do início de séc (1900), às vezes nem percebo se é um local, uma pessoa, um objeto. O Stephen parece ser crente e prático, o gordo do Buck goza com ele ser jesuíta, entre várias piadas religiosas, alusões a judeus e alemães, e chamá-lo de “Kinch” (a lâmina). Parece um ritual que já se repetiu. O Buck também persegue o Stephen com a morte da mãe dele, que ele a matou ao recusar-se a rezar com ela às portas da morte. E há o Haines, que para já não faz nada, um inglês que insinua que o Stephen é escritor ou quer ser. Chega a leiteira e tomam pequeno almoço, pão, chá, leite, e fritos. Há uma menção a bacon e ovos, e depois o Buck vai tomar banho ao mar todo contente a dizer piadas em verso. Nenhum dos três parece ter imenso dinheiro.
 
 </details>
 
 
-<details><summary>2 - Professores são melancólicos e diretores são autoritários e antissemitas.</summary>
+<details markdown=1><summary>2 - Professores são melancólicos e diretores são autoritários e antissemitas.</summary>
 
 Numa escola em Dublin, o Stephen Dedalus está a dar uma aula de história a vários miúdos, sobre guerras passadas. Afinal é professor. Eles vão respondendo qualquer coisa, mas no geral são só uns miúdos meio lerdos. A aula acaba e vão jogar hockey, menos um dos miúdos que é mais atrasado que os outros e fica ali a levar uma ensaboadela de matemática (?). O Mr. Dedalus pensa no porquê de a mãe do jovem ter salvo uma criança tão feia e indefesa e burra. O diretor da escola, Mr Deasy, chama-o para lhe pagar o salário e lhe dar um sermão e lhe pedir para publicar uma carta no jornal sobre uma doença das vacas. O diretor passa metade do encontro a dizer acha que Inglaterra está a ser tomada pelos judeus e que eles são culpados disto e aquilo, sobretudo a ganância deles. A ironia é que a outra metade do encontro passa-a a dizer-lhe para poupar dinheiro, que bom, bom, é guardar o rico dinheirinho e não ter dívidas. 
 
@@ -31,7 +31,7 @@ Piada racista: “Ireland, they say, has the honour of being the only country wh
 </details>
 
 
-<details><summary>3 - É areia ou um macaco do nariz?</summary>
+<details markdown=1><summary markdown=1>3 - É areia ou um macaco do nariz?</summary>
 
 Nota: Não se percebe nada deste capítulo, o autor James Joyce devia estar em ácidos.
 
@@ -41,7 +41,7 @@ Ou seja, ele pensa imenso, mas o que sobressai são as coisas mais banais do mun
 
 </details>
 
-<details><summary>4 - Cagar para quem caga um rim.</summary>
+<details markdown=1><summary>4 - Cagar para quem caga um rim.</summary>
 
 O senhor Leopold Bloom está na sua casa a tratar do pequeno almoço. A mulher está a dormir, e ele sai de casa para ir comprar uma salsicha ao talho, passa por uma moça jeitosa e outras peculiaridades da cidade. Volta, faz o pequeno almoço da mulher, Molly, que é roliça pela descrição. O gato quer comer mas ele só lhe dá leite, se fica gordo não caça ratos.  
 
@@ -54,7 +54,7 @@ Ele desce para comer a sua comida porque já cheira a queimado o rim de porco qu
 Depois sente uma cólica e vai defecar, enquanto pensa na noite em que conheceu a mulher, e na vida em geral.
 </details>
 
-<details><summary>5 - Limpezas: missa e sabonete de limão.</summary>
+<details markdown=1><summary>5 - Limpezas: missa e sabonete de limão.</summary>
 
 O Leopold Bloom vai aos correios buscar uma carta que uma amente sua mandou para o seu pseudnómimo, Henry Flower.
 
