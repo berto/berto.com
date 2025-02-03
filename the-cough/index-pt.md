@@ -26,6 +26,6 @@ Parecemos zombies. A população perdeu parte da felicidade. A conversa, a vida,
 
 A tosse é o único som que se destaca, o metrónomo de uma sociedade avariada.
 
--
+-  
 
 Felizmente acabou Janeiro.
