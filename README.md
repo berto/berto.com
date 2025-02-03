@@ -16,7 +16,7 @@ Writing.
 - [Case Logic](/caselogic/index.md)
 - [In Search of Lost Time](/marcel-proust-in-search-of-lost-time/index.md)
 - [Ulysses](/james-joyce-ulysses/index.md)
-- [The Couch](/the-cough/index.md)
+- [The Cough](/the-cough/index.md)
 
 Links.
 
