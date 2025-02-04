@@ -14,27 +14,21 @@ Quando começaram a tossir, as pessoas não pediram desculpa por tossir. E tamb�
 
 As pessoas não parecem sequer reparar que também estão a tossir.
 
-Nas minhas viagens pela cidade cinzenta a tosse passou a sacudir cabeças e costas como um freio. Durante todo o mês, o Metro fez as suas piruetas tristes de sempre, mergulhando lentamente na ondulação da Casa da Música e da Trindade, e emergindo no resto do trajeto. E nós os passageiros não viemos mais à tona, suspensos no ar tossido das carruagens. 
+Nas minhas viagens pela cidade cinzenta a tosse passou a sacudir cabeças e costas como um freio. Durante todo o mês, o Metro do Porto fez as suas piruetas tristes de sempre, mergulhando lentamente na ondulação da Casa da Música e da Trindade, e emergindo no resto do trajeto. E nós os passageiros não viemos mais à tona, suspensos no ar tossido das carruagens. 
 
 Esta tosse é mais fria que o ar gelado e comanda as pessoas. Os que estão de pé param, pousam as malas e mochilas para tossir, tossem, e repõe as coisas nas costas. Outros param as conversas, tossem, e retomam. Vi isto centenas de vezes. 
 
-A tosse abre de forma avulsa, depois engrossa, e só então abre a tosse a sério, séria como socos. 
+A tosse abre de forma avulsa, depois engrossa, e só então abre a tosse a sério, séria como socos. Quem tem a doença têm os olhos escuros e com frio.
 
-É fácil de notar quem são as pessoas com a doença. Têm os olhos escuros e com frio, e claro tossem.
+Durante várias semanas vi a tosse ignorar todos os agasalhos do Metro. Casacos, samarras, gorros e cachecóis, tão impotentes como calor do sol da manhã. Tossiram velhos, novos, imigrantes e os que vieram do aeroporto. Ouvi pessoas a tossirem dentro e fora das carruagens. 
 
-Durante várias semanas vi a tosse conquistar todos os agasalhos do Metro, casacos, samarras, gorros e cachecóis, anulando o calor fraco do sol da manhã.
+Esta tosse é seca e por isso é pouco repugnante. Mas tem algo de doente e forte, como uma cicatriz.
 
-Enquanto estive nas estações à espera de apanhar o Metro, ouvi pessoas a tossirem dentro e fora das carruagens. Tossiram velhos, novos, imigrantes e os que vieram do aeroporto. 
+O mundo ultrapassou a pandemia mas ficámos permanentemente estragados. Foi muito rápido. A doença, o confinamento, as mortes, o trabalho em casa, o pânico. As soluções estúpidas com demasiadas as certezas, as vontades e as mentiras, o compromisso absurdo, como o trabalho híbrido. Mudaram as rotinas, que mudaram as cidades, que mudaram as pessoas. Foi muita coisa.
 
-Esta tosse é seca e por isso é pouco repugnante. Não me afastei. Mas tem algo de doente, como uma cicatriz. 
+As doenças agora são diferentes. Este janeiro foi pós-apocalíptico, desfigurado pela Tosse. Mas já ninguém quer saber.
 
-O mundo ultrapassou a pandemia mas as pessoas ficaram permanentemente estragadas. Foi muita coisa e foi muito rápido. A doença, o confinamento, as mortes, a mudança do trabalho para casa, o pânico, as soluções estúpidas e o trabalho híbrido. Foram demasiadas as certezas, as vontades e as mentiras. Mudaram as rotinas, as cidades, e depois mudaram as pessoas. 
-
-Foi muita coisa.
-
-As doenças agora são diferentes, iguais mas diferentes. Ninguém quer saber. Este janeiro foi pós-apocalíptico, desfigurado pela Tosse.
-
-Parecemos zombies. A população perdeu parte da felicidade. A conversa, a vida, o homem que pede esmola, o empurrão do senhor que quer entrar no metro, a música nos headphones, o anúncio das estações, a guerra, as guerras. Tudo é ruído branco.
+Parecemos zombies. A população perdeu parte da felicidade. A conversa, a vida, o homem que pede esmola, o empurrão do senhor que quer entrar no metro, a música nos headphones, o anúncio das estações, a guerra, as guerras, tudo é ruído branco.
 
 A tosse é o único som que se destaca, o metrónomo de uma sociedade avariada.
 
