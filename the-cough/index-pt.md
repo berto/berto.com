@@ -10,19 +10,17 @@ A Tosse não veio anunciada junto com as outras doenças de inverno. Não se ouv
 
 Esta tosse parece ter a capacidade de nos arrastar para um tempo medieval onde era banal ser miserável.
 
-Quando começaram a tossir, as pessoas não pediram desculpa por tossir. E também não se afastaram. E eu não vi uma só pessoa usar um punho ou um cotovelo para amparar esta tosse. Ninguém pareceu importar-se. A indiferença pegou como a tosse. Não vale a pena. Ninguém sequer levantou os olhos para os homens e mulheres que tossiam. Esta tosse assusta quem a vê, e é feia que dói. 
+Talvez por isso, quando começaram a tossir as pessoas não pediram desculpa por tossir. E também não se afastaram. E eu não vi uma só pessoa usar um punho ou um cotovelo para amparar esta tosse. Ninguém pareceu importar-se. A indiferença pegou como a tosse. Não vale a pena. Ninguém sequer levantou os olhos para os homens e mulheres que tossiam. Esta tosse assusta quem a vê, e é feia que dói. 
 
 As pessoas não parecem sequer reparar que também estão a tossir.
 
-Nas minhas viagens pela cidade cinzenta a tosse passou a sacudir cabeças e costas como um freio. Durante todo o mês, o Metro do Porto fez as suas piruetas tristes de sempre, mergulhando lentamente na ondulação da Casa da Música e da Trindade, e emergindo no resto do trajeto. E nós os passageiros não viemos mais à tona, suspensos no ar tossido das carruagens. 
+Nas minhas viagens pela cidade cinzenta a tosse passou a sacudir várias cabeças e costas como um freio. Durante todo o mês, o Metro do Porto fez as suas piruetas tristes de sempre, mergulhando lentamente na ondulação da Casa da Música e da Trindade, e emergindo no resto do trajeto. E nós os passageiros não viemos mais à tona, suspensos no ar tossido das carruagens. 
 
-Esta tosse é mais fria que o ar gelado e comanda as pessoas. Os que estão de pé param, pousam as malas e mochilas para tossir, tossem, e repõe as coisas nas costas. Outros param as conversas, tossem, e retomam. Vi isto centenas de vezes. 
-
-A tosse abre de forma avulsa, depois engrossa, e só então abre a tosse a sério, séria como socos. Quem tem a doença têm os olhos escuros e com frio.
+Esta tosse é mais cruel que o ar de inverno, porque manda nas pessoas. Os que estão de pé param, pousam as malas e mochilas para tossir, tossem, e repõe as coisas nas costas. Outros param as conversas, tossem, e retomam. A tosse abre de forma avulsa, depois engrossa, e só então abre a tosse a sério, séria como socos. Quem tem a doença têm os olhos escuros e com frio.
 
 Durante várias semanas vi a tosse ignorar todos os agasalhos do Metro. Casacos, samarras, gorros e cachecóis, tão impotentes como calor do sol da manhã. Tossiram velhos, novos, imigrantes e os que vieram do aeroporto. Ouvi pessoas a tossirem dentro e fora das carruagens. 
 
-Esta tosse é seca e por isso é pouco repugnante. Mas tem algo de doente e forte, como uma cicatriz.
+Esta tosse é seca e não é repugnante. Faz lembrar uma doença forte, ou uma cicatriz.
 
 O mundo ultrapassou a pandemia mas ficámos permanentemente estragados. Foi muito rápido. A doença, o confinamento, as mortes, o trabalho em casa, o pânico. As soluções estúpidas com demasiadas as certezas, as vontades e as mentiras, o compromisso absurdo, como o trabalho híbrido. Mudaram as rotinas, que mudaram as cidades, que mudaram as pessoas. Foi muita coisa.
 
@@ -35,4 +33,4 @@ A tosse é o único som que se destaca, o metrónomo de uma sociedade avariada.
 Felizmente acabou Janeiro.
 
 --  
-Nota: A Tosse foi inspirada num post no X, de alguém que não sei se é anti-vacinas ou COVID-doomer, mas que me transportou logo para este post. Fiquei a semana toda a sonhar com escrever isto.
+Nota: A Tosse foi inspirada [neste post](https://x.com/patife/status/1886430294707666977) no X, de alguém que não sei se é anti-vacinas ou COVID-doomer, mas que me transportou logo para este post. Fiquei a semana toda a sonhar com escrever isto.
