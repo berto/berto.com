@@ -17,7 +17,7 @@ Writing.
 - [In Search of Lost Time (review)](/marcel-proust-in-search-of-lost-time/index.md)
 - [Ulysses (review)](/james-joyce-ulysses/index.md)
 - [The Cough](/the-cough/index.md)
-- [The Submarine](/the-submarine/index.md)
+- [The Nuclear Sub](/the-nuclear-submarine/index.md)
 
 Links.
 
