@@ -75,7 +75,7 @@ Exertos:
 
 </details>
 
-<details markdown=1><summary>6 - O Mackintosh</summary>
+<details markdown=1><summary>6 - Um Mackintosh no cemitério.</summary>
 
 O senhor Bloom vai ao funeral com outros mans, entre os quais o pai do Stephen Dedalus, Simon. Vão de carruagem para o cemitério.
 
