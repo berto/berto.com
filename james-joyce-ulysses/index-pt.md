@@ -10,6 +10,7 @@ Livro 1
 Livro 2
 - Episódio 4: Novos personagens. O senhor Leopold Bloom cozinha e depois caga um rim. É casado com a artista Molly que não lhe liga grande coisa.
 - Episódio 5: O Mr. Bloom está a fazer horas para o funeral. Vai ao correio onde tem uma carta da amante, e depois rebarba-se com uma moça na rua. Passa na igreja e compra um sabonete para ir a banhos, bem precisa de se limpar.
+- Episódio 6: O Mr. Bloom vai para o funeral de carrugagem, com uns amigos e o pai do Stephen. Pensa se o cangalheiro tem sucesso com as mulheres dado o seu trabalho. Vê um homem com um casaco impermeável (!).
 
 ### Resumo Médio
 
@@ -71,6 +72,18 @@ Todos se limpam à sua maneira.
 Exertos: 
 - Piada racista: “Father Farley who looked a fool but wasn’t. They’re taught that. He’s not going out in bluey specs with the sweat rolling off him to baptise blacks, is he?”
 - "Then the priest knelt down and began to read off a card: —O God, our refuge and our strength... Mr Bloom put his face forward to catch the words. English. Throw them the bone. I remember slightly. How long since your last mass? Glorious and immaculate virgin. Joseph, her spouse. Peter and Paul. More interesting if you understood what it was all about. Wonderful organisation certainly, goes like clockwork. Confession. Everyone wants to. Then I will tell you all. Penance. Punish me, please. Great weapon in their hands. More than doctor or solicitor. Woman dying to. And I schschschschschsch. And did you chachachachacha? And why did you? Look down at her ring to find an excuse. Whispering gallery walls have ears. Husband learn to his surprise. God’s little joke. Then out she comes. Repentance skindeep. Lovely shame. Pray at an altar. Hail Mary and Holy Mary. Flowers, incense, candles melting. Hide her blushes. Salvation army blatant imitation. Reformed prostitute will address the meeting. How I found the Lord. Squareheaded chaps those must be in Rome: they work the whole show. And don’t they rake in the money too? Bequests also: to the P.P. for the time being in his absolute discretion. Masses for the repose of my soul to be said publicly with open doors. Monasteries and convents. The priest in that Fermanagh will case in the witnessbox. No browbeating him. He had his answer pat for everything. Liberty and exaltation of our holy mother the church. The doctors of the church: they mapped out the whole theology of it."
+
+</details>
+
+<details markdown=1><summary>6 - O Mackintosh</summary>
+
+O senhor Bloom vai ao funeral com outros mans, entre os quais o pai do Stephen Dedalus, Simon. Vão de carruagem para o cemitério.
+
+A caminho passam pelo Stephen e pelo "chefe" da mulher do Mr. Bloom, o tal Blazes Boyden que lhe mandou uma carta. O Simon confunde-o com o Buck Mulligan, e fica mal disposto porque acha que é péssima influência para o filho.
+
+O Leopoldo passa o tempo a pensar no suicídio do Pai e na morte do filho pequeno Rudy, com uma pequena paragem para contemplar o cangalheiro, que deve ter uma vida até bastante sensual para quem vive ali no meio dos mortos.
+
+Depois vê um homem com um daqueles casacos impermeáveis, o Mackintosh.
 
 </details>
 
