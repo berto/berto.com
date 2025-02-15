@@ -14,8 +14,8 @@ Writing.
 - [The Portuguese Revolution of 1974](/1974-04-25)
 - [Disney](/disney)
 - [Case Logic](/caselogic/index.md)
-- [In Search of Lost Time (review)](/marcel-proust-in-search-of-lost-time/index.md)
-- [Ulysses (review)](/james-joyce-ulysses/index.md)
+- [In Search of Lost Time (book review)](/marcel-proust-in-search-of-lost-time/index.md)
+- [Ulysses (book review)](/james-joyce-ulysses/index.md)
 - [The Cough](/the-cough/index.md)
 - [The Nuclear Sub](/the-nuclear-submarine/index.md)
 
