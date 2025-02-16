@@ -2,9 +2,9 @@
 
 (A reflection on contracts).
 
-This week I watched another round of European hysteria over American actions.
+Last week I watched another round of European hysteria over American actions.
 
-This time it was because the Americans had the nerver to admit that NATO isn’t their number one priority. That defending Ukraine even less so, and that Europe’s defense should be, well… Europe’s problem.
+This time it was because the Americans had the nerve to admit that NATO isn’t their number one priority. That defending Ukraine is even further down the line. And they also said that the key party in Europe’s defense should be, well… Europe itself.
 
 **THEY’RE GOING TO DROP THE MOST IMPORTANT AGREEMENT OF THE 20TH CENTURY.**
 
@@ -12,15 +12,17 @@ Only in Europe people treat agreements like sacred notary acts. Let’s not forg
 
 A contract is great, sure, but practice always matters more. Relying on a piece of paper is risky business, especially when that piece of paper turned 75 last year.
 
-So, really, Europe is wrong.
+**AIRPLANES. TV'S. PENICILIN. NUCLEAR ENERGY. COMPUTERS & SEMICONDUCTORS. ROCKETSHIPS & MOON LANDERS. THE INTERNET.**
 
-In life and in business, my experience is that contracts are the least important part of a long deal. It’s ridiculous to expect a marriage to survive just because you signed a piece of paper and said some nice words ages ago. Anyone who’s married knows that a relationship has to be worked on every single day. With attention, mutual investment, and, above all, a healthy dose of humor.
+Europe is wrong.
 
-The same goes for startups. Sure, there’s an agreement between founders and investors, but it’s the daily grind, the commitment, the wins, and the trust that actually makes things move forward. Cracking a good joke helps too.
+In life and in business, my experience is that contracts are the least important part of any long relationship. For example, it’s ridiculous to expect a marriage to survive just because you signed a piece of paper and said some nice words a decade ago. Anyone who’s ever worn a wedding band knows that marriage has to be worked on every single day. With attention, mutual investment, and above all a healthy dose of humor.
+
+The same goes for startups. Sure, there’s an agreement between founders and investors filed stored somewhere. But it’s the daily grind, the commitment, the wins, and the trust that actually makes things move forward. Cracking a good joke helps too. 
 
 **FOR BETTER FOR WORSE, FOR RICHER FOR POORER, IN SICKNESS AND IN HEALTH, TILL DEATH DO US PART.**
 
-Contracts exist to sort out details. Any action I take that feeds my love and my business is infinitely more important than the piece of paper that exists between us. And if things go south, contracts only help contain the damage.
+I've seen shareholders agreements be changed, ignored, scrapped, depending on the relative strengths of the parties. Contracts exist to sort out legal details, but that's not reality, no one lives permanently surrounded by judges and regulations. Any action I take that feeds my love and my business is infinitely more important than the piece of paper that exists between us. And if things go south, contracts only help contain the damage.
 
 **WE’RE ALL IN THE SAME BOAT.**
 
@@ -30,11 +32,11 @@ America will treat us as equals when Russia respects our borders.
 
 **WHEN WE RESPECT OUR OWN BORDERS.**
 
-I think the time is coming for Europe to transform. We’re a big continent, rich and populous. We have historic cities and stunning nature like my Portugal’s coastline. We have millions of creative people, inventors, and we actually get along pretty well among ourselves.
+I think the time is coming for Europe to reform. We’re a big continent, rich and populous. We have historic cities and stunning nature like my Portugal’s coastline. We have millions of creative people, inventors, and we actually get along pretty well among ourselves. (Even the rowdy Spanish and French, who love to fight, prefer the brotherly infighting within Borders).
 
-We have to turn Europe into what it could be.
+We have to turn Europe into what it could be and drop the act. We can't play the surprised, hurt victim.
 
-Yet, of course, the usual clever folks have already chimed in. What we really need is more contracts. A new way to register businesses (EU Inc.). A federalized Europe. A European Constitution. More presidents, more commissions, more projects, compasses, programs, and directives. A joint Military. All that, plus a shiny new agreement to distribute €200 billion in AI funding.
+Especially given the new crop of folk trying to chime in. What we really need is more contracts, they say. A new way to register businesses (EU Inc.). A federalized Europe. A European Constitution. More presidents, more commissions, more projects, compasses, programs, and directives. A joint Military. All that, plus a shiny new agreement to distribute hundreds of billions in AI funding.
 
 **AND THAT’S FINE.**
 
