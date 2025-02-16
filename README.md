@@ -11,13 +11,16 @@ Projects.
 - [Portotype](https://portotype.com). Investments and thesis.
 
 Writing.
-- [The Portuguese Revolution of 1974](/1974-04-25)
-- [Disney](/disney)
-- [Case Logic](/caselogic/index.md)
-- [In Search of Lost Time](/marcel-proust-in-search-of-lost-time/index.md)
-- [Ulysses](/james-joyce-ulysses/index.md)
-- [The Cough](/the-cough/index.md)
+- [Contracts](/contracts/index.md) 🆕
 - [The Nuclear Sub](/the-nuclear-submarine/index.md)
+- [The Cough](/the-cough/index.md)
+- [Ulysses](/james-joyce-ulysses/index.md)
+- [In Search of Lost Time](/marcel-proust-in-search-of-lost-time/index.md)
+- [Case Logic](/caselogic/index.md)
+- [Disney](/disney) 
+- [The Portuguese Revolution of 1974](/1974-04-25)
+
+
 
 Links.
 
