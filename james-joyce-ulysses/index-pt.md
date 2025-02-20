@@ -10,7 +10,8 @@ Livro 1
 Livro 2
 - Episódio 4: Novos personagens. O senhor Leopold Bloom cozinha e depois caga um rim. É casado com a artista Molly que não lhe liga grande coisa.
 - Episódio 5: O Mr. Bloom está a fazer horas para o funeral. Vai ao correio onde tem uma carta da amante, e depois rebarba-se com uma moça na rua. Passa na igreja e compra um sabonete para ir a banhos, bem precisa de se limpar.
-- Episódio 6: O Mr. Bloom vai para o funeral de carrugagem, com uns amigos e o pai do Stephen. Pensa se o cangalheiro tem sucesso com as mulheres dado o seu trabalho. Vê um homem com um casaco impermeável (!).
+- Episódio 6: O Mr. Bloom vai para o funeral de carrugagem, com uns amigos e o pai do Stephen. Pensa se o cangalheiro tem sucesso com as mulheres dado o seu trabalho. Vê um homem com um casaco impermeável e acha notável.
+- Episódio 7: o Mr. Bloom tenta escreve um anúncio, mas não consegue.
 
 ### Resumo Médio
 
@@ -84,6 +85,12 @@ A caminho passam pelo Stephen e pelo "chefe" da mulher do Mr. Bloom, o tal Blaze
 O Leopoldo passa o tempo a pensar no suicídio do Pai e na morte do filho pequeno Rudy, com uma pequena paragem para contemplar o cangalheiro, que deve ter uma vida até bastante sensual para quem vive ali no meio dos mortos.
 
 Depois vê um homem com um daqueles casacos impermeáveis, o Mackintosh.
+
+</details>
+
+<details markdown=1><summary>7 - Ads.</summary>
+
+O senhor Bloom está no escritório do jornal a tentar meter um anúncio e o chefe não o deixa.
 
 </details>
 
