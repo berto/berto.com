@@ -8,7 +8,7 @@ _You came to the wrong place_.
 Projects.
 
 - [Rows.com](https://rows.com), *the* spreadsheet. [Original vision](docs/2014-12-21-one-cell-to-rule-them-all.md).
-- [Portotype](https://portotype.com). Investments and thesis.
+- [Portotype](https://portotype.com). Small investments and ideas.
 
 Writing.
 - [Contracts](/contracts/index.md) 🆕
