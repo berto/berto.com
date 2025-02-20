@@ -10,7 +10,7 @@ This time it was because the Americans had the nerve to admit that NATO isn’t 
 
 Only in Europe people treat agreements like sacred notary acts. Let’s not forget we once said the same about the European Union, that it was “the greatest invention of the 20th century.”
 
-A contract is great, sure, but practice always matters more. Relying on a piece of paper is risky business, especially when that piece of paper turned 75 last year.
+A contract is great, sure, but practice always matters more. Relying on a piece of paper is risky business, especially when that piece of paper turned 75 last year. 
 
 **AIRPLANES. TV'S. PENICILIN. NUCLEAR ENERGY. COMPUTERS & SEMICONDUCTORS. ROCKETSHIPS & MOON LANDERS. THE INTERNET.**
 
@@ -20,9 +20,17 @@ In life and in business, my experience is that contracts are the least important
 
 The same goes for startups. Sure, there’s an agreement between founders and investors filed stored somewhere. But it’s the daily grind, the commitment, the wins, and the trust that actually makes things move forward. Cracking a good joke helps too. 
 
+The same happens here. NATO and Europe are good things, but they must be lived and defended by those who profess such paper love for them.
+
 **FOR BETTER FOR WORSE, FOR RICHER FOR POORER, IN SICKNESS AND IN HEALTH, TILL DEATH DO US PART.**
 
-I've seen shareholders agreements be changed, ignored, scrapped, depending on the relative strengths of the parties. Contracts exist to sort out legal details, but that's not reality, no one lives permanently surrounded by judges and regulations. Any action I take that feeds my love and my business is infinitely more important than the piece of paper that exists between us. And if things go south, contracts only help contain the damage.
+Let us abstain from commenting on the varied treacheries, back stabbings and general egotistic actions people do on their personal lives.
+
+On the professional front, I have seen shareholders agreements be nullified or written over. Many times it was because people just ignored, most of the times it was because relative strengths of the parties changed or asserted themselves. Someone wanted more, and the existing contract is just a blocker.
+
+Contracts establish legal details, but that's not reality, no one lives permanently surrounded by judges and regulations only and isolated from everything else. We're social beings.
+
+Ans so any action I take that feeds my business or my family is infinitely more important than the piece of paper that exists between us. And if things go south, contracts only help contain the damage at best.
 
 **WE’RE ALL IN THE SAME BOAT.**
 
