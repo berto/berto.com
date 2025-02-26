@@ -2,15 +2,15 @@
 
 (A reflection on contracts).
 
-Last week I watched another round of European hysteria over American actions.
+Last week I watched another round of European hysteria over American rethoric and actions.
 
-This time it was because the Americans had the nerve to admit that NATO isn’t their number one priority. That defending Ukraine is even further down the line. And they also said that the key party in Europe’s defense should be, well… Europe itself.
+This time it was because the Americans had the nerve to admit that NATO isn’t their number one priority. That defending Ukraine is even further down the line, unless they get a direct benefit. And they also said that the key party in Europe’s defense should be, well… Europe itself.
 
 **THEY’RE GOING TO DROP THE MOST IMPORTANT AGREEMENT OF THE 20TH CENTURY.**
 
 Only in Europe people treat agreements like sacred notary acts. Let’s not forget we once said the same about the European Union, that it was “the greatest invention of the 20th century.”
 
-A contract is great, sure. The EU and NATO are among the best agreements ever made. But practice always matters more. Relying on a piece of paper is risky business, especially when that piece of paper turned 75 last year. 
+A contract is great, sure. The EU and NATO are among the best agreements ever made. Words matter. But practice always matters more. Relying on a piece of paper is risky business, especially when that piece of paper turned 75 last year. 
 
 **AIRPLANES. TV'S. PENICILIN. NUCLEAR ENERGY. COMPUTERS & SEMICONDUCTORS. ROCKETSHIPS & MOON LANDERS. THE INTERNET.**
 
@@ -40,7 +40,11 @@ America will treat us as equals when Russia respects our borders.
 
 **WHEN WE RESPECT OUR OWN BORDERS.**
 
-I think the time is coming for Europe to reform. We’re a big continent, rich and populous. We have beautiful historic cities and stunning nature like my Portugal’s coastline. We have millions of creative people, and many brilliant inventors, and we actually get along pretty well among ourselves. (Even the rowdy Spanish and French, who love to fight, prefer brotherly infighting).
+The U.S. is also a flashpoint of rethoric and bulshit. The entire woke culture and the MAGA act were built on 100 character memes. Words are essy.
+
+But when the time comes, the U.S. has real tools, like the most advanced economy in the world, which is a magnet for talent and more innovation, and the mightiest military.
+
+I think the time is coming for Europe to reform. It's a bit late, but we cam do it. We’re a big continent, rich and populous. We have beautiful historic cities and stunning nature like my Portugal’s coastline. We have millions of creative people, and many brilliant inventors, and we actually get along pretty well among ourselves. (Even the rowdy Spanish and French, who love to fight, prefer brotherly infighting to picking fights with other EU countries).
 
 We have to turn Europe into what it could be and drop the act. We can't play the surprised, hurt spouse. This has been a long time coming.
 
