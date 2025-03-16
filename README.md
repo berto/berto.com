@@ -1,6 +1,10 @@
 <br/>
 
-_You came to the wrong place_.
+> Man goes to the doctor, says he’s depressed. Life is harsh and cruel. Feels all alone in a threatening world.
+>
+> Doctor says, “Treatment is simple. The great clown Pagliacci is in town. Go see him — he will make you laugh and feel better.”
+>
+> The man bursts into tears. “But doctor,” he says, “I am Pagliacci.”
 
 <br/>
 <br/>
