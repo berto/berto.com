@@ -15,6 +15,7 @@ Projects.
 - [Portotype](https://portotype.com). Small investments and ideas.
 
 Writing.
+- [Tyler Durden](/tyler-durden/index.md) 🆕
 - [Contracts](/contracts/index.md) 🆕
 - [The Nuclear Sub](/the-nuclear-submarine/index.md)
 - [The Cough](/the-cough/index.md)
