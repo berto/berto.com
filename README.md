@@ -1,4 +1,3 @@
-<br/>
 
 > Man goes to the doctor, says he’s depressed. Life is harsh and cruel. Feels all alone in a threatening world.
 >
@@ -21,6 +20,7 @@ Writing.
 - [Disney](/disney) 
 - [The Portuguese Revolution of 1974](/1974-04-25)
 - [Once cell to rule them all (spreadsheets)](docs/2014-12-21-one-cell-to-rule-them-all.md).
+
 
 Links.
 - [My business Rows.com](https://rows.com) and [my angel investments](https://portotype.com).
