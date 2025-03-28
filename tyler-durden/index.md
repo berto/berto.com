@@ -29,6 +29,6 @@ Just like in the movie, sleep is expensive and the bruises are terrible. And tha
 > Naturally, you're still wrestling with it. So, sometimes you're still you. Other times you imagine yourself watching me.  
 > Little by little, you're just letting yourself become .. Tyler Durden.
 
--
+--
 
 (or maybe not, maybe we're just nerds).
