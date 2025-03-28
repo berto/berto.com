@@ -9,10 +9,6 @@
 <br/>
 <br/>
 
-Projects.
-
-- [Rows.com](https://rows.com), *the* spreadsheet. [Original vision](docs/2014-12-21-one-cell-to-rule-them-all.md).
-- [Portotype](https://portotype.com). Small investments and ideas.
 
 Writing.
 - [Tyler Durden](/tyler-durden/index.md) 🆕
@@ -24,11 +20,10 @@ Writing.
 - [Case Logic](/caselogic/index.md)
 - [Disney](/disney) 
 - [The Portuguese Revolution of 1974](/1974-04-25)
-
-
+- [Once cell to rule them all (spreadsheets)](docs/2014-12-21-one-cell-to-rule-them-all.md).
 
 Links.
-
+- [My business Rows.com](https://rows.com) and [my angel investments](https://portotype.com).
 - [Library](library/library.html) and [news sources](about/news-sources.md)
 - [Map of Porto](/porto/) with annotations (PT)
 - [Portuguese food](/portuguese-food/) and [family recipes](/family-recipes/) (PT)
