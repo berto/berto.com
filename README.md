@@ -23,13 +23,10 @@ Writing.
 
 
 Links.
-- [My business Rows.com](https://rows.com) and [my angel investments](https://portotype.com).
+- [My business Rows.com](https://rows.com) and [my angel investments](https://portotype.com)
 - [Library](library/library.html) and [news sources](about/news-sources.md)
-- [Map of Porto](/porto/) with annotations (PT)
-- [Portuguese food](/portuguese-food/) and [family recipes](/family-recipes/) (PT)
+- [Map of Porto](/porto/), [Portuguese food](/portuguese-food/) and [family recipes](/family-recipes/) (PT)
 - [Decode Portugal](https://decodeportugal.com). Doing business in Portugal.
-- [Gadgets](docs/crush-index.html)
-- [Predictions & wants](docs/predictions-and-wants.md)
-- [Plastic Life](https://plasticlife.puter.site/)
+- [Some Predictions](docs/predictions-and-wants.md)
 - [About](about/about.md)
 
