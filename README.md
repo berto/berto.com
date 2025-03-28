@@ -1,7 +1,9 @@
 
 > A man goes to the doctor, Says he’s depressed. Life is harsh and cruel. Feels all alone in a threatening world.  
 >
-> Doctor says, “Treatment is simple. The great clown Pagliacci is in town. Go see him — he will make you laugh and feel better.” The man bursts into tears. “But doctor,” he says, “I am Pagliacci.”  
+> Doctor says “Treatment is simple. The great clown Pagliacci is in town. Go see him — he will make you laugh and feel better.”
+>
+> The man bursts into tears. “But doctor,” he says, “I am Pagliacci.”  
 
 <br/>
 <br/>
