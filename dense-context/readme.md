@@ -27,11 +27,11 @@ This was done on March 31st 2025. Models will become more advanced.
 
 This is what it will look like in ChatGPT.
 
-![image](/chatgpt.jpeg)
+![image](chatgpt.jpeg)
 
 This is what a good result looks like.
 
-![image](/result.png)  
+![image](result.png)  
 
 
 </details>
