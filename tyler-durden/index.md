@@ -10,9 +10,9 @@ The 1999 movie Fight Club has two main characters. One is the Narrator and is pl
 
 At the end, the Narrator discovers that Tyler Durden is himself on steroids.
 
-Throughout the movie, we see that his Narrator-half dresses like a plain, average dude. He doesn't have brilliant ideas, and when he fights he gets hit more often than not. He is frail. 
+We didn't see it coming. Throughout the movie, the Narrator-half dresses like a plain, average dude. He doesn't have brilliant ideas, and when he fights he gets hit more often than not. He is frail. 
 
-Yet in the real world he was also Tyler, the one who calls the shots, the leader people followed, and the one who got in on all the action (including sex).
+Tyler, on the other hand, was a guy who calls the shots, the leader people followed, and the one who got in on all the action (including sex).
 
 > I look like you want to look, I fuck like you want to fuck.  
 > I am smart, capable, and most importantly, I am free in the all the ways that you are not.  
