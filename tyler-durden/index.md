@@ -2,7 +2,7 @@
 
 (Contains spoilers of the movie Fight Club).
  
-The 1999 movie Fight Club has two main characters. One is the Narrator and is played by Ed Norton. The other is called Tyler Durden and he's played by Brad Pitt. Tyler is a larger than life character who joins the Narrator as an equal partner in his search to escape a dreadful life. Slowly, they build a cult following of misfits who want a better life for themselves, and finally they convince themselves they can create a better society. 
+The 1999 movie Fight Club has two main characters. One is the Narrator and is played by Ed Norton. The other is called Tyler Durden and he's played by Brad Pitt. Tyler is a larger than life character who joins the Narrator as an equal partner in his search to escape a dreadful existence. Slowly, they build a cult following of misfits who want a better life for themselves, and finally they convince themselves they can create a better society. 
 
 > You were looking for a way to change your life.  
 > You could not do this on your own.  
