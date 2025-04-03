@@ -8,17 +8,23 @@ Before you get to the How, a word if I may.
 
 The point of my post is to make people laugh, and I did it because why not. And we all did laugh a bunch. 
 
-Why did it succeed? What people tell me they liked the most is the little accessories that each character has. Those details make the persons impossibly real even though they look like toys. No matter how you see those politicians, innocent, guilty, a misunderstood genius or a dumb ass, you want to look at them all. All get roughly the same treatment, in about the same space. The memes evoque reality, or that side of reality that we know is there, that has to be considered among other things.
+But whyy did it succeed? What people tell me they liked the most is the little accessories that each character has. Those details make the persons impossibly real even though they look like toys. We are compelled to look at all of them, no matter if we think those politiciansa are innocent, guilty, misunderstood geniuses or dumb asses. All get roughly the same treatment, in about the same space. The memes evoque reality, or that side of reality that we know is there, that we want to consider among the flurry of traits, promises and credentials.
 
-The internet has opened an era of overabundance of information. Most of what is written is bullshit, but that isn't new. Even before there were computers, crap was the filling material of most of the serious newspapers and books that serious-looking people published. Among all the cow dung, a couple of fresh ideas.
+The internet has opened an era of overabundance of information. 
+
+Most of what is written is bullshit, but that isn't new. Even before there were computers, crap was the filling material of most of the serious newspapers and books that serious-looking people published. Among all the cow dung, a couple of fresh ideas.
 
 AI will only explode the amount of content available.
 
-A way to cut through the noise is to condense information. It's only natural that readers need shorter material to be able to process so many news, so much art, so much entertainment. Texts (sms), GIFs, emojis, (video) shorts and memes are quite evolved ways of sharing thoughts and emotions that would take much longer to communicate in other forms. But this isn't new, or exclusive to the technology that irritates the ludites and intelectuals. The world has been on a journey of helping humans transmit information in a dense way for a long time, certainly much longer than the internet. Cave men would sum up their hunting achievements in a cave painting. On the same space we can now tell multiple stories with detail to spare. And a single emoji can tell someone to go f themselves. 
+A way to cut through the noise is to compress information. It's only natural that readers value shorter material that they are able to process. There's only so many hours in the day for all the news, art, and entertainment. Texts (sms), GIFs, emojis, video shorts and memes are actually quite evolved ways of sharing thoughts and emotions. It would take us much longer to communicate in other forms. But this isn't new, or exclusive to the technology that presently irritates the ludites and intelectuals. The world has been on a journey of helping humans transmit information in a dense way for a long time, certainly much longer than the internet. Cave men would sum up their hunting achievements in a cave painting. On the same space we can now tell multiple stories, with detail to spare. 
 
-So, the problem isn't the size of the messages, or that they make people laugh. The problem of readers in 2025 is the same problem of readers in 1925 — how to find the good stuff to read. Every day I will read a bit of long books [[2](/marcel-proust-in-search-of-lost-time/)], and I will also try to find more good stuff online. I have to search hard and choose well.
+A single emoji can tell someone to go f themselves. Two of them can make it ironical. Three emojis may start a revolution.
 
 The fact that modern short communication gets abused only tells me that its usefulness to the population at large. The speaker wants to communicate more, the listener doesn't want pointless crap. It's good that we are communicating efficiently.
+
+So, I think, the real problem isn't the size of the messages, or that they make people laugh. The problem of readers in 2025 is the same problem of readers in 1925 — how to find the good stuff to read. Every day I will read a bit of a long book [[2](/marcel-proust-in-search-of-lost-time/)], and I will also try to find more good stuff online. I have to search hard and choose well.
+
+AI can help us generate zipped messages. That's mostly good. 
 
 Memes are good.
 
