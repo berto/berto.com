@@ -22,9 +22,13 @@ The fact that modern short communication gets abused only tells me that its usef
 
 Memes are good.
 
+<details><summary>All the generated images.</summary>
 
+ ![image](2025-03-30-Portugal-Elections-2025-and-extras.png)
+  
+</details>
 
-<details><summary>Full Instructions!</summary>
+<details><summary>Do it yourself instructions.</summary>
 
 This was done on March 31st 2025. Models will become more advanced. 
 
