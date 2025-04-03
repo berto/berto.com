@@ -10,6 +10,7 @@
 
 
 Writing.
+- [Memes](/memes) 🆕
 - [Tyler Durden](/tyler-durden/index.md) 🆕
 - [Contracts](/contracts/index.md) 🆕
 - [The Nuclear Sub](/the-nuclear-submarine/index.md)
