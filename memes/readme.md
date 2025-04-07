@@ -18,7 +18,9 @@ AI will only explode the amount of content available.
 
 A way to cut through the noise is to compress information. It's only natural that readers value shorter material that they are able to process. There's only so many hours in the day for all the news, art, and entertainment. Texts (sms), GIFs, emojis, video shorts and memes are actually quite evolved ways of sharing thoughts and emotions. It would take us much longer to communicate in other forms. But this isn't new, or exclusive to the technology that presently irritates the ludites and intelectuals. The world has been on a journey of helping humans transmit information in a dense way for a long time, certainly much longer than the internet. Cave men would sum up their hunting achievements in a cave painting. On the same space we can now tell multiple stories, with detail to spare. 
 
-A single emoji can tell someone to go f themselves. Two of them can make it ironical. Three emojis may start a revolution.
+A single emoji with a particular finger can tell someone to go f themselves. Two of them can make it ironical. Three emojis may start a revolution. 
+
+Some of the visual communication methonds like emojis and memes are even more authentic than the long form of written text. Several human emotions are evoked instantaneously through reactions, think of shame or deja-vu. Using visual cues to make your audience feel them is perhaps more appropriate. Again, the middle finger emoji is closer to the real middle finger than a description of the act and other ways of telling people off.
 
 The fact that modern short communication gets abused only tells me that its usefulness to the population at large. The speaker wants to communicate more, the listener doesn't want pointless crap. It's good that we are communicating efficiently.
 
