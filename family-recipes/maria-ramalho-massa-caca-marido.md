@@ -8,7 +8,7 @@ tomate comum sem grainhas. Quantidades: 1 coração de boi grande por cada duas 
 - Sal a gosto
 - Azeite
 - E sumo de meio limão por cada duas pessoas
-- Massa Linguini 85gr por pessoa. Idealmemente Barilla Navette nr 13.
+- Massa Linguini 85gr por pessoa. Idealmemente Barilla Bavette nr 13.
 
 Receita:
 1. Por água a ferver. Quando começar a ferver juntar o sal e de seguida a massa, deixar cozer o tempo sugerido
