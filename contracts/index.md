@@ -88,7 +88,7 @@ Our first reaction to our current situation was to do what Europe does best, doc
 
 No one is stepping up and taking responsibility. Everything is outsourced. Blame and Solutions. 
 
-"It’s Putin's fault". "Trump's fault". "COVID’s fault". All we know is that suddentlh "we have to do it". This isn't good.
+"It’s Putin's fault". "Trump's fault". "COVID’s fault". All we know is that suddently "we have to do it" and there's no time to discuss it. This isn't good.
 
 **ANOTHER PIECE OF PAPER.**
 
