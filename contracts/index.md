@@ -80,15 +80,15 @@ If Portugal wants to be more competitive, we should fix our insane maze of burea
 
 In short: fix problems first, iterate, and only later scale those solutions across Europe. The culture of results always beats trying to come up with the “best idea” at the top and forcing it down people’s throats.
 
-The solutions being thrown around revolve around new agreements, and in my view they are actually a bit worse than a distraction by overconfidence in contracts. The way I see it, there isn’t even a democratic mandate for Europe to keep signing away national responsibilities. The quiet federalization we’re seeing is, frankly, embarrassing. Especially for those of us (like me) who actually believe in a more united Europe.
+The solutions being thrown around revolve around new agreements, and in my view they are actually a bit worse than a distraction by overconfidence in contracts. The way I see it, there isn’t even a democratic mandate for Europe to keep signing away national responsibilities. Each new contract, mew agreement, each new binding law, is another quiet step towards federalization. And it is, frankly, embarrassing. I actually believe in a more united Europe, as many do. but not like this.
 
 It is tricky.
 
-Our first reaction to our current situation was to do what Europe does best, documents. We called in the former European Central Bank (ECB) governor Mario Draghi and tasked him to write a report. He concluded we need more competitiveness and and boom, now we will have a new way to register companies (EU Inc regime), plus a whole bunch of new things. The Americans are telling us to increase military spending or they’ll pull support? Guess we’d better start thinking about an Army. But no one voted for a European Army. No one voted for a new way to register businesses, no matter how good it is. These things weren’t even clear election issues in any country. 
+Our first reaction to our current situation was to do what Europe does best, documents. We called in the former European Central Bank (ECB) governor Mario Draghi and tasked him to write a report. He concluded we need more competitiveness and and boom, now we will have a new way to register companies (EU Inc regime), plus a whole bunch of new things. The Americans are telling us to increase military spending or they’ll pull support? Guess we’d better start thinking about an Army. But no one voted for a European Army. No one voted for a new way to register businesses, no matter how good it is. These things weren’t even clear election issues in any country or EU Elections. 
 
 No one is stepping up and taking responsibility. Everything is outsourced. Blame and Solutions. 
 
-"It’s Putin's fault". "Trump's fault". "COVID’s fault". This isn't good.
+"It’s Putin's fault". "Trump's fault". "COVID’s fault". All we know is that suddentlh "we have to do it". This isn't good.
 
 **ANOTHER PIECE OF PAPER.**
 
@@ -96,10 +96,10 @@ Time to recap.
 
 At the moment, Europe is in panic mode because of external events around us. We're scrambling to shore up our strengths.
 
-But what goes on inside Europe is more important. I suspect that a lot of Europeans don’t feel respected in Europe. We live comfortable lives, but we have little agency. Ordinary people and businesses don’t matter much to those in power. This feels like so many people in their failed marriages and companies. The original contract of a liberal democracy is breaking down because we don't see the investment into our problems.
+But what goes on inside Europe is more important. I suspect that a lot of Europeans don’t feel respected in Europe. We live comfortable lives, but we have little agency. Ordinary people and businesses don’t matter much to those in power. The original contract of a liberal democracy is breaking down because we don't see the investment into our problems.
 
 Future European leaders better learn that it's no use whining about the Americans, who are fighting their own internal battle over values, led by an egomaniac. 
 
 Contracts and agreements are part of life, but they don’t make things happen. So f*** contracts. 
 
-We must believe in ourselves and make things happen. We must fulfill the relationships between citizens and each EU government first, then live up to the neighbors next door, the EU countries and other European states. And thwn we can join our US partners in strength.
+We must believe in ourselves and make things happen. First we must fulfill the relationship between citizens and each EU government, then live up to the neighbor status of the next Country, and then as a collection kf all the EU countries. And thwn we can join our US partners in strength.
