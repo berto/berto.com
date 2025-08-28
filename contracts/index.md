@@ -8,11 +8,11 @@ This time it was because the Americans had the nerve to admit that NATO isn’t 
 
 **THEY’RE GOING TO DROP THE MOST IMPORTANT AGREEMENT OF THE 20TH CENTURY.**
 
-Only in Europe people treat agreements and notary scts like they are sacred. Let’s not forget we once said the same about the European Union, that it was “the greatest invention of the 20th century”.
+Only in Europe people treat agreements and notary acts like they are sacred. Let’s not forget we once said the same about the European Union, that it was “the greatest invention of the 20th century”.
 
-A contract is great, sure. The EU and NATO are among the best agreements ever made. Words matter. But practice always matters more. Everyday benefits. Relying on a piece of paper is a risky business, especially when that piece of paper turned 75 last year. There are plenty of things more important.
+A contract is great, sure. The EU and NATO are among the best agreements ever made. Words matter. But practice always matters more. The best agreement will always be worse than the best challenge achieved. And the 2nd best. And the 3rd, 4th.. Relying on a piece of paper is a risky business, especially when that piece of paper turned 75 last year. There are plenty of things more important.
 
-**AIRPLANES. TV'S. PENICILIN. NUCLEAR ENERGY. COMPUTERS & SEMICONDUCTORS. ROCKETSHIPS & MOON LANDERS. THE INTERNET.**
+**AIRPLANES. TVS. PENICILIN. NUCLEAR ENERGY. COMPUTERS & SEMICONDUCTORS. ROCKETSHIPS & LANDING ON THE MOON. WINNING WW2. THE INTERNET.**
 
 Europe is wrong.
 
@@ -22,17 +22,17 @@ For example, it’s ridiculous to expect a marriage to survive just because you 
 
 The same goes for startups. Yes, founders and investors do sign an agreement, but all those pages and signatures and lawyer discussions get quickly filed and stored somewhere. It’s the daily grind, the commitmen and the wins that generate the trust to move the company forward. Cracking a good joke helps too. 
 
-I think the same happens woth Countries. NATO and Europe are great things, but they must be lived and defended by those who profess such paper love for them.
+I think the same happens with Countries. NATO and Europe are great things, but they must be lived and defended by those who profess such paper love for them.
 
 **FOR BETTER FOR WORSE, FOR RICHER FOR POORER, IN SICKNESS AND IN HEALTH, TILL DEATH DO US PART.**
 
-We have ample evidence that contracts aren't super strong. At the very least they are wesker than practice.
+We have ample evidence that contracts aren't super strong. At the very least they are weaker than practice.
 
 This text isn't the right place to detail the varied treacheries, betrayals, back stabbings and general egotistic actions people do on their personal lives that go against the spirit and of their written marital agreements.
 
-On the professional front, I have seen shareholders agreements be nullified or written over. A few times it was because people just ignored the contracts altogether. Most of the time it was because the power balance changed, either because management wasnt doing too well, or because they were doing extremely well, and so the stronger party asserted themselves. They wanted more, and the existing contract is just a blocker to be overcome.
+On the professional front, I have seen shareholders agreements be nullified or written over in practice. A few times it was because people just ignored the contracts altogether. Most of the time it was because the power balance changed, either because management wasnt doing too well, or because they were doing extremely well, and so the stronger party asserted themselves. They wanted more, and the existing contract is just a blocker to be overcome. A new contract gets written to legalize the change of power, people lick their wounds, and everyone lives to see another day.
 
-It isn't always the case, but expect that a strong party will do somethijg woth leverage.
+It isn't always the case, but expect that a strong party will always do something with their leverage if they have it.
 
 **I AM ALTERING THE DEAL, PRAY I DON'T ALTER IT ANY FURTHER.**
 
