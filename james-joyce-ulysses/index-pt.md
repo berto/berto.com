@@ -12,6 +12,9 @@ Livro 2
 - Episódio 5: O Mr. Bloom está a fazer horas para o funeral. Vai ao correio onde tem uma carta da amante, e depois rebarba-se com uma moça na rua. Passa na igreja e compra um sabonete para ir a banhos, bem precisa de se limpar.
 - Episódio 6: O Mr. Bloom vai para o funeral de carrugagem, com uns amigos e o pai do Stephen. Pensa se o cangalheiro tem sucesso com as mulheres dado o seu trabalho. Vê um homem com um casaco impermeável e acha notável.
 - Episódio 7: o Mr. Bloom tenta escreve um anúncio, mas não consegue.
+- Episódio 8: O Bloom anda pela cidade a pensar em comida, sexo e política. Almoça num tasco sozinho e vê como os outros comem como selvagens. 
+- Episódio 9: Voltamos ao Stephen. Está na biblioteca com Buck a pregar a teoria que o Hamlet de Shakespeare é sobre a vida conjugal do seu pai e a do Shakespeare.
+
 
 ### Resumo Médio
 
@@ -20,7 +23,6 @@ Livro 2
 É de manhã. Três homens estão recém acordados numa torre em frente ao mar, que é a sua casa. Malachi “Buck” Mulligan é o líder, canta e provoca os outros. Faz a barba num ritual em que tem o acólito ao seu lado. Stephen Dedalus é o favorito do Buck e é bastante passivo. Ambos são irlandeses. O autor usa montes vernáculo do início de séc (1900), às vezes nem percebo se é um local, uma pessoa, um objeto. O Stephen parece ser crente e prático, o gordo do Buck goza com ele ser jesuíta, entre várias piadas religiosas, alusões a judeus e alemães, e chamá-lo de “Kinch” (a lâmina). Parece um ritual que já se repetiu. O Buck também persegue o Stephen com a morte da mãe dele, que ele a matou ao recusar-se a rezar com ela às portas da morte. E há o Haines, que para já não faz nada, um inglês que insinua que o Stephen é escritor ou quer ser. Chega a leiteira e tomam pequeno almoço, pão, chá, leite, e fritos. Há uma menção a bacon e ovos, e depois o Buck vai tomar banho ao mar todo contente a dizer piadas em verso. Nenhum dos três parece ter imenso dinheiro.
 
 </details>
-
 
 <details markdown=1><summary>2 - Professores são melancólicos e diretores são autoritários e antissemitas.</summary>
 
