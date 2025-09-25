@@ -12,7 +12,9 @@ Only in Europe people treat agreements and notary acts like they are sacred. Let
 
 A contract is great, sure. The EU and NATO are among the best agreements ever made. Words matter. But practice always matters more. The best agreement will always be worse than the best challenge achieved. And the 2nd best. And the 3rd, 4th.. Relying on a piece of paper is a risky business, especially when that piece of paper turned 75 last year. There are plenty of things more important.
 
-**AIRPLANES. TVS. PENICILIN. NUCLEAR ENERGY. COMPUTERS & SEMICONDUCTORS. ROCKETSHIPS & LANDING ON THE MOON. WINNING WW2. THE INTERNET.**
+The _greatest_ invention?
+
+**AIRPLANES. TVs. PENICILIN. NUCLEAR ENERGY. COMPUTERS & SEMICONDUCTORS. ROCKETSHIPS & LANDING ON THE MOON. THE INTERNET.**
 
 Europe is wrong.
 
@@ -20,23 +22,25 @@ In life and in business, my experience is that contracts are the least important
 
 For example, it’s ridiculous to expect a marriage to survive just because you signed a piece of paper and said some nice words a decade ago. Anyone who’s ever worn a wedding band knows that marriage has to be worked on every single day. With attention, mutual investment, and above all a big side of intimacy and humor.
 
-The same goes for startups. Yes, founders and investors do sign an agreement, but all those pages and signatures and lawyer discussions get quickly filed and stored somewhere. It’s the daily grind, the commitmen and the wins that generate the trust to move the company forward. Cracking a good joke helps too. 
+The same goes for startups. Yes, founders and investors do sign an agreement, but all those pages and signatures and lawyer discussions get quickly filed and stored somewhere. It’s the daily grind, the commitment and the wins that generate the trust to move forward. Cracking a good joke helps too. 
 
 I think the same happens with Countries. NATO and Europe are great things, but they must be lived and defended by those who profess such paper love for them.
 
 **FOR BETTER FOR WORSE, FOR RICHER FOR POORER, IN SICKNESS AND IN HEALTH, TILL DEATH DO US PART.**
 
+Love doesn't save a relationship, and promises are quickly forgotten.
+
 We have ample evidence that contracts aren't super strong. At the very least they are weaker than practice.
 
-This text isn't the right place to detail the varied treacheries, betrayals, back stabbings and general egotistic actions people do on their personal lives that go against the spirit and of their written marital agreements.
+This text isn't the right place to detail the varied treacheries, betrayals and egotistic back stabbings that people do on their personal lives.
 
-On the professional front, I have seen shareholders agreements be nullified or written over in practice. A few times it was because people just ignored the contracts altogether and no one cared to check. Most of the time it was because the power balance changed, either because management wasnt doing too well, or because they were doing extremely well, and so the stronger party asserted themselves. They wanted more, and the existing contract became just a blocker to be overcome. A new contract gets written to legalize the change of power, losers lick their wounds, and everyone lives to see another day.
+On the professional front, I have seen shareholders agreements be nullified in practice. A few times it was because people just ignored the contracts altogether and no one cared to check. Most of the time it was because the power balance changed, either because management wasnt doing too well, or because they were doing extremely well, and so the stronger party asserted themselves. This strong party wanted more, and the existing contract became just a blocker to be overcome. A new contract gets written to legalize the change of power, losers lick their wounds, and everyone lives to see another day.
 
-It isn't always the case, but expect that a strong party will always do something with their leverage if they have it.
+It isn't always the case, but long term it's pretty safe to expect that a strong party will always do something with their leverage if they have it. 
 
 **I AM ALTERING THE DEAL, PRAY I DON'T ALTER IT ANY FURTHER.**
 
-Contracts establish legal details, but that's not reality, no one lives permanently surrounded by judges and regulations only and isolated from everything else. No CEO that I know passes their time asking themselves "what is in my contract"? We're social beings, trying to make daily improvements. With a few exceptions, contracts govern just extreme events like the dissolution of a company or what happens when a CEO leaves or a sale. At the event horizon of a catastrophe, the gravity of The End becomes unavoidable and laws breakdown and everything becomes spaghetti. 
+Contracts establish legal details, but that's not reality, no one lives permanently surrounded by judges and regulations only and isolated from everything else. No CEO that I know passes their time asking themselves "what is in my contract"? We're social beings, trying to make daily improvements. With a few exceptions, contracts govern just extreme events like the dissolution of a company or what happens when a CEO leaves or a sale. But even then, in the event horizon of a catastrophe, the gravity of The End becomes unavoidable and - like physics - laws breakdown and everything becomes spaghetti. 
 
 I conclude that if I am in a contractual relationship that I like, that I should be taking any and every action that posivitely feeds it. For business and family, a meal, trip and sale are infinitely more important to my partners than the piece of paper that binds us. And if things go south, I know that a contract will only help contain the damage at best. 
 
