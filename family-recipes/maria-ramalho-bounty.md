@@ -1,5 +1,7 @@
 # Bounty
 
+Make your own [Bounty chocolate bars](https://en.wikipedia.org/wiki/Bounty_(chocolate_bar)) at home.
+
 Ingredients
 - 120g of coconut, grated/shredded and without added sugar.
 - 35g of coconut oil.
@@ -13,3 +15,6 @@ Instructions
 - meanwhile, melt the chocolate and keep it warm.
 - dip the coconut paste elements in the chocolate until they're well covered in chocolate.
 - let them dry out. I prefer them cold, so i'll let them rest in the fridge. But not needed.
+
+Nutrition
+- This recipe has 25% sugar content.
