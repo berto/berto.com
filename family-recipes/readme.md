@@ -9,7 +9,8 @@ Maria Ramalho
 - [Bolo de frutas de Berlim](maria-ramalho-bolo-de-frutas-de-berlim.md)
 - [O meu salame de Chocolate](maria-ramalho-o-meu-salame-de-chocolate.md)
 - [Tiramisu](maria-ramalho-tiramisu.md)
-- [Cheesecake de Mirtilos à Inglesa](maria-ramalho-cheesecake-ingles.md) 🆕
+- [Cheesecake de Mirtilos à Inglesa](maria-ramalho-cheesecake-ingles.md) 
+- [Bounty](maria-ramalho-bounty.md) 🆕
 
 Teresa Vaz
 - [Arroz de Míscaros](teresa-vaz-arroz-de-miscaros.md)
