@@ -32,5 +32,24 @@ There is another urban myth passed among lawyers.
 
 and lets not forget the bed of Procrustes
 
-> Procustes had a house beside the road in Attica. He invited passing travellers to stay the night and offered them a bed. But he had two beds of different lengths. If the traveller was too short for the bed, Procustes stretched him until he fit. If he was too tall, he cut off the excess. 
+> Procustes had a house beside the road in Attica. He invited passing travellers to stay the night and offered them a bed. But he had two beds of different lengths. If the traveller was too short for the bed, Procustes stretched him until he fit. If he was too tall, he cut off the excess.
 
+and The Appointment in Samarra
+
+> A servant sees Death in Baghdad, becomes terrified, borrows a horse and flees to Samarra. His master later confronts Death: “Why did you threaten my servant?” Death replies that it wasn’t a threat—he was merely surprised to see him in Baghdad, because he had an appointment with him that night in Samarra. 
+
+and Nasdesdin 
+
+> Nasreddin is searching beneath a streetlamp. Someone helps and asks where he lost his key. “Inside my house.” “Then why are you looking here?” “Because the light is better here.”
+
+I love The Sword of Damocles 
+
+> Damocles envies the power and luxury of his king. The king lets him sit on the throne and enjoy the banquet—then Damocles notices a sword hanging directly above his head, suspended by a single horsehair.
+
+and The Ship of Theseus
+
+> Replace one plank of a ship. Then another. Eventually every plank has been replaced. Is it still the same ship? And if someone takes all the discarded original planks and reconstructs another ship, which one is Theseus’s ship?
+
+the dog
+
+> A dog carries a piece of meat across a bridge. He looks down and sees his reflection. He thinks it’s another dog and opens his mouth to grab the other one. His own meat falls into the river.
