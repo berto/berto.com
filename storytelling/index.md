@@ -30,4 +30,7 @@ There is another urban myth passed among lawyers.
 >
 > "You are therefore NOT authorized to remove the window.".
 
+and lets not forget the bed of Procrustes
+
+> Procustes had a house beside the road in Attica. He invited passing travellers to stay the night and offered them a bed. But he had two beds of different lengths. If the traveller was too short for the bed, Procustes stretched him until he fit. If he was too tall, he cut off the excess. 
 
