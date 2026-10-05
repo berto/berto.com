@@ -26,7 +26,7 @@ Writing.
 Links.
 - [My business Rows.com](https://rows.com) and [my angel investments](https://portotype.com)
 - [Library](library/library.html) and [news sources](about/news-sources.md)
-- [Map of Porto](/porto/), [Portuguese food](/portuguese-food/) and [family recipes](/family-recipes/) (PT)
+- [Map of Porto](/porto/map/), [Porto patois](/porto/giria/), [Portuguese food](/portuguese-food/) and [family recipes](/family-recipes/) (PT)
 - [Decode Portugal](https://decodeportugal.com). Doing business in Portugal
 - [Some Predictions](docs/predictions-and-wants.md)
 - [About](about/about.md)
