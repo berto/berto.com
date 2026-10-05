@@ -2,7 +2,7 @@
 
 ![Mapa do Porto](2022-12-20-Porto.png)
 
-# Lista de lugares (A→Z)
+# Lista de lugares da gíria
 
 - Aliados: zona limitada pela Avenida dos Aliados, a norte pela Pr. do General Humberto Delgado e a sul pela Praça da Liberdade. A Pr. do General Humberto Delgado já foi no passado Pr. do Município e Pr. De Sidónio Pais.
 - Anémona: "She Changes", uma escultura situada na Pr. Cidade do Salvador, em Matosinhos.
